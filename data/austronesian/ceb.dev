@@ -1,0 +1,61 @@
+matulog	natulog	V;PRS
+matulog	matulog	V;NFIN
+matulog	nakatulog	V;PRF;PST
+matulog	natulog	V;PROG;PRS
+matulog	matulog	V;FUT
+matulog	natulog	V;PST
+makalimot	mokalimot	V;FUT
+makalimot	ningkalimot	V;PROG;PRS
+makalimot	nakalimot	V;PST
+makalimot	nagkalimot	V;PRS
+makalimot	nakalimot	V;PRF;PST
+makalimot	makalimot	V;NFIN
+maganahan	naganahan	V;PST
+maganahan	giganahan	V;PROG;PRS
+maganahan	giganahan	V;PRS
+maganahan	maganahan	V;NFIN
+maganahan	maganahan	V;FUT
+maganahan	naganahan	V;PRF;PST
+makabantay	nakabantay	V;PRS
+makabantay	nakabantay	V;PST
+makabantay	makabantay	V;FUT
+makabantay	nakabantay	V;PRF;PST
+makabantay	nakabantay	V;PROG;PRS
+makabantay	makabantay	V;NFIN
+mohimo	nakaya	V;PST
+mohimo	makaya	V;FUT
+mohimo	nakaya	V;PRF;PST
+mohimo	mohimo	V;NFIN
+mohimo	kaya	V;PROG;PRS
+mohimo	kaya	V;PRS
+mobuhat	mobuhat	V;FUT
+mobuhat	nagbuhat	V;PRS
+mobuhat	nabuhat	V;PRF;PST
+mobuhat	mobuhat	V;NFIN
+mobuhat	nibuhat	V;PST
+mobuhat	ningbuhat	V;PROG;PRS
+mahimo nga	nahimo nga	V;PRS
+mahimo nga	nihimo nga	V;PST
+mahimo nga	mahimo nga	V;NFIN
+mahimo nga	ninghimo nga	V;PROG;PRS
+mahimo nga	mahimo nga	V;FUT
+mahimo nga	nahimo nga	V;PRF;PST
+mahimo nga	nahimo nga	V;PST
+mobutang	nagbutang	V;PRS
+mobutang	mobutang	V;FUT
+mobutang	nibutang	V;PST
+mobutang	ningbutang	V;PROG;PRS
+mobutang	nabutang	V;PRF;PST
+mobutang	mobutang	V;NFIN
+masayod	nasayod	V;PRS
+masayod	masayod	V;FUT
+masayod	nasayod	V;PROG;PRS
+masayod	nasayran	V;PRF;PST
+masayod	nasayod	V;PST
+masayod	masayod	V;NFIN
+motrabaho	ningtrabaho	V;PROG;PRS
+motrabaho	nagtrabaho	V;PRS
+motrabaho	nitrabaho	V;PST
+motrabaho	natrabaho	V;PRF;PST
+motrabaho	motrabaho	V;FUT
+motrabaho	motrabaho	V;NFIN

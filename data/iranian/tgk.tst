@@ -1,0 +1,16 @@
+хонанда	хонанда	N;SG
+парранда	парранда	N;SG
+пул	пул	N;NDEF;SG
+август	август	N;NDEF;SG
+бол	бол	N;NDEF;SG
+саг	саг	N;NDEF;SG
+душман	душман	N;NDEF;SG
+тоҷик	тоҷик	N;SG
+тоҷик	тоҷикон	N;PL
+май	май	N;NDEF;SG
+зар	зар	N;NDEF;SG
+гул	гул	N;NDEF;SG
+модар	модар	N;NDEF;SG
+банда	банда	N;NDEF;SG
+футбол	футбол	N;NDEF;SG
+самъ	самъ	N;NDEF;SG

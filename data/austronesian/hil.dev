@@ -1,0 +1,130 @@
+pakita	nagpakita pa	V;PRF+PROG;PST
+pakita	magapakita na	V;PRF;FUT
+pakita	magapakita	V;FUT
+pakita	magapakita	V;PROG;FUT
+pakita	nagpakita na	V;PRF;PST
+pakita	nagpakita	V;PROG;PST
+pakita	magapakita pa	V;PRF+PROG;FUT
+pakita	nagapakita	V;PRS
+pakita	pakita	V;NFIN
+pakita	nagapakita na	V;PRF;PRS
+pakita	nagapakita	V;PROG;PRS
+pakita	nagpakita	V;PST
+pakita	nagapakita pa	V;PRF+PROG;PRS
+siling	nagsiling	V;PST
+siling	nagasiling na	V;PRF;PRS
+siling	magasiling pa	V;PRF+PROG;FUT
+siling	nagasiling	V;PROG;PRS
+siling	nagsiling pa	V;PRF+PROG;PST
+siling	nagsiling na	V;PRF;PST
+siling	nagsiling	V;PROG;PST
+siling	nagasiling pa	V;PRF+PROG;PRS
+siling	magasiling	V;PROG;FUT
+siling	siling	V;NFIN
+siling	nagasiling	V;PRS
+siling	magasiling na	V;PRF;FUT
+siling	magasiling	V;FUT
+kita	makita na	V;PRF;FUT
+kita	nakita	V;PROG;PST
+kita	makita pa	V;PRF+PROG;FUT
+kita	nakita na	V;PRF;PRS
+kita	nakita	V;PRS
+kita	makita	V;FUT
+kita	kita	V;NFIN
+kita	nakita	V;PROG;PRS
+kita	nakita pa	V;PRF+PROG;PRS
+kita	nakita pa	V;PRF+PROG;PST
+kita	nakita	V;PST
+kita	nakita na	V;PRF;PST
+kita	makita	V;PROG;FUT
+kadlaw	nagakadlaw pa	V;PRF+PROG;PRS
+kadlaw	nagkadlaw	V;PROG;PST
+kadlaw	nagakadlaw	V;PROG;PRS
+kadlaw	nagakadlaw	V;PRS
+kadlaw	nagakadlaw na	V;PRF;PRS
+kadlaw	nagkadlaw	V;PST
+kadlaw	kadlaw	V;NFIN
+kadlaw	magakadlaw	V;FUT
+kadlaw	magakadlaw na	V;PRF;FUT
+kadlaw	magakadlaw pa	V;PRF+PROG;FUT
+kadlaw	nagkadlaw na	V;PRF;PST
+kadlaw	magakadlaw	V;PROG;FUT
+kadlaw	nagkadlaw pa	V;PRF+PROG;PST
+bati/batian/pamatian	ginpamantian	V;PROG;PRS
+bati/batian/pamatian	ginpamatian pa	V;PRF+PROG;PRS
+bati/batian/pamatian	nabatian na	V;PRF;PRS
+bati/batian/pamatian	ginpamantian	V;PROG;PST
+bati/batian/pamatian	bati	V;NFIN
+bati/batian/pamatian	ginpamatian pa	V;PRF+PROG;PST
+bati/batian/pamatian	nabatian na	V;PRF;PST
+bati/batian/pamatian	pagapamatian	V;PROG;FUT
+bati/batian/pamatian	pagapamatian pa	V;PRF+PROG;FUT
+bati/batian/pamatian	nabatian	V;PST
+bati/batian/pamatian	pagapamatian	V;FUT
+bati/batian/pamatian	pagapamatian na	V;PRF;FUT
+bati/batian/pamatian	nabatian	V;PRS
+pamangkot	nagapamangkot pa	V;PRF+PROG;PRS
+pamangkot	nagpamangkot pa	V;PRF+PROG;PST
+pamangkot	nagpamangkot	V;PROG;PST
+pamangkot	magapamangkot	V;FUT
+pamangkot	nagpamangkot	V;PST
+pamangkot	pamangkot	V;NFIN
+pamangkot	magapamangkot na	V;PRF;FUT
+pamangkot	nagpamangkot na	V;PRF;PST
+pamangkot	nagapamangkot na	V;PRF;PRS
+pamangkot	magapamangkot	V;PROG;FUT
+pamangkot	nagapamangkot	V;PROG;PRS
+pamangkot	nagapamangkot	V;PRS
+pamangkot	magapamangkot pa	V;PRF+PROG;FUT
+balik	nagabalik	V;PRS
+balik	balik	V;NFIN
+balik	nagabalik	V;PROG;PRS
+balik	nagbalik	V;PROG;PST
+balik	magabalik na	V;PRF;FUT
+balik	nagbalik	V;PST
+balik	nagbalik pa	V;PRF+PROG;PST
+balik	magabalik pa	V;PRF+PROG;FUT
+balik	magabalik	V;FUT
+balik	nagabalik pa	V;PRF+PROG;PRS
+balik	magabalik	V;PROG;FUT
+balik	nagbalik na	V;PRF;PST
+balik	nagabalik na	V;PRF;PRS
+tabo/katabo	matabo na	V;PRF;FUT
+tabo/katabo	natabo	V;PST
+tabo/katabo	natabo pa	V;PRF+PROG;PST
+tabo/katabo	nagakatabo na	V;PRF;PRS
+tabo/katabo	natabo na	V;PRF;PST
+tabo/katabo	matabo	V;FUT
+tabo/katabo	nagakatabo	V;PRS
+tabo/katabo	matabo pa	V;PRF+PROG;FUT
+tabo/katabo	nagakatabo	V;PROG;PRS
+tabo/katabo	tabo	V;NFIN
+tabo/katabo	natabo	V;PROG;PST
+tabo/katabo	nagakatabo pa	V;PRF+PROG;PRS
+tabo/katabo	matabo	V;PROG;FUT
+kabuhi	nagakabuhi	V;PROG;PRS
+kabuhi	nagkabuhi	V;PROG;PST
+kabuhi	nagakabuhi	V;PRS
+kabuhi	nagkabuhi na	V;PRF;PST
+kabuhi	magakabuhi pa	V;PRF+PROG;FUT
+kabuhi	magakabuhi	V;PROG;FUT
+kabuhi	nagkabuhi pa	V;PRF+PROG;PST
+kabuhi	nagkabuhi	V;PST
+kabuhi	magakabuhi	V;FUT
+kabuhi	nagakabuhi na	V;PRF;PRS
+kabuhi	kabuhi	V;NFIN
+kabuhi	nagakabuhi pa	V;PRF+PROG;PRS
+kabuhi	magakabuhi na	V;PRF;FUT
+basa	magabasa pa	V;PRF+PROG;FUT
+basa	nagbasa na	V;PRF;PST
+basa	nagabasa	V;PRS
+basa	magabasa	V;FUT
+basa	nagbasa	V;PROG;PST
+basa	basa	V;NFIN
+basa	magabasa na	V;PRF;FUT
+basa	magabasa	V;PROG;FUT
+basa	nagabasa pa	V;PRF+PROG;PRS
+basa	nagbasa pa	V;PRF+PROG;PST
+basa	nagbasa	V;PST
+basa	nagabasa	V;PROG;PRS
+basa	nagabasa na	V;PRF;PRS
