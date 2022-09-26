@@ -3,7 +3,7 @@ import random
 import torch.nn as nn
 from torch import cat, einsum, zeros
 
-from utils import device, trgField
+from utils import device, srcField, trgField
 
 
 class Encoder(nn.Module):
@@ -92,6 +92,14 @@ class Seq2Seq(nn.Module):
         super(Seq2Seq, self).__init__()
         self.encoder = encoder
         self.decoder = decoder
+
+    @classmethod
+    def from_hyper_parameters(cls, encoder_embedding_size, decoder_embedding_size, hidden_size,
+                              num_layers, encoder_dropout, decoder_dropout):
+        return cls(Encoder(len(srcField.vocab), encoder_embedding_size, hidden_size,
+                           num_layers, encoder_dropout).to(device),
+                   Decoder(len(trgField.vocab), decoder_embedding_size, hidden_size,
+                           len(trgField.vocab), num_layers, decoder_dropout).to(device).to(device))
 
     def forward(self, source, target, teacher_force_ratio=0.5):
         batch_size = source.shape[1]

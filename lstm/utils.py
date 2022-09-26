@@ -63,7 +63,7 @@ def translate_sentence(model, sentence, german, english, device, max_length=50, 
         return translated_sentence[1:]
 
 
-def bleu(data, model, german, english, device):
+def evaluate_model(data, model, german, english, device):
     targets, outputs = [], []
 
     for example in data:
