@@ -44,7 +44,7 @@ def translate_sentence(model, sentence, german, english, device, max_length=50, 
         with torch.no_grad():
             output, hiddens, cells, attn = model.decoder(previous_word, outputs_encoder, hiddens, cells, return_attn=return_attn)
             best_guess = output.argmax(1).item()
-            if return_attn: attention_matrix[i] = torch.cat((attn.squeeze(), torch.zeros(max_length-attn.shape[0]).to(device)),dim=0)
+            if return_attn: attention_matrix[i] = torch.cat((attn.squeeze(), torch.zeros(max_length - attn.shape[0]).to(device)), dim=0)
 
         outputs.append(best_guess)
 
@@ -55,11 +55,12 @@ def translate_sentence(model, sentence, german, english, device, max_length=50, 
     translated_sentence = [english.vocab.itos[idx] for idx in outputs]
     # remove start token
     if return_attn:
-        return translated_sentence[1:], attention_matrix[:len(translated_sentence)+2, :len(sentence)+2]
+        return translated_sentence[1:], attention_matrix[:len(translated_sentence) + 2, :len(sentence) + 2]
     else:
         return translated_sentence[1:]
 
-def bleu(data, model, german, english, device, measure_str='bleu'): # measure_str can be either 'bleu' or 'ed'
+
+def bleu(data, model, german, english, device, measure_str='bleu'):  # measure_str can be either 'bleu' or 'ed'
     targets = []
     outputs = []
 
@@ -72,41 +73,45 @@ def bleu(data, model, german, english, device, measure_str='bleu'): # measure_st
 
         targets.append([trg])
         outputs.append(prediction)
-    if measure_str==bleu:
+    if measure_str == bleu:
         acc = "Undefined"
         res = bleu_score(outputs, targets)
     else:
         # Count also Accuracy. Ignore <eos>, obviously.
         targets = [t[0] for t in targets]
-        acc = np.array([a==b for a,b in zip(targets,outputs)]).mean()
+        acc = np.array([a == b for a, b in zip(targets, outputs)]).mean()
         res = np.mean([eval_edit_distance(t, o) for t, o in zip(targets, outputs)])
     return res, acc
+
 
 def save_checkpoint(state, filename="my_checkpoint.pth.tar"):
     print("=> Saving checkpoint")
     torch.save(state, filename)
+
 
 def load_checkpoint(checkpoint, model, optimizer, verbose=True):
     if verbose: print("=> Loading checkpoint")
     model.load_state_dict(checkpoint["state_dict"])
     optimizer.load_state_dict(checkpoint["optimizer"])
 
+
 def reinflection2sample(line, mode=REINFLECTION_STR):
     assert mode in {REINFLECTION_STR, INFLECTION_STR}
-    if mode==REINFLECTION_STR:
+    if mode == REINFLECTION_STR:
         # The line format is [src_feat, src_form, trg_feat, trg_form]
         src_feat, src_form, trg_feat, trg_form = line
         src_feat, trg_feat = src_feat.split(";"), trg_feat.split(";")
         src_form, trg_form = list(src_form), list(trg_form)
         src = ','.join(src_feat + ['+'] + src_form + ['+'] + trg_feat)
         trg = ','.join(trg_form)
-    else: # inflection mode
+    else:  # inflection mode
         lemma, form, feat = line
         feat = feat.split(";")
         lemma, form = list(lemma), list(form)
-        src = ','.join(lemma + ['$'] + feat) # Don't use '+' as it is part of some tags (see the file tags.yaml).
+        src = ','.join(lemma + ['$'] + feat)  # Don't use '+' as it is part of some tags (see the file tags.yaml).
         trg = ','.join(form)
     return src, trg
+
 
 def reinflection2TSV(file_name, dir_name="data", mode=REINFLECTION_STR):
     """
@@ -118,8 +123,8 @@ def reinflection2TSV(file_name, dir_name="data", mode=REINFLECTION_STR):
     :return: The two paths of the TSV files.
     """
     assert mode in {REINFLECTION_STR, INFLECTION_STR}
-    if mode==REINFLECTION_STR:
-        file_name = join(dir_name,file_name)
+    if mode == REINFLECTION_STR:
+        file_name = join(dir_name, file_name)
         new_fn = splitext(file_name)[0] + ".tsv"
 
         data = open(file_name, encoding='utf8').read().split('\n')
@@ -128,30 +133,31 @@ def reinflection2TSV(file_name, dir_name="data", mode=REINFLECTION_STR):
         examples = []
         for e in data:
             if e[0] == '': continue
-            src, trg = reinflection2sample(e, mode=mode) # the only modification for supporting Inflection as well.
+            src, trg = reinflection2sample(e, mode=mode)  # the only modification for supporting Inflection as well.
             examples.append(f"{src}\t{trg}")
 
         open(new_fn, mode='w', encoding='utf8').write('\n'.join(examples))
     else:
-        train_fn, test_fn = file_name[0], file_name[2] # file paths without parent-directories prefix
-        new_train_fn = join(dir_name, basename(train_fn)+".tsv") # use the paths without parent-directories prefixes
-        new_test_fn = join(dir_name, basename(test_fn)+".tsv")
+        train_fn, test_fn = file_name[0], file_name[2]  # file paths without parent-directories prefix
+        new_train_fn = join(dir_name, basename(train_fn) + ".tsv")  # use the paths without parent-directories prefixes
+        new_test_fn = join(dir_name, basename(test_fn) + ".tsv")
         if isfile(new_train_fn) and isfile(new_test_fn): return [new_train_fn, new_test_fn]
 
-        for file_name,new_fn in zip([train_fn, test_fn], [new_train_fn, new_test_fn]):
+        for file_name, new_fn in zip([train_fn, test_fn], [new_train_fn, new_test_fn]):
             data = open(file_name, encoding='utf8').read().split('\n')
             data = [line.split('\t') for line in data]
 
             examples = []
             for e in data:
                 if e[0] == '': continue
-                src, trg = reinflection2sample(e, mode=mode) # the only modification for supporting Inflection as well.
+                src, trg = reinflection2sample(e, mode=mode)  # the only modification for supporting Inflection as well.
                 examples.append(f"{src}\t{trg}")
 
             open(new_fn, mode='w', encoding='utf8').write('\n'.join(examples))
         new_fn = [new_train_fn, new_test_fn]
         # The result is a directory "data\\LEMMA_TSV_FORMAT" with 180 files of the format 'lang.{trn|tst}.tsv'
     return new_fn
+
 
 def get_langs_and_paths(data_dir=''):
     """
@@ -161,12 +167,13 @@ def get_langs_and_paths(data_dir=''):
     """
     train_dirs = ['DEVELOPMENT-LANGUAGES', 'SURPRISE-LANGUAGES']
     test_dir = 'GOLD-TEST'
-    train_dirs, test_dir = [join(data_dir,d) for d in train_dirs], join(data_dir,test_dir)
-    print(f"Requirements: this script must have the same path as the folders of SIGMORPHON (SURPRISE-LANG., GOLD-TEST, etc.). The data folder's name should be {data_dir}.\n")
+    train_dirs, test_dir = [join(data_dir, d) for d in train_dirs], join(data_dir, test_dir)
+    print(f"Requirements: this script must have the same path as the folders of SIGMORPHON"
+          f" (SURPRISE-LANG., GOLD-TEST, etc.). The data folder's name should be {data_dir}.\n")
 
     test_paths = listdir(test_dir)
     langs = [splitext(p)[0] for p in test_paths]
-    test_paths = {l:p for l,p in zip(langs, [join(test_dir, s) for s in test_paths])}
+    test_paths = {l: p for l, p in zip(langs, [join(test_dir, s) for s in test_paths])}
 
     dev_families = [f.path for f in scandir(train_dirs[0]) if f.is_dir()]
     surprise_families = [f.path for f in scandir(train_dirs[1]) if f.is_dir()]
@@ -175,16 +182,16 @@ def get_langs_and_paths(data_dir=''):
     surprise_families.sort()
 
     develop_paths, surprise_paths, test_no_gold_paths = {}, {}, {}
-    lang2family = {} # a dictionary that indicates the family of every language
-    for family in dev_families+surprise_families:
+    lang2family = {}  # a dictionary that indicates the family of every language
+    for family in dev_families + surprise_families:
         for file in listdir(family):
             lang, ext = splitext(file)
-            file = join(family,file)
-            if ext=='.trn':
+            file = join(family, file)
+            if ext == '.trn':
                 develop_paths[lang] = file
-            elif ext=='.dev':
+            elif ext == '.dev':
                 surprise_paths[lang] = file
-            elif ext=='.tst':
+            elif ext == '.tst':
                 test_no_gold_paths[lang] = file
             family_name = split(family)[1]
             if lang not in lang2family: lang2family[lang] = family_name
@@ -192,15 +199,16 @@ def get_langs_and_paths(data_dir=''):
     files_paths = {k: (develop_paths[k], surprise_paths[k], test_paths[k]) for k in langs}
     return langs, files_paths, lang2family
 
+
 def showAttention(input_sentence, output_words, attentions, fig_name="Attention Weights.png"):
     # Set up figure with colorbar
-    fig = plt.figure(figsize=(20,20))
+    fig = plt.figure(figsize=(20, 20))
     ax = fig.add_subplot(111)
     cax = ax.matshow(attentions.numpy(), cmap='bone')
     fig.colorbar(cax)
 
     # Set up axes
-    ax.set_xticklabels([''] + input_sentence + ['<eos>'])#, rotation=90)
+    ax.set_xticklabels([''] + input_sentence + ['<eos>'])  # , rotation=90)
     ax.set_yticklabels([''] + output_words)
 
     # Show label at every tick
