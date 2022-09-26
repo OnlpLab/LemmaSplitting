@@ -1,3 +1,4 @@
+# The code is partially inspired by https://github.com/aladdinpersson/Machine-Learning-Collection/tree/master/ML/Pytorch/more_advanced/Seq2Seq_attention
 from copy import deepcopy
 from os import listdir, scandir
 from os.path import basename, isfile, join, split, splitext
@@ -10,37 +11,15 @@ from torchtext.data.metrics import bleu_score
 from torchtext.legacy.data import Field
 
 
-REINFLECTION_STR = 'reinflection'
-INFLECTION_STR = 'inflection'
+INFLECTION_STR, REINFLECTION_STR = 'inflection', 'reinflection'
 
-# print("- Loading tokenizers")
-# spacy_eng = spacy.load('en_core_web_sm')
-# spacy_ger = spacy.load('de_core_news_sm')
-
-# def tokenize_ger(text):
-#     return [tok.text for tok in spacy_ger.tokenizer(text)]
-# def tokenize_eng(text):
-#     return [tok.text for tok in spacy_eng.tokenizer(text)]
-src_tokenizer = lambda x: x.split(',')
-trg_tokenizer = lambda x: x.split(',')
-
-# print("- Defining Field objects")
-# german = Field(tokenize=tokenize_ger, lower=True, init_token="<sos>", eos_token="<eos>")
-# english = Field(tokenize=tokenize_eng, lower=True, init_token="<sos>", eos_token="<eos>")
-srcField = Field(tokenize=src_tokenizer,init_token="<sos>",eos_token="<eos>")
-trgField = Field(tokenize=trg_tokenizer,init_token="<sos>",eos_token="<eos>")
+srcField = Field(tokenize=lambda x: x.split(','), init_token="<sos>", eos_token="<eos>")
+trgField = Field(tokenize=lambda x: x.split(','), init_token="<sos>", eos_token="<eos>")
 
 device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 
 
 def translate_sentence(model, sentence, german, english, device, max_length=50, return_attn=False):
-    # Load german tokenizer
-    # spacy_ger = spacy.load("de_core_news_sm")
-    # Create tokens using spacy and everything in lower case (which is what our vocab is)
-    # if type(sentence) == str:
-    #     tokens = [token.text.lower() for token in spacy_ger(sentence)]
-    # else:
-    #     tokens = [token.lower() for token in sentence]
     assert type(sentence) == list
     tokens = deepcopy(sentence)
 
@@ -100,7 +79,6 @@ def bleu(data, model, german, english, device, measure_str='bleu'): # measure_st
         # Count also Accuracy. Ignore <eos>, obviously.
         targets = [t[0] for t in targets]
         acc = np.array([a==b for a,b in zip(targets,outputs)]).mean()
-        # acc = (np.array(targets, dtype=object)==np.array(outputs, dtype=object)).sum()/len(data)
         res = np.mean([editDistance(t, o) for t,o in zip(targets, outputs)])
     return res, acc
 
@@ -156,22 +134,21 @@ def reinflection2sample(line, mode=REINFLECTION_STR):
         trg = ','.join(form)
     return src, trg
 
-def reinflection2TSV(fn, dir_name="data", mode=REINFLECTION_STR):
+def reinflection2TSV(file_name, dir_name="data", mode=REINFLECTION_STR):
     """
     Convert a file in the Reinflection format (src_feat\tsrc_form\ttrg_feat\ttrg_form) to a TSV file of the format
-    src\ttrg, each one consists of CSV strings. If mode=inflection, then count the data as SIGMORPHON format, and fn must be a tuple of 3 paths.
+    src\ttrg, each one consists of CSV strings. If mode=inflection, then count the data as SIGMORPHON format, and file_name must be a tuple of 3 paths.
     :param mode: can be either 'inflection' or 'reinflection'.
     :param dir_name:
-    :param fn: if mode=reinflection, then fn: str. else, fn:Tuple(str)
+    :param file_name: if mode=reinflection, then file_name: str. else, file_name:Tuple(str)
     :return: The two paths of the TSV files.
     """
     assert mode in {REINFLECTION_STR, INFLECTION_STR}
     if mode==REINFLECTION_STR:
-        fn = join(dir_name,fn)
-        fn_wo_ext = splitext(fn)[0]
-        new_fn = fn_wo_ext+".tsv"
+        file_name = join(dir_name,file_name)
+        new_fn = splitext(file_name)[0] + ".tsv"
 
-        data = open(fn, encoding='utf8').read().split('\n')
+        data = open(file_name, encoding='utf8').read().split('\n')
         data = [line.split('\t') for line in data]
 
         examples = []
@@ -182,13 +159,13 @@ def reinflection2TSV(fn, dir_name="data", mode=REINFLECTION_STR):
 
         open(new_fn, mode='w', encoding='utf8').write('\n'.join(examples))
     else:
-        train_fn, test_fn = fn[0], fn[2] # file paths without parent-directories prefix
+        train_fn, test_fn = file_name[0], file_name[2] # file paths without parent-directories prefix
         new_train_fn = join(dir_name, basename(train_fn)+".tsv") # use the paths without parent-directories prefixes
         new_test_fn = join(dir_name, basename(test_fn)+".tsv")
         if isfile(new_train_fn) and isfile(new_test_fn): return [new_train_fn, new_test_fn]
 
-        for fn,new_fn in zip([train_fn, test_fn], [new_train_fn, new_test_fn]):
-            data = open(fn, encoding='utf8').read().split('\n')
+        for file_name,new_fn in zip([train_fn, test_fn], [new_train_fn, new_test_fn]):
+            data = open(file_name, encoding='utf8').read().split('\n')
             data = [line.split('\t') for line in data]
 
             examples = []
@@ -220,14 +197,10 @@ def get_langs_and_paths(data_dir=''):
     dev_families = [f.path for f in scandir(train_dirs[0]) if f.is_dir()]
     surprise_families = [f.path for f in scandir(train_dirs[1]) if f.is_dir()]
 
-    # dev_families = [e.lower() for e in dev_families]
-    # surprise_families = [e.lower() for e in surprise_families]
     dev_families.sort()
     surprise_families.sort()
 
-    develop_paths = {}
-    surprise_paths = {}
-    test_no_gold_paths = {}
+    develop_paths, surprise_paths, test_no_gold_paths = {}, {}, {}
     lang2family = {} # a dictionary that indicates the family of every language
     for family in dev_families+surprise_families:
         for file in listdir(family):
@@ -242,7 +215,7 @@ def get_langs_and_paths(data_dir=''):
             family_name = split(family)[1]
             if lang not in lang2family: lang2family[lang] = family_name
 
-    files_paths = {k:(develop_paths[k],surprise_paths[k],test_paths[k]) for k in langs}
+    files_paths = {k: (develop_paths[k], surprise_paths[k], test_paths[k]) for k in langs}
     return langs, files_paths, lang2family
 
 def showAttention(input_sentence, output_words, attentions, fig_name="Attention Weights.png"):
