@@ -6,10 +6,10 @@ from os.path import basename, isfile, join, split, splitext
 import matplotlib.ticker as ticker
 import numpy as np
 import torch
+from editdistance import eval as eval_edit_distance
 from matplotlib import pyplot as plt
 from torchtext.data.metrics import bleu_score
 from torchtext.legacy.data import Field
-
 
 INFLECTION_STR, REINFLECTION_STR = 'inflection', 'reinflection'
 
@@ -79,34 +79,8 @@ def bleu(data, model, german, english, device, measure_str='bleu'): # measure_st
         # Count also Accuracy. Ignore <eos>, obviously.
         targets = [t[0] for t in targets]
         acc = np.array([a==b for a,b in zip(targets,outputs)]).mean()
-        res = np.mean([editDistance(t, o) for t,o in zip(targets, outputs)])
+        res = np.mean([eval_edit_distance(t, o) for t, o in zip(targets, outputs)])
     return res, acc
-
-def editDistDP(str1, str2, m, n):
-    dp = [[0 for x in range(n + 1)] for x in range(m + 1)] # Create a table to store results of subproblems
-    # Fill d[][] in bottom up manner
-    for i in range(m + 1):
-        for j in range(n + 1):
-            # If first string is empty, only option is to insert all characters of second string
-            if i == 0:
-                dp[i][j] = j  # Min. operations = j
-            # If second string is empty, only option is to remove all characters of second string
-            elif j == 0:
-                dp[i][j] = i  # Min. operations = i
-
-            # If last characters are same, ignore last char and recur for remaining string
-            elif str1[i - 1] == str2[j - 1]:
-                dp[i][j] = dp[i - 1][j - 1]
-
-            # If last character are different, consider all possibilities and find minimum
-            else:
-                dp[i][j] = 1 + min(dp[i][j - 1],  # Insert
-                                   dp[i - 1][j],  # Remove
-                                   dp[i - 1][j - 1])  # Replace
-    return dp[m][n]
-
-def editDistance(s1,s2):
-    return editDistDP(s1,s2,len(s1),len(s2))
 
 def save_checkpoint(state, filename="my_checkpoint.pth.tar"):
     print("=> Saving checkpoint")

@@ -175,7 +175,7 @@ for j, lang in enumerate(langs):
             src_print = ''.join(ex.src)
             trg_print = ''.join(ex.trg)
             pred_print = ''.join(translated_sent)
-            ed_print = utils.editDistance(trg_print, pred_print)
+            ed_print = utils.eval_edit_distance(trg_print, pred_print)
             print(f"{i+1}. input: {src_print} ; gold: {trg_print} ; pred: {pred_print} ; ED = {ed_print}")
         result, accuracy = bleu(test_data, model, srcField, trgField, device, measure_str=measure_str)
         writer.add_scalar("Test Accuracy", accuracy, global_step=epoch)
