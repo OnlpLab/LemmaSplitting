@@ -1,6 +1,6 @@
 # Lemma Split Data for Morphological Inflection
 
-Repo for the paper [(Un)solving Morphological Inflection: Lemma Overlap Artificially Inflates Models' Performance](https://arxiv.org/abs/2108.05682).
+Repo for the paper [(Un)solving Morphological Inflection: Lemma Overlap Artificially Inflates Models' Performance](https://aclanthology.org/2022.acl-short.96.pdf).
 
 ## Contents
 
