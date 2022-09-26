@@ -9,53 +9,50 @@ import os
 import pandas as pd
 
 import utils
-from utils import translate_sentence, bleu, save_checkpoint, load_checkpoint, get_langs_and_paths, save_run_results_figure
+from utils import translate_sentence, bleu, save_checkpoint, load_checkpoint, get_languages_and_paths,\
+    save_run_results_figure, print_and_log
 from torch.utils.tensorboard import SummaryWriter  # to print to tensorboard
 from torchtext.legacy.data import BucketIterator, TabularDataset
 from Network import Encoder, Decoder, Seq2Seq
 from utils import srcField, trgField, device, reinflection2TSV, INFLECTION_STR
 
-def concat_to_file(file_name, string):
-    with open(file_name, "a+", encoding='utf8') as f: f.write(string)
-
 total_timer = datetime.now()
 
-# The definition of tokenizers, Fields and device were moved to utils
-datafields = [("src", srcField), ("trg", trgField)]
-
 # Generate new datasets for Inflection:
-training_mode_90langs = 'FORM' # choose either 'FORM' or 'LEMMA'.
-data_dir = os.path.join('data',f'{training_mode_90langs}-SPLIT')
-tsv_dir = os.path.join('data',f'{training_mode_90langs}_TSV_FORMAT')
+training_mode = 'FORM' # choose either 'FORM' or 'LEMMA'.
+data_dir = os.path.join('data', f'{training_mode}-SPLIT')
+tsv_dir = os.path.join('data', f'{training_mode}_TSV_FORMAT')
 
-langs, files_paths, lang2family = get_langs_and_paths(data_dir=data_dir)
+languages, files_paths, language2family = get_languages_and_paths(data_dir=data_dir)
 
-if not os.path.exists(f'SIG20.{training_mode_90langs}'): os.mkdir(f'SIG20.{training_mode_90langs}')
+if not os.path.exists(f'SIG20.{training_mode}'): os.mkdir(f'SIG20.{training_mode}')
 if not os.path.exists(tsv_dir): os.mkdir(tsv_dir)
 
 results_df = pd.DataFrame(columns=["Family", "Language", "Accuracy", "ED"])
 
-langs1 = ['tgk', 'dje', 'mao', 'lin', 'xno', 'lud', 'zul', 'sot', 'vro', 'ceb', 'mlg', 'gmh', 'kon', 'gaa', 'izh', 'mwf', 'zpv', 'kjh', 'hil', 'gml', 'tel', 'vot', 'czn', 'ood', 'mlt', 'gsw',
+languages1 = ['tgk', 'dje', 'mao', 'lin', 'xno', 'lud', 'zul', 'sot', 'vro', 'ceb', 'mlg', 'gmh', 'kon', 'gaa', 'izh', 'mwf', 'zpv', 'kjh', 'hil', 'gml', 'tel', 'vot', 'czn', 'ood', 'mlt', 'gsw',
 'orm', 'tgl', 'sna', 'frr', 'syc', 'xty', 'ctp', 'dak', 'liv', 'aka', 'ben', 'nya', 'cly', 'swa', 'lug', 'bod', 'kan', 'kir', 'cre', 'pus', 'lld', 'ast', 'crh', 'cpa', 'uig', 'fur', 'evn',
 'aze', 'kaz', 'azg', 'urd', 'bak']
-langs2 = ['pei', 'nno', 'vec', 'nob', 'dan', 'tuk', 'otm', 'ote', 'san', 'glg', 'frm', 'uzb', 'fas', 'est']
-langs3 = ['ang', 'hin', 'nld', 'sme', 'olo', 'mdf', 'cat', 'isl', 'swe', 'kpv', 'mhr']
-langs4 = ['myv', 'krl', 'eng', 'udm', 'vep', 'fin', 'deu']
-all_langs = [langs1, langs2, langs3, langs4]
+languages2 = ['pei', 'nno', 'vec', 'nob', 'dan', 'tuk', 'otm', 'ote', 'san', 'glg', 'frm', 'uzb', 'fas', 'est']
+languages3 = ['ang', 'hin', 'nld', 'sme', 'olo', 'mdf', 'cat', 'isl', 'swe', 'kpv', 'mhr']
+languages4 = ['myv', 'krl', 'eng', 'udm', 'vep', 'fin', 'deu']
+all_languages = [languages1, languages2, languages3, languages4]
 choice = 1
-langs = all_langs[choice-1]
-log_file = os.path.join('SIG20', training_mode_90langs, f'log_file{choice}.txt')
+languages = all_languages[choice-1]
+log_file = os.path.join('SIG20', training_mode, f'log_file{choice}.txt')
 
-for j, lang in enumerate(langs):
-    lang_t0 = datetime.now()
-    starter_s = f"Starting to train a new model on Language={lang}, from Family={lang2family[lang]}, at {str(datetime.now())}\n"
-    concat_to_file(log_file, starter_s)
-    print(starter_s)
-    outputs_dir = os.path.join('SIG20', training_mode_90langs, lang)
-    if not os.path.exists(os.path.join('SIG20', training_mode_90langs)): os.mkdir(os.path.join('SIG20', training_mode_90langs))
+for j, language in enumerate(languages):
+    language_t0 = datetime.now()
+
+    print_and_log(log_file, f"Starting to train a new model on Language={language},"
+                            f" from Family={language2family[language]}, at {str(datetime.now())}\n")
+
+    outputs_dir = os.path.join('SIG20', training_mode, language)
+    if not os.path.exists(os.path.join('SIG20', training_mode)): os.mkdir(os.path.join('SIG20', training_mode))
     # Add here the datasets creation, using TabularIterator (add custom functions for that)
-    train_file, test_file = reinflection2TSV(files_paths[lang], dir_name=tsv_dir, mode=INFLECTION_STR)
-    train_data, test_data = TabularDataset.splits(path="", train=train_file, test=test_file, fields=datafields, format='tsv')
+    train_file, test_file = reinflection2TSV(files_paths[language], dir_name=tsv_dir, mode=INFLECTION_STR)
+    train_data, test_data = TabularDataset.splits(path="", train=train_file, test=test_file,
+                                                  fields=[("src", srcField), ("trg", trgField)], format='tsv')
 
     print("- Building vocabularies")
     srcField.build_vocab(train_data) # no limitation of max_size or min_freq is needed.
@@ -86,8 +83,7 @@ for j, lang in enumerate(langs):
     measure_str = 'Edit Distance'
     comment = f"epochs={num_epochs} lr={learning_rate} batch={batch_size} embed={encoder_embedding_size} hidden_size={hidden_size}"
 
-    print(f"Hyper-Params: {comment}")
-    concat_to_file(log_file, f"Hyper-Params: {comment}\n")
+    print_and_log(log_file, f"Hyper-Params: {comment}")
     print("- Defining a SummaryWriter object")
     # Tensorboard to get nice loss plot
     writer = SummaryWriter(os.path.join(outputs_dir,"runs"), comment=comment)
@@ -121,10 +117,9 @@ for j, lang in enumerate(langs):
     # examples_for_printing = random.sample(test_data.examples,k=10)
     # validation_sentences = test_data.examples[indices]
 
-    print("Let's begin training!\n")
-    concat_to_file(log_file, "Training...\n")
+    print_and_log(log_file, "Training...\n")
     for epoch in range(num_epochs):
-        print(f"[Epoch {epoch} / {num_epochs}]  (lang={lang})")
+        print(f"[Epoch {epoch} / {num_epochs}]  (language={language})")
 
         if save_model:
             checkpoint = {"state_dict": model.state_dict(), "optimizer": optimizer.state_dict(),}
@@ -189,23 +184,18 @@ for j, lang in enumerate(langs):
     # running on entire test data takes a while
     # score = bleu(test_data[1:100], model, srcField, trgField, device)
     result, accuracy = bleu(test_data, model, srcField, trgField, device)
-    lang_runtime = datetime.now() - lang_t0
-    output_s = f"Results for Language={lang} from Family={lang2family[lang]}: {measure_str} score on test set" \
-               f" is {result:.2f}. Average Accuracy is {accuracy:.2f}. Elapsed time is {lang_runtime}.\n\n"
-    concat_to_file(log_file, output_s)  # write to log file
-    print(output_s) # write to screen
-    results_df.loc[j] = [lang2family[lang], lang, np.round(accuracy,2), np.round(result,2)] # write to Excel file
+    language_runtime = datetime.now() - language_t0
+
+    print_and_log(log_file, f"Results for Language={language} from Family={language2family[language]}: "
+                            f"{measure_str} score on test set is {result:.2f}. Average Accuracy is "
+                            f"{accuracy:.2f}. Elapsed time is {language_runtime}.\n\n")
+    results_df.loc[j] = [language2family[language], language, np.round(accuracy,2), np.round(result,2)] # write to Excel file
 
     save_run_results_figure(os.path.join(outputs_dir, "Results.png"), eds, accs)
 
-tot_runtime_s = f'\nTotal runtime: {str(datetime.now() - total_timer)}\n'
-
-concat_to_file(log_file, tot_runtime_s)
-print(tot_runtime_s)
+print_and_log(log_file, f'\nTotal runtime: {str(datetime.now() - total_timer)}\n')
 
 accs, eds = results_df['Accuracy'], results_df['ED']
 avgAcc, avgED, medAcc, medED = np.mean(accs), np.mean(eds), np.median(accs), np.median(eds)
-final_stats_s = f"avgAcc={avgAcc:.2f}, avgED={avgED:.2f}, medAcc={medAcc:.2f}, medED={medED:.2f}\n"
-concat_to_file(log_file, final_stats_s)
-print(final_stats_s)
-results_df.to_excel(f"ResultsFile{len(langs)}Langs{choice}.{training_mode_90langs}.xlsx")
+print_and_log(log_file, f"avgAcc={avgAcc:.2f}, avgED={avgED:.2f}, medAcc={medAcc:.2f}, medED={medED:.2f}\n")
+results_df.to_excel(f"ResultsFile{len(languages)}Langs{choice}.{training_mode}.xlsx")

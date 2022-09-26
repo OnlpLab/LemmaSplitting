@@ -18,6 +18,10 @@ trgField = Field(tokenize=lambda x: x.split(','), init_token="<sos>", eos_token=
 device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 
 
+def print_and_log(log_file, string):
+    print(string)
+    open(log_file, 'a+', encoding='utf8').write(string + '\n')
+
 def translate_sentence(model, sentence, german, english, device, max_length=50, return_attn=False):
     assert type(sentence) == list
     tokens = deepcopy(sentence)
@@ -151,13 +155,13 @@ def reinflection2TSV(file_name, dir_name="data", mode=REINFLECTION_STR):
 
             open(new_fn, mode='w', encoding='utf8').write('\n'.join(examples))
         new_fn = [new_train_fn, new_test_fn]
-        # The result is a directory "data\\LEMMA_TSV_FORMAT" with 180 files of the format 'lang.{trn|tst}.tsv'
+        # The result is a directory "data\\LEMMA_TSV_FORMAT" with 180 files of the format 'language.{trn|tst}.tsv'
     return new_fn
 
 
-def get_langs_and_paths(data_dir=''):
+def get_languages_and_paths(data_dir=''):
     """
-    Return a list of the languages, and a dictionary of tuples: {lang: (train_path,dev_path,test_paht)}.
+    Return a list of the languages, and a dictionary of tuples: {language: (train_path,dev_path,test_paht)}.
     :param data_dir:
     :return:
     """
@@ -178,22 +182,22 @@ def get_langs_and_paths(data_dir=''):
     surprise_families.sort()
 
     develop_paths, surprise_paths, test_no_gold_paths = {}, {}, {}
-    lang2family = {}  # a dictionary that indicates the family of every language
+    language2family = {}
     for family in dev_families + surprise_families:
         for file in listdir(family):
-            lang, ext = splitext(file)
+            language, ext = splitext(file)
             file = join(family, file)
             if ext == '.trn':
-                develop_paths[lang] = file
+                develop_paths[language] = file
             elif ext == '.dev':
-                surprise_paths[lang] = file
+                surprise_paths[language] = file
             elif ext == '.tst':
-                test_no_gold_paths[lang] = file
+                test_no_gold_paths[language] = file
             family_name = split(family)[1]
-            if lang not in lang2family: lang2family[lang] = family_name
+            if language not in language2family: language2family[language] = family_name
 
     files_paths = {k: (develop_paths[k], surprise_paths[k], test_paths[k]) for k in langs}
-    return langs, files_paths, lang2family
+    return langs, files_paths, language2family
 
 
 def showAttention(input_sentence, output_words, attentions, fig_name="Attention Weights.png"):
