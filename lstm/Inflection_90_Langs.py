@@ -5,7 +5,8 @@ import numpy as np
 import torch
 import torch.nn as nn
 import torch.optim as optim
-import os
+from os import mkdir
+from os.path import join, exists
 import pandas as pd
 
 import utils
@@ -25,8 +26,8 @@ tsv_dir = os.path.join('data', f'{training_mode}_TSV_FORMAT')
 
 languages, files_paths, language2family = get_languages_and_paths(data_dir=data_dir)
 
-if not os.path.exists(f'SIG20.{training_mode}'): os.mkdir(f'SIG20.{training_mode}')
-if not os.path.exists(tsv_dir): os.mkdir(tsv_dir)
+if not exists(f'SIG20.{training_mode}'): mkdir(f'SIG20.{training_mode}')
+if not exists(tsv_dir): mkdir(tsv_dir)
 
 results_df = pd.DataFrame(columns=["Family", "Language", "Accuracy", "ED"])
 
@@ -39,7 +40,7 @@ languages4 = ['myv', 'krl', 'eng', 'udm', 'vep', 'fin', 'deu']
 all_languages = [languages1, languages2, languages3, languages4]
 choice = 1
 languages = all_languages[choice-1]
-log_file = os.path.join('SIG20', training_mode, f'log_file{choice}.txt')
+log_file = join('SIG20', training_mode, f'log_file{choice}.txt')
 
 for j, language in enumerate(languages):
     language_t0 = datetime.now()
@@ -47,8 +48,8 @@ for j, language in enumerate(languages):
     print_and_log(log_file, f"Starting to train a new model on Language={language},"
                             f" from Family={language2family[language]}, at {str(datetime.now())}\n")
 
-    outputs_dir = os.path.join('SIG20', training_mode, language)
-    if not os.path.exists(os.path.join('SIG20', training_mode)): os.mkdir(os.path.join('SIG20', training_mode))
+    outputs_dir = join('SIG20', training_mode, language)
+    if not exists(join('SIG20', training_mode)): mkdir(join('SIG20', training_mode))
     # Add here the datasets creation, using TabularIterator (add custom functions for that)
     train_file, test_file = reinflection2TSV(files_paths[language], dir_name=tsv_dir, mode=INFLECTION_STR)
     train_data, test_data = TabularDataset.splits(path="", train=train_file, test=test_file,
@@ -66,7 +67,7 @@ for j, language in enumerate(languages):
     save_model = True
 
     # Training hyperparameters
-    num_epochs = 50 # if choice in {1,2} else 10
+    num_epochs = 50
     learning_rate = 3e-4
     batch_size = 32
 
@@ -86,7 +87,7 @@ for j, language in enumerate(languages):
     print_and_log(log_file, f"Hyper-Params: {comment}")
     print("- Defining a SummaryWriter object")
     # Tensorboard to get nice loss plot
-    writer = SummaryWriter(os.path.join(outputs_dir,"runs"), comment=comment)
+    writer = SummaryWriter(join(outputs_dir,"runs"), comment=comment)
     step = 0
 
     print("- Generating BucketIterator objects")
@@ -109,7 +110,7 @@ for j, language in enumerate(languages):
     criterion = nn.CrossEntropyLoss(ignore_index=pad_idx)
 
     if load_model:
-        load_checkpoint(torch.load(os.path.join(outputs_dir,"my_checkpoint.pth.tar")), model, optimizer)
+        load_checkpoint(torch.load(join(outputs_dir,"my_checkpoint.pth.tar")), model, optimizer)
 
     random.seed(42)
     indices = random.sample(range(len(test_data)), k=10)
@@ -123,7 +124,7 @@ for j, language in enumerate(languages):
 
         if save_model:
             checkpoint = {"state_dict": model.state_dict(), "optimizer": optimizer.state_dict(),}
-            save_checkpoint(checkpoint, os.path.join(outputs_dir, "my_checkpoint.pth.tar"))
+            save_checkpoint(checkpoint, join(outputs_dir, "my_checkpoint.pth.tar"))
 
         model.train()
 
@@ -175,23 +176,23 @@ for j, language in enumerate(languages):
             ed_print = utils.eval_edit_distance(trg_print, pred_print)
             print(f"{i+1}. input: {src_print} ; gold: {trg_print} ; pred: {pred_print} ; ED = {ed_print}")
 
-        result, accuracy = bleu(test_data, model, srcField, trgField, device)
+        edit_distance, accuracy = bleu(test_data, model, srcField, trgField, device)
         writer.add_scalar("Test Accuracy", accuracy, global_step=epoch)
-        print(f"avgED = {result}; avgAcc = {accuracy}\n")
+        print(f"avgED = {edit_distance}; avgAcc = {accuracy}\n")
         accs.append(accuracy)
-        eds.append(result)
+        eds.append(edit_distance)
 
     # running on entire test data takes a while
     # score = bleu(test_data[1:100], model, srcField, trgField, device)
-    result, accuracy = bleu(test_data, model, srcField, trgField, device)
+    edit_distance, accuracy = bleu(test_data, model, srcField, trgField, device)
     language_runtime = datetime.now() - language_t0
 
     print_and_log(log_file, f"Results for Language={language} from Family={language2family[language]}: "
-                            f"{measure_str} score on test set is {result:.2f}. Average Accuracy is "
+                            f"Edit Distance score on test set is {edit_distance:.2f}. Average Accuracy is "
                             f"{accuracy:.2f}. Elapsed time is {language_runtime}.\n\n")
-    results_df.loc[j] = [language2family[language], language, np.round(accuracy,2), np.round(result,2)] # write to Excel file
+    results_df.loc[j] = [language2family[language], language, np.round(accuracy,2), np.round(edit_distance, 2)] # write to Excel file
 
-    save_run_results_figure(os.path.join(outputs_dir, "Results.png"), eds, accs)
+    save_run_results_figure(join(outputs_dir, "Results.png"), eds, accs)
 
 print_and_log(log_file, f'\nTotal runtime: {str(datetime.now() - total_timer)}\n')
 
