@@ -112,6 +112,18 @@ def reinflection2sample(line, mode=REINFLECTION_STR):
         trg = ','.join(form)
     return src, trg
 
+def convert_file_to_tsv(file_name, new_file_name, mode):
+    data = open(file_name, encoding='utf8').read().split('\n')
+    data = [line.split('\t') for line in data]
+
+    examples = []
+    for e in data:
+        if e[0] == '': continue
+        src, trg = reinflection2sample(e, mode=mode)
+        examples.append(f"{src}\t{trg}")
+
+    open(new_file_name, mode='w', encoding='utf8').write('\n'.join(examples))
+
 
 def reinflection2TSV(file_name, dir_name="data", mode=REINFLECTION_STR):
     """
@@ -123,37 +135,18 @@ def reinflection2TSV(file_name, dir_name="data", mode=REINFLECTION_STR):
     :return: The two paths of the TSV files.
     """
     assert mode in {REINFLECTION_STR, INFLECTION_STR}
+
     if mode == REINFLECTION_STR:
         file_name = join(dir_name, file_name)
-        new_fn = splitext(file_name)[0] + ".tsv"
-
-        data = open(file_name, encoding='utf8').read().split('\n')
-        data = [line.split('\t') for line in data]
-
-        examples = []
-        for e in data:
-            if e[0] == '': continue
-            src, trg = reinflection2sample(e, mode=mode)  # the only modification for supporting Inflection as well.
-            examples.append(f"{src}\t{trg}")
-
-        open(new_fn, mode='w', encoding='utf8').write('\n'.join(examples))
+        new_fn = f"{splitext(file_name)[0]}.tsv"
+        convert_file_to_tsv(file_name, new_fn, mode)
     else:
         train_fn, test_fn = file_name[0], file_name[2]  # file paths without parent-directories prefix
-        new_train_fn = join(dir_name, basename(train_fn) + ".tsv")  # use the paths without parent-directories prefixes
-        new_test_fn = join(dir_name, basename(test_fn) + ".tsv")
+        new_train_fn = join(dir_name, f"{basename(train_fn)}.tsv")  # use the paths without parent-directories prefixes
+        new_test_fn = join(dir_name, f"{basename(test_fn)}.tsv")
         if isfile(new_train_fn) and isfile(new_test_fn): return [new_train_fn, new_test_fn]
-
-        for file_name, new_fn in zip([train_fn, test_fn], [new_train_fn, new_test_fn]):
-            data = open(file_name, encoding='utf8').read().split('\n')
-            data = [line.split('\t') for line in data]
-
-            examples = []
-            for e in data:
-                if e[0] == '': continue
-                src, trg = reinflection2sample(e, mode=mode)  # the only modification for supporting Inflection as well.
-                examples.append(f"{src}\t{trg}")
-
-            open(new_fn, mode='w', encoding='utf8').write('\n'.join(examples))
+        convert_file_to_tsv(train_fn, new_train_fn, mode)
+        convert_file_to_tsv(test_fn, new_test_fn, mode)
         new_fn = [new_train_fn, new_test_fn]
         # The result is a directory "data\\LEMMA_TSV_FORMAT" with 180 files of the format 'language.{trn|tst}.tsv'
     return new_fn
