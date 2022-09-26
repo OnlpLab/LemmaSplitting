@@ -216,3 +216,13 @@ def showAttention(input_sentence, output_words, attentions, fig_name="Attention 
     ax.yaxis.set_major_locator(ticker.MultipleLocator(1))
     # plt.show()
     plt.savefig(fig_name)
+
+def save_run_results_figure(file_path, edit_distances, accuracies):
+    plt.figure()
+    plt.subplot(211)
+    plt.title("Average ED on Test Set")
+    plt.plot(edit_distances)
+    plt.subplot(212)
+    plt.title("Average Accuracy on Test Set")
+    plt.plot(accuracies)
+    plt.savefig(file_path)

@@ -1,26 +1,26 @@
 import random
-from datetime import datetime, timedelta
+from datetime import datetime
 
 import numpy as np
 import torch
 import torch.nn as nn
 import torch.optim as optim
-# import spacy
 import os
 import pandas as pd
 
 import utils
-from utils import translate_sentence, bleu, save_checkpoint, load_checkpoint, get_langs_and_paths
+from utils import translate_sentence, bleu, save_checkpoint, load_checkpoint, get_langs_and_paths, save_run_results_figure
 from torch.utils.tensorboard import SummaryWriter  # to print to tensorboard
-# from torchtext.legacy.datasets import Multi30k
-from torchtext.legacy.data import Field, BucketIterator, TabularDataset
+from torchtext.legacy.data import BucketIterator, TabularDataset
 from Network import Encoder, Decoder, Seq2Seq
-from utils import srcField, trgField, device, reinflection2TSV, plt, showAttention, REINFLECTION_STR, INFLECTION_STR
-def concat_to_file(fn, s):
-    with open(fn, "a+", encoding='utf8') as f: f.write(s)
-total_timer = datetime.now()
-# Definition of tokenizers, Fields and device were moved to utils
+from utils import srcField, trgField, device, reinflection2TSV, INFLECTION_STR
 
+def concat_to_file(file_name, string):
+    with open(file_name, "a+", encoding='utf8') as f: f.write(string)
+
+total_timer = datetime.now()
+
+# The definition of tokenizers, Fields and device were moved to utils
 datafields = [("src", srcField), ("trg", trgField)]
 
 # Generate new datasets for Inflection:
@@ -29,8 +29,10 @@ data_dir = os.path.join('data',f'{training_mode_90langs}-SPLIT')
 tsv_dir = os.path.join('data',f'{training_mode_90langs}_TSV_FORMAT')
 
 langs, files_paths, lang2family = get_langs_and_paths(data_dir=data_dir)
+
 if not os.path.exists(f'SIG20.{training_mode_90langs}'): os.mkdir(f'SIG20.{training_mode_90langs}')
 if not os.path.exists(tsv_dir): os.mkdir(tsv_dir)
+
 results_df = pd.DataFrame(columns=["Family", "Language", "Accuracy", "ED"])
 
 langs1 = ['tgk', 'dje', 'mao', 'lin', 'xno', 'lud', 'zul', 'sot', 'vro', 'ceb', 'mlg', 'gmh', 'kon', 'gaa', 'izh', 'mwf', 'zpv', 'kjh', 'hil', 'gml', 'tel', 'vot', 'czn', 'ood', 'mlt', 'gsw',
@@ -97,8 +99,7 @@ for j, lang in enumerate(langs):
         batch_size=batch_size,
         sort_within_batch=True,
         sort_key=lambda x: len(x.src),
-        device=device,
-    )
+        device=device)
 
     print("- Constructing networks")
     encoder_net = Encoder(input_size_encoder, encoder_embedding_size, hidden_size, num_layers, enc_dropout).to(device)
@@ -121,7 +122,7 @@ for j, lang in enumerate(langs):
     # validation_sentences = test_data.examples[indices]
 
     print("Let's begin training!\n")
-    concat_to_file(log_file,"Training...\n")
+    concat_to_file(log_file, "Training...\n")
     for epoch in range(num_epochs):
         print(f"[Epoch {epoch} / {num_epochs}]  (lang={lang})")
 
@@ -172,11 +173,13 @@ for j, lang in enumerate(langs):
         for i,translated_sent in enumerate(translated_sentences):
             ex = examples_for_printing[i]
             if translated_sent[-1]=='<eos>': translated_sent = translated_sent[:-1]
+
             src_print = ''.join(ex.src)
             trg_print = ''.join(ex.trg)
             pred_print = ''.join(translated_sent)
             ed_print = utils.eval_edit_distance(trg_print, pred_print)
             print(f"{i+1}. input: {src_print} ; gold: {trg_print} ; pred: {pred_print} ; ED = {ed_print}")
+
         result, accuracy = bleu(test_data, model, srcField, trgField, device, measure_str=measure_str)
         writer.add_scalar("Test Accuracy", accuracy, global_step=epoch)
         print(f"avgED = {result}; avgAcc = {accuracy}\n")
@@ -189,18 +192,11 @@ for j, lang in enumerate(langs):
     lang_runtime = datetime.now() - lang_t0
     output_s = f"Results for Language={lang} from Family={lang2family[lang]}: {measure_str} score on test set" \
                f" is {result:.2f}. Average Accuracy is {accuracy:.2f}. Elapsed time is {lang_runtime}.\n\n"
-    concat_to_file(log_file, output_s) # write to log file
+    concat_to_file(log_file, output_s)  # write to log file
     print(output_s) # write to screen
     results_df.loc[j] = [lang2family[lang], lang, np.round(accuracy,2), np.round(result,2)] # write to Excel file
 
-    plt.figure()
-    plt.subplot(211)
-    plt.title("Average ED on Test Set")
-    plt.plot(eds)
-    plt.subplot(212)
-    plt.title("Average Accuracy on Test Set")
-    plt.plot(accs)
-    plt.savefig(os.path.join(outputs_dir, "Results.png"))
+    save_run_results_figure(os.path.join(outputs_dir, "Results.png"), eds, accs)
 
 tot_runtime_s = f'\nTotal runtime: {str(datetime.now() - total_timer)}\n'
 
