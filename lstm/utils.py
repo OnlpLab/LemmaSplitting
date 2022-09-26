@@ -8,7 +8,6 @@ import numpy as np
 import torch
 from editdistance import eval as eval_edit_distance
 from matplotlib import pyplot as plt
-from torchtext.data.metrics import bleu_score
 from torchtext.legacy.data import Field
 
 INFLECTION_STR, REINFLECTION_STR = 'inflection', 'reinflection'
@@ -60,9 +59,8 @@ def translate_sentence(model, sentence, german, english, device, max_length=50, 
         return translated_sentence[1:]
 
 
-def bleu(data, model, german, english, device, measure_str='bleu'):  # measure_str can be either 'bleu' or 'ed'
-    targets = []
-    outputs = []
+def bleu(data, model, german, english, device):
+    targets, outputs = [], []
 
     for example in data:
         src = vars(example)["src"]
@@ -73,14 +71,12 @@ def bleu(data, model, german, english, device, measure_str='bleu'):  # measure_s
 
         targets.append([trg])
         outputs.append(prediction)
-    if measure_str == bleu:
-        acc = "Undefined"
-        res = bleu_score(outputs, targets)
-    else:
-        # Count also Accuracy. Ignore <eos>, obviously.
-        targets = [t[0] for t in targets]
-        acc = np.array([a == b for a, b in zip(targets, outputs)]).mean()
-        res = np.mean([eval_edit_distance(t, o) for t, o in zip(targets, outputs)])
+
+    # Count also Accuracy. Ignore <eos>, obviously.
+    targets = [t[0] for t in targets]
+    acc = np.array([a == b for a, b in zip(targets, outputs)]).mean()
+    res = np.mean([eval_edit_distance(t, o) for t, o in zip(targets, outputs)])
+
     return res, acc
 
 

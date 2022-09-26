@@ -103,9 +103,9 @@ for j, lang in enumerate(langs):
 
     print("- Constructing networks")
     encoder_net = Encoder(input_size_encoder, encoder_embedding_size, hidden_size, num_layers, enc_dropout).to(device)
-
-    decoder_net = Decoder(input_size_decoder, decoder_embedding_size, hidden_size, output_size, num_layers, dec_dropout,).to(device)
+    decoder_net = Decoder(input_size_decoder, decoder_embedding_size, hidden_size, output_size, num_layers, dec_dropout).to(device)
     model = Seq2Seq(encoder_net, decoder_net).to(device)
+
     print("- Defining some more stuff...")
     optimizer = optim.Adam(model.parameters(), lr=learning_rate)
 
@@ -180,15 +180,15 @@ for j, lang in enumerate(langs):
             ed_print = utils.eval_edit_distance(trg_print, pred_print)
             print(f"{i+1}. input: {src_print} ; gold: {trg_print} ; pred: {pred_print} ; ED = {ed_print}")
 
-        result, accuracy = bleu(test_data, model, srcField, trgField, device, measure_str=measure_str)
+        result, accuracy = bleu(test_data, model, srcField, trgField, device)
         writer.add_scalar("Test Accuracy", accuracy, global_step=epoch)
         print(f"avgED = {result}; avgAcc = {accuracy}\n")
         accs.append(accuracy)
         eds.append(result)
 
     # running on entire test data takes a while
-    # score = bleu(test_data[1:100], model, srcField, trgField, device, measure_str='ed')
-    result, accuracy = bleu(test_data, model, srcField, trgField, device, measure_str=measure_str)
+    # score = bleu(test_data[1:100], model, srcField, trgField, device)
+    result, accuracy = bleu(test_data, model, srcField, trgField, device)
     lang_runtime = datetime.now() - lang_t0
     output_s = f"Results for Language={lang} from Family={lang2family[lang]}: {measure_str} score on test set" \
                f" is {result:.2f}. Average Accuracy is {accuracy:.2f}. Elapsed time is {lang_runtime}.\n\n"
