@@ -1,18 +1,14 @@
-import os.path
-# import io
+from copy import deepcopy
+from os import listdir, scandir
+from os.path import basename, isfile, join, split, splitext
 
+import matplotlib.ticker as ticker
 import numpy as np
 import torch
-# import spacy
-from torchtext.data.metrics import bleu_score
-# from torchtext.legacy.data.example import Example
-# import sys
-import random
-from torchtext.legacy.data import Field
-from copy import deepcopy
-
 from matplotlib import pyplot as plt
-import matplotlib.ticker as ticker
+from torchtext.data.metrics import bleu_score
+from torchtext.legacy.data import Field
+
 
 REINFLECTION_STR = 'reinflection'
 INFLECTION_STR = 'inflection'
@@ -171,8 +167,8 @@ def reinflection2TSV(fn, dir_name="data", mode=REINFLECTION_STR):
     """
     assert mode in {REINFLECTION_STR, INFLECTION_STR}
     if mode==REINFLECTION_STR:
-        fn = os.path.join(dir_name,fn)
-        fn_wo_ext = os.path.splitext(fn)[0]
+        fn = join(dir_name,fn)
+        fn_wo_ext = splitext(fn)[0]
         new_fn = fn_wo_ext+".tsv"
 
         data = open(fn, encoding='utf8').read().split('\n')
@@ -187,9 +183,9 @@ def reinflection2TSV(fn, dir_name="data", mode=REINFLECTION_STR):
         open(new_fn, mode='w', encoding='utf8').write('\n'.join(examples))
     else:
         train_fn, test_fn = fn[0], fn[2] # file paths without parent-directories prefix
-        new_train_fn = os.path.join(dir_name, os.path.basename(train_fn)+".tsv") # use the paths without parent-directories prefixes
-        new_test_fn = os.path.join(dir_name, os.path.basename(test_fn)+".tsv")
-        if os.path.isfile(new_train_fn) and os.path.isfile(new_test_fn): return [new_train_fn, new_test_fn]
+        new_train_fn = join(dir_name, basename(train_fn)+".tsv") # use the paths without parent-directories prefixes
+        new_test_fn = join(dir_name, basename(test_fn)+".tsv")
+        if isfile(new_train_fn) and isfile(new_test_fn): return [new_train_fn, new_test_fn]
 
         for fn,new_fn in zip([train_fn, test_fn], [new_train_fn, new_test_fn]):
             data = open(fn, encoding='utf8').read().split('\n')
@@ -214,15 +210,15 @@ def get_langs_and_paths(data_dir=''):
     """
     train_dirs = ['DEVELOPMENT-LANGUAGES', 'SURPRISE-LANGUAGES']
     test_dir = 'GOLD-TEST'
-    train_dirs, test_dir = [os.path.join(data_dir,d) for d in train_dirs], os.path.join(data_dir,test_dir)
+    train_dirs, test_dir = [join(data_dir,d) for d in train_dirs], join(data_dir,test_dir)
     print(f"Requirements: this script must have the same path as the folders of SIGMORPHON (SURPRISE-LANG., GOLD-TEST, etc.). The data folder's name should be {data_dir}.\n")
 
-    test_paths = os.listdir(test_dir)
-    langs = [os.path.splitext(p)[0] for p in test_paths]
-    test_paths = {l:p for l,p in zip(langs, [os.path.join(test_dir, s) for s in test_paths])}
+    test_paths = listdir(test_dir)
+    langs = [splitext(p)[0] for p in test_paths]
+    test_paths = {l:p for l,p in zip(langs, [join(test_dir, s) for s in test_paths])}
 
-    dev_families = [f.path for f in os.scandir(train_dirs[0]) if f.is_dir()]
-    surprise_families = [f.path for f in os.scandir(train_dirs[1]) if f.is_dir()]
+    dev_families = [f.path for f in scandir(train_dirs[0]) if f.is_dir()]
+    surprise_families = [f.path for f in scandir(train_dirs[1]) if f.is_dir()]
 
     # dev_families = [e.lower() for e in dev_families]
     # surprise_families = [e.lower() for e in surprise_families]
@@ -234,16 +230,16 @@ def get_langs_and_paths(data_dir=''):
     test_no_gold_paths = {}
     lang2family = {} # a dictionary that indicates the family of every language
     for family in dev_families+surprise_families:
-        for file in os.listdir(family):
-            lang, ext = os.path.splitext(file)
-            file = os.path.join(family,file)
+        for file in listdir(family):
+            lang, ext = splitext(file)
+            file = join(family,file)
             if ext=='.trn':
                 develop_paths[lang] = file
             elif ext=='.dev':
                 surprise_paths[lang] = file
             elif ext=='.tst':
                 test_no_gold_paths[lang] = file
-            family_name = os.path.split(family)[1]
+            family_name = split(family)[1]
             if lang not in lang2family: lang2family[lang] = family_name
 
     files_paths = {k:(develop_paths[k],surprise_paths[k],test_paths[k]) for k in langs}
