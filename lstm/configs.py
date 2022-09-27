@@ -1,9 +1,9 @@
 from os.path import join
 
 # Generate new datasets for Inflection:
-training_mode = 'FORM'  # choose either 'FORM' or 'LEMMA'.
-data_dir = join('data', f'{training_mode}-SPLIT')
-tsv_dir = join('data', f'{training_mode}_TSV_FORMAT')
+training_mode = 'LEMMA'  # choose either 'FORM' or 'LEMMA'.
+data_dir = join('..', 'data')
+tsv_dir = join('..', 'data', f'{training_mode}_TSV_FORMAT')
 
 # Choose one of the following groups
 languages1 = ['tgk', 'dje', 'mao', 'lin', 'xno', 'lud', 'zul', 'sot', 'vro', 'ceb', 'mlg', 'gmh', 'kon', 'gaa', 'izh',
@@ -18,7 +18,7 @@ all_languages = [languages1, languages2, languages3, languages4]
 choice = 1
 languages = all_languages[choice - 1]
 
-log_file = join('SIG20', training_mode, f'log_file{choice}.txt')
+log_file = join(f'log_file{choice}_{training_mode}.txt')
 
 load_model = False
 save_model = True
