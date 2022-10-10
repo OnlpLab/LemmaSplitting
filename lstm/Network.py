@@ -1,6 +1,10 @@
-import torch
+import random
+
 import torch.nn as nn
-from utils import *
+from torch import cat, einsum, zeros
+
+from utils import device, srcField, trgField
+
 
 class Encoder(nn.Module):
     def __init__(self, input_size, embedding_size, hidden_size, num_layers, p):
@@ -27,16 +31,14 @@ class Encoder(nn.Module):
         # Use forward, backward cells and hidden through a linear layer
         # so that it can be input to the decoder which is not bidirectional
         # Also using index slicing ([idx:idx+1]) to keep the dimension
-        hidden = self.fc_hidden(torch.cat((hidden[0:1], hidden[1:2]), dim=2))
-        cell = self.fc_cell(torch.cat((cell[0:1], cell[1:2]), dim=2))
+        hidden = self.fc_hidden(cat((hidden[0:1], hidden[1:2]), dim=2))
+        cell = self.fc_cell(cat((cell[0:1], cell[1:2]), dim=2))
 
         return encoder_states, hidden, cell
 
 
 class Decoder(nn.Module):
-    def __init__(
-            self, input_size, embedding_size, hidden_size, output_size, num_layers, p
-    ):
+    def __init__(self, input_size, embedding_size, hidden_size, output_size, num_layers, p):
         super(Decoder, self).__init__()
         self.hidden_size = hidden_size
         self.num_layers = num_layers
@@ -61,7 +63,7 @@ class Decoder(nn.Module):
         h_reshaped = hidden.repeat(sequence_length, 1, 1)
         # h_reshaped: (seq_length, N, hidden_size*2)
 
-        energy = self.relu(self.energy(torch.cat((h_reshaped, encoder_states), dim=2)))
+        energy = self.relu(self.energy(cat((h_reshaped, encoder_states), dim=2)))
         # energy: (seq_length, N, 1)
 
         attention = self.softmax(energy)
@@ -70,9 +72,9 @@ class Decoder(nn.Module):
         # attention: (seq_length, N, 1), snk
         # encoder_states: (seq_length, N, hidden_size*2), snl
         # we want context_vector: (1, N, hidden_size*2), i.e knl
-        context_vector = torch.einsum("snk,snl->knl", attention, encoder_states)
+        context_vector = einsum("snk,snl->knl", attention, encoder_states)
 
-        rnn_input = torch.cat((context_vector, embedding), dim=2)
+        rnn_input = cat((context_vector, embedding), dim=2)
         # rnn_input: (1, N, hidden_size*2 + embedding_size)
 
         outputs, (hidden, cell) = self.rnn(rnn_input, (hidden, cell))
@@ -91,12 +93,20 @@ class Seq2Seq(nn.Module):
         self.encoder = encoder
         self.decoder = decoder
 
+    @classmethod
+    def from_hyper_parameters(cls, encoder_embedding_size, decoder_embedding_size, hidden_size,
+                              num_layers, encoder_dropout, decoder_dropout):
+        return cls(Encoder(len(srcField.vocab), encoder_embedding_size, hidden_size,
+                           num_layers, encoder_dropout).to(device),
+                   Decoder(len(trgField.vocab), decoder_embedding_size, hidden_size,
+                           len(trgField.vocab), num_layers, decoder_dropout).to(device).to(device))
+
     def forward(self, source, target, teacher_force_ratio=0.5):
         batch_size = source.shape[1]
         target_len = target.shape[0]
         target_vocab_size = len(trgField.vocab)
 
-        outputs = torch.zeros(target_len, batch_size, target_vocab_size).to(device)
+        outputs = zeros(target_len, batch_size, target_vocab_size).to(device)
         encoder_states, hidden, cell = self.encoder(source)
 
         # First input will be <SOS> token
