@@ -1,8 +1,8 @@
 import codecs
 import random
 from collections import defaultdict
-from os import getcwd, listdir, makedirs, scandir, walk
-from os.path import isdir, join, relpath, splitext
+from os import listdir, scandir, mkdir
+from os.path import join, splitext, split, isdir
 
 import numpy as np
 
@@ -62,7 +62,7 @@ def dict2lists(d):
 
 def generate_new_datasets(train, dev, test):
     """
-    Takes 3 paths for the files, generates
+    Takes 3 paths for the files, and generates new train, dev & test datasets, in lemma split.
     """
     ds = [read(train), read(dev), read(test)]
     total_d = defaultdict(list)
@@ -82,28 +82,26 @@ def generate_new_datasets(train, dev, test):
     dev = lemmas[int((train_prop + dev_prop) * n):]
 
     train, dev, test = dict2lists(train), dict2lists(dev), dict2lists(test)
-    # test is returned twice, once for the gold data file and once for the incomplete file.
-    return train, dev, test, test
+    return train, dev, test
 
 
-def write_dataset(p, dataset, test_mode=False):
+def write_dataset(p, dataset):
     """
     Takes the new dataset, and writes it to the given (new) path.
     """
     with open(p, mode='w', encoding='utf8') as f:
         for sample in dataset:
             lemma, form, feat = sample
-            f.write(f"{lemma}\t{'' if test_mode else form}\t{feat}\n")
+            f.write(f"{lemma}\t{form}\t{feat}\n")
 
 
 if __name__ == '__main__':
-    print("Requirements: this script must be with the folders of SIGMORPHON (SURPRISE-LANG., GOLD-TEST, etc.).\n"
-          "This script generates new datasets in the same structure of the old folders.")
+    form_split_data_folder, lemma_split_folder = join('DataExperiments', 'FormSplit'), join('DataExperiments', 'GeneratedLemmaSplits')
     train_dirs, test_dir = ['DEVELOPMENT-LANGUAGES', 'SURPRISE-LANGUAGES'], 'GOLD-TEST'
+    train_dirs, test_dir = [join(form_split_data_folder, p) for p in train_dirs], join(form_split_data_folder, test_dir)
 
-    test_paths = listdir(test_dir)
-    langs = [splitext(p)[0] for p in test_paths]
-    test_paths = {l: p for l, p in zip(langs, [join(test_dir, s) for s in test_paths])}
+    langs = [splitext(p)[0] for p in listdir(test_dir)]
+    test_paths_map = dict((splitext(test_file)[0], join(test_dir, test_file)) for test_file in listdir(test_dir))
 
     dev_families = [f.path for f in scandir(train_dirs[0]) if f.is_dir()]
     surprise_families = [f.path for f in scandir(train_dirs[1]) if f.is_dir()]
@@ -111,53 +109,34 @@ if __name__ == '__main__':
     dev_families.sort()
     surprise_families.sort()
 
-    develop_paths, surprise_paths, test_no_gold_paths = {}, {}, {}
+    train_paths_map, dev_paths_map, lang2family = {}, {}, {}
     for family in dev_families + surprise_families:
-        for file in listdir(family):
-            lang, ext = splitext(file)
-            file = join(family, file)
+        for file_name in listdir(family):
+            lang, ext = splitext(file_name)
+            file_name = join(family, file_name)
             if ext == '.trn':
-                develop_paths[lang] = file
+                train_paths_map[lang] = file_name
             elif ext == '.dev':
-                surprise_paths[lang] = file
-            elif ext == '.tst':
-                test_no_gold_paths[lang] = file
-    # print(len(develop_paths))
-    # print(len(surprise_paths))
-    # print(len(test_no_gold_paths))
+                dev_paths_map[lang] = file_name
+            # ignoring .tst files because they're covered. Using the GOLD-TEST files instead
+            family_name = split(family)[1]
+            if lang not in lang2family: lang2family[lang] = family_name.lower()
 
     print("Intersections between train, dev & test sets for each of the 90 languages:")
     for i, lang in enumerate(langs):
-        result = check_lemma_split(develop_paths[lang], surprise_paths[lang], test_paths[lang])  # returns a triplet
+        result = check_lemma_split(train_paths_map[lang], dev_paths_map[lang], test_paths_map[lang])  # returns a triplet
         inter1, inter2, inter3 = ["Non-Empty" if e else "Empty" for e in result]
         print(f"{i + 1}. {lang} => {(inter1, inter2, inter3)}")
-    print()
 
-    print("Duplicating the original structure of the directories & sub-directories...\n")
-    inputpath = getcwd()
-    new_folder = "LEMMA-SPLIT"
-    outputpath = join(inputpath, new_folder)
-
-    # Create a new folder "LEMMA-SPLIT", and all the sub-folders like the original structure:
-    for dirpath, dirnames, filenames in walk(inputpath):
-        structure = join(outputpath, relpath(dirpath, inputpath))
-        if not isdir(structure) and 'idea' not in structure and 'git' not in structure and join(
-                new_folder, new_folder) not in structure:
-            print(structure)
-            makedirs(structure)
-            print(f"Folder {structure}\tcreated.")
-        else:
-            print(f"Folder {structure}\texists.")
-    print()
-
-    print("Generating new datasets:")
-    # For every language, add the "LEMMA-SPLIT" prefix, and write the new datasets (returned from generate_new_datasets) to the files in the corresponding folders
-    # langs = ['aka'] # for debugging purposes
+    print("\nGenerating new lemma-split datasets:")
+    if not isdir(lemma_split_folder): mkdir(lemma_split_folder)
     for i, lang in enumerate(langs):
-        paths = [develop_paths[lang], surprise_paths[lang], test_paths[lang], test_no_gold_paths[lang]]
-        datasets = generate_new_datasets(*paths[:-1])  # returns 4 datasets - train, dev, test X 2
-        new_paths = [join(new_folder, p) for p in paths]
+        family_subfolder = join(lemma_split_folder, lang2family[lang])
+        if not isdir(family_subfolder): mkdir(family_subfolder)
+        new_paths = [join(family_subfolder, f'{lang}.{extension}') for extension in ['trn', 'dev', 'tst']]
 
-        for j, (path, dataset) in enumerate(zip(new_paths, datasets)):
-            write_dataset(path, dataset, test_mode=(j == 3))
-        print(f"{i + 1}. Generated lemma-split datasets for {lang}")
+        datasets = generate_new_datasets(train_paths_map[lang], dev_paths_map[lang],
+                                         test_paths_map[lang])  # returns train, dev & test datasets
+        for path, dataset in zip(new_paths, datasets):
+            write_dataset(path, dataset)
+        print(f"{i + 1}. Completed for {lang} in {family_subfolder}")
