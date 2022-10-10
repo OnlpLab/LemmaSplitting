@@ -2,8 +2,8 @@ from os.path import join
 
 # Generate new datasets for Inflection:
 training_mode = 'LEMMA'  # choose either 'FORM' or 'LEMMA'.
-data_dir = join('..', 'data')
-tsv_dir = join('..', 'data', f'{training_mode}_TSV_FORMAT')
+data_dir = join('..', 'LemmaSplitData')
+tsv_dir = join('..', 'LemmaSplitData', f'{training_mode}_TSV_FORMAT')
 
 # Choose one of the following groups
 languages1 = ['tgk', 'dje', 'mao', 'lin', 'xno', 'lud', 'zul', 'sot', 'vro', 'ceb', 'mlg', 'gmh', 'kon', 'gaa', 'izh',

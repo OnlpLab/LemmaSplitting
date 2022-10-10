@@ -1,0 +1,3571 @@
+iborat bo'lmoq	iborat bo'ldik	V;PFV;FH;PL;1
+iborat bo'lmoq	iborat bo'lar edik	V;COND;PL;1;PRS
+iborat bo'lmoq	iborat bo'lamiz	V;PL;1;PRS
+iborat bo'lmoq	iborat bo'lasiz	V;FRML;SG;2;PRS
+iborat bo'lmoq	iborat bo'ldi	V;PFV;FH;SG;3
+iborat bo'lmoq	iborat bo'lgan edingizlar	V;PFV;IND;PL;2;PST
+iborat bo'lmoq	iborat bo'lganman	V;IND;SG;1;PST
+iborat bo'lmoq	iborat bo'laman	V;SG;1;PRS
+iborat bo'lmoq	iborat bo'lding	V;PFV;FH;SG;2
+iborat bo'lmoq	iborat bo'lar edi	V;COND;SG;3;PRS
+iborat bo'lmoq	iborat bo'lgansiz	V;FRML;IND;SG;2;PST
+iborat bo'lmoq	iborat bo'lganmiz	V;IND;PL;1;PST
+iborat bo'lmoq	iborat bo'lgan edik	V;PFV;IND;PL;1;PST
+iborat bo'lmoq	iborat bo'ldim	V;PFV;FH;SG;1
+iborat bo'lmoq	iborat bo'lasan	V;SG;2;INFM;PRS
+iborat bo'lmoq	iborat bo'lasizlar	V;PL;2;PRS
+iborat bo'lmoq	iborat bo'ladi	V;SG;3;PRS
+iborat bo'lmoq	iborat bo'lgan edilar	V;PFV;IND;PL;3;PST
+iborat bo'lmoq	iborat bo'lgan edingiz	V;PFV;FRML;IND;SG;2;PST
+iborat bo'lmoq	iborat bo'lgansizlar	V;IND;PL;2;PST
+iborat bo'lmoq	iborat bo'ldingizlar	V;PFV;FH;PL;2
+iborat bo'lmoq	iborat bo'ldilar	V;PFV;FH;PL;3
+iborat bo'lmoq	iborat bo'lganlar	V;IND;PL;3;PST
+iborat bo'lmoq	iborat bo'lar eding	V;COND;SG;2;INFM;PRS
+iborat bo'lmoq	iborat bo'lgan edi	V;PFV;IND;SG;3;PST
+iborat bo'lmoq	iborat bo'lar edingiz	V;FRML;COND;SG;2;PRS
+iborat bo'lmoq	iborat bo'lgan edim	V;PFV;IND;SG;1;PST
+iborat bo'lmoq	iborat bo'lar edilar	V;COND;PL;3;PRS
+iborat bo'lmoq	iborat bo'lar edingizlar	V;COND;PL;2;PRS
+iborat bo'lmoq	iborat bo'ldingiz	V;PFV;FRML;FH;SG;2
+iborat bo'lmoq	iborat bo'lgan	V;IND;SG;3;PST
+iborat bo'lmoq	iborat bo'lar edim	V;COND;SG;1;PRS
+iborat bo'lmoq	iborat bo'lgansan	V;IND;SG;2;INFM;PST
+iborat bo'lmoq	iborat bo'ladilar	V;PL;3;PRS
+iborat bo'lmoq	iborat bo'lgan eding	V;PFV;IND;SG;2;INFM;PST
+kechirmoq	kechirar edi	V;COND;SG;3;PRS
+kechirmoq	kechirasiz	V;FRML;SG;2;PRS
+kechirmoq	kechirgansan	V;IND;SG;2;INFM;PST
+kechirmoq	kechirayotgan bo'lasan	V;PROG;IND;SG;2;INFM;FUT
+kechirmoq	kechirayotgan bo'larding	V;PROG;COND;SG;2;PRS
+kechirmoq	kechirayotgan bo'lardi	V;PROG;COND;SG;3;PRS
+kechirmoq	kechirib bo'lgan bo'lamiz	V;PFV;SBJV;PL;1;FUT
+kechirmoq	kechirgan	V;IND;SG;3;PST
+kechirmoq	kechirayotgan bo'lar edim	V;PRF+PROG;COND;SG;1;PRS
+kechirmoq	kechirdilar	V;PFV;FH;PL;3
+kechirmoq	kechirayotgan bo'lar eding	V;PRF+PROG;COND;SG;2;INFM;PRS
+kechirmoq	kechiryapsiz	V;PROG;FRML;IND;SG;2;PRS
+kechirmoq	kechirdik	V;PFV;FH;PL;1
+kechirmoq	kechirar edingizlar	V;COND;PL;2;PRS
+kechirmoq	kechirayotgan bo'ladilar	V;PROG;IND;PL;3;FUT
+kechirmoq	kechiradi	V;SG;3;PRS
+kechirmoq	kechirar eding	V;COND;SG;2;INFM;PRS
+kechirmoq	kechirgansizlar	V;IND;PL;2;PST
+kechirmoq	kechirib bo'lgan edi	V;PRF;SBJV;SG;3;PRS
+kechirmoq	kechiraman	V;SG;1;PRS
+kechirmoq	kechirib bo'lgan edingiz	V;PRF;FRML;SBJV;SG;2;PRS
+kechirmoq	kechirgan eding	V;PFV;IND;SG;2;INFM;PST
+kechirmoq	kechirib bo'lgan bo'lasiz	V;PFV;FRML;SBJV;SG;2;FUT
+kechirmoq	kechirib bo'lgan bo'lasan	V;PFV;SBJV;SG;2;INFM;FUT
+kechirmoq	kechirding	V;PFV;FH;SG;2
+kechirmoq	kechirib bol'gan eding	V;PRF;SBJV;SG;2;INFM;PRS
+kechirmoq	kechirayotgan bo'lar edi	V;PRF+PROG;COND;SG;3;PRS
+kechirmoq	kechirasan	V;SG;2;INFM;PRS
+kechirmoq	kechirayotgan bo'ladi	V;PROG;IND;SG;3;FUT
+kechirmoq	kechirayotgan bo'lasiz	V;PROG;FRML;IND;SG;2;FUT
+kechirmoq	kechirayotgan bo'laman	V;PROG;IND;SG;1;FUT
+kechirmoq	kechirayotgan edingiz	V;PROG;FRML;IND;SG;2;PST
+kechirmoq	kechirayotgan bo'lasizlar	V;PROG;IND;PL;2;FUT
+kechirmoq	kechirayotgan bo'lardim	V;PROG;COND;SG;1;PRS
+kechirmoq	kechirdingiz	V;PFV;FRML;FH;SG;2
+kechirmoq	kechiradilar	V;PL;3;PRS
+kechirmoq	kechirganman	V;IND;SG;1;PST
+kechirmoq	kechirgan edingiz	V;PFV;FRML;IND;SG;2;PST
+kechirmoq	kechiryapsan	V;PROG;IND;SG;2;INFM;PRS
+kechirmoq	kechiryapman	V;PROG;IND;SG;1;PRS
+kechirmoq	kechirgan edilar	V;PFV;IND;PL;3;PST
+kechirmoq	kechirayotgan edi	V;PROG;IND;SG;3;PST
+kechirmoq	kechirdim	V;PFV;FH;SG;1
+kechirmoq	kechirdingizlar	V;PFV;FH;PL;2
+kechirmoq	kechirib bo'lgan edim	V;PRF;SBJV;SG;1;PRS
+kechirmoq	kechirib bo'lgan bo'lasizlar	V;PFV;SBJV;PL;2;FUT
+kechirmoq	kechiryapsizlar	V;PROG;IND;PL;2;PRS
+kechirmoq	kechirayotgan bo'lar edingiz	V;PRF+PROG;FRML;COND;SG;2;PRS
+kechirmoq	kechirayotgan bo'lardik	V;PROG;COND;PL;1;PRS
+kechirmoq	kechirayotgan bo'lar edilar	V;PRF+PROG;COND;PL;3;PRS
+kechirmoq	kechirayotgan edim	V;PROG;IND;SG;1;PST
+kechirmoq	kechirayotgan edingizlar	V;PROG;IND;PL;2;PST
+kechirmoq	kechirar edilar	V;COND;PL;3;PRS
+kechirmoq	kechirib bo'lgan edilar	V;PRF;SBJV;PL;3;PRS
+kechirmoq	kechirganlar	V;IND;PL;3;PST
+kechirmoq	kechiryapmiz	V;PROG;IND;PL;1;PRS
+kechirmoq	kechirar edingiz	V;FRML;COND;SG;2;PRS
+kechirmoq	kechirayotgan eding	V;PROG;IND;SG;2;INFM;PST
+kechirmoq	kechirganmiz	V;IND;PL;1;PST
+kechirmoq	kechirar edik	V;COND;PL;1;PRS
+kechirmoq	kechirgansiz	V;FRML;IND;SG;2;PST
+kechirmoq	kechirayotgan bo'lar edik	V;PRF+PROG;COND;PL;1;PRS
+kechirmoq	kechirib bo'lgan bo'ladilar	V;PFV;SBJV;PL;3;FUT
+kechirmoq	kechiramiz	V;PL;1;PRS
+kechirmoq	kechirayotgan edik	V;PROG;IND;PL;1;PST
+kechirmoq	kechirgan edik	V;PFV;IND;PL;1;PST
+kechirmoq	kechirib bo'lgan bo'laman	V;PFV;SBJV;SG;1;FUT
+kechirmoq	kechirgan edim	V;PFV;IND;SG;1;PST
+kechirmoq	kechirgan edingizlar	V;PFV;IND;PL;2;PST
+kechirmoq	kechirasizlar	V;PL;2;PRS
+kechirmoq	kechirib bo'lgan bo'ladi	V;PFV;SBJV;SG;3;FUT
+kechirmoq	kechirayotgan bo'lardilar	V;PROG;COND;PL;3;PRS
+kechirmoq	kechiryaptilar	V;PROG;IND;PL;3;PRS
+kechirmoq	kechirdi	V;PFV;FH;SG;3
+kechirmoq	kechirib bo'lgan edik	V;PRF;SBJV;PL;1;PRS
+kechirmoq	kechirayotgan bo'lamiz	V;PROG;IND;PL;1;FUT
+kechirmoq	kechiryapti	V;PROG;IND;SG;3;PRS
+kechirmoq	kechirar edim	V;COND;SG;1;PRS
+kechirmoq	kechirayotgan edilar	V;PROG;IND;PL;3;PST
+kechirmoq	kechirib bo'lgan edingizlar	V;PRF;SBJV;PL;2;PRS
+kechirmoq	kechirgan edi	V;PFV;IND;SG;3;PST
+kechirmoq	kechirayotgan bo'lar edingizlar	V;PRF+PROG;COND;PL;2;PRS
+bashorat qilmoq	bashorat qilib bo'lgan edingizlar	V;PRF;SBJV;PL;2;PRS
+bashorat qilmoq	bashorat qilar edi	V;COND;SG;3;PRS
+bashorat qilmoq	bashorat qildingizlar	V;PFV;FH;PL;2
+bashorat qilmoq	bashorat qilganlar	V;IND;PL;3;PST
+bashorat qilmoq	bashorat qilayotgan bo'lar edingiz	V;PRF+PROG;FRML;COND;SG;2;PRS
+bashorat qilmoq	bashorat qilib bo'lgan edi	V;PRF;SBJV;SG;3;PRS
+bashorat qilmoq	bashorat qilgan edi	V;PFV;IND;SG;3;PST
+bashorat qilmoq	bashorat qilyapsan	V;PROG;IND;SG;2;INFM;PRS
+bashorat qilmoq	bashorat qilayotgan eding	V;PROG;IND;SG;2;INFM;PST
+bashorat qilmoq	bashorat qilgan edingizlar	V;PFV;IND;PL;2;PST
+bashorat qilmoq	bashorat qilar edim	V;COND;SG;1;PRS
+bashorat qilmoq	bashorat qilyaptilar	V;PROG;IND;PL;3;PRS
+bashorat qilmoq	bashorat qilib bo'lgan bo'ladilar	V;PFV;SBJV;PL;3;FUT
+bashorat qilmoq	bashorat qilib bo'lgan bo'lasiz	V;PFV;FRML;SBJV;SG;2;FUT
+bashorat qilmoq	bashorat qilayotgan bo'lardik	V;PROG;COND;PL;1;PRS
+bashorat qilmoq	bashorat qilib bo'lgan edingiz	V;PRF;FRML;SBJV;SG;2;PRS
+bashorat qilmoq	bashorat qilyapsiz	V;PROG;FRML;IND;SG;2;PRS
+bashorat qilmoq	bashorat qilayotgan bo'ladilar	V;PROG;IND;PL;3;FUT
+bashorat qilmoq	bashorat qilayotgan bo'lasan	V;PROG;IND;SG;2;INFM;FUT
+bashorat qilmoq	bashorat qilayotgan bo'lar edik	V;PRF+PROG;COND;PL;1;PRS
+bashorat qilmoq	bashorat qilgansiz	V;FRML;IND;SG;2;PST
+bashorat qilmoq	bashorat qilayotgan bo'lardilar	V;PROG;COND;PL;3;PRS
+bashorat qilmoq	bashorat qilayotgan edi	V;PROG;IND;SG;3;PST
+bashorat qilmoq	bashorat qilgan edik	V;PFV;IND;PL;1;PST
+bashorat qilmoq	bashorat qilyapman	V;PROG;IND;SG;1;PRS
+bashorat qilmoq	bashorat qilyapmiz	V;PROG;IND;PL;1;PRS
+bashorat qilmoq	bashorat qilayotgan bo'lar edilar	V;PRF+PROG;COND;PL;3;PRS
+bashorat qilmoq	bashorat qildi	V;PFV;FH;SG;3
+bashorat qilmoq	bashorat qilar edingiz	V;FRML;COND;SG;2;PRS
+bashorat qilmoq	bashorat qilib bo'lgan edik	V;PRF;SBJV;PL;1;PRS
+bashorat qilmoq	bashorat qilding	V;PFV;FH;SG;2
+bashorat qilmoq	bashorat qilamiz	V;PL;1;PRS
+bashorat qilmoq	bashorat qilgan eding	V;PFV;IND;SG;2;INFM;PST
+bashorat qilmoq	bashorat qilayotgan bo'lardim	V;PROG;COND;SG;1;PRS
+bashorat qilmoq	bashorat qilayotgan bo'lardi	V;PROG;COND;SG;3;PRS
+bashorat qilmoq	bashorat qiladilar	V;PL;3;PRS
+bashorat qilmoq	bashorat qilgan edilar	V;PFV;IND;PL;3;PST
+bashorat qilmoq	bashorat qilayotgan bo'ladi	V;PROG;IND;SG;3;FUT
+bashorat qilmoq	bashorat qilayotgan bo'lar edi	V;PRF+PROG;COND;SG;3;PRS
+bashorat qilmoq	bashorat qilib bo'lgan bo'lasan	V;PFV;SBJV;SG;2;INFM;FUT
+bashorat qilmoq	bashorat qilar edingizlar	V;COND;PL;2;PRS
+bashorat qilmoq	bashorat qildik	V;PFV;FH;PL;1
+bashorat qilmoq	bashorat qilayotgan edingizlar	V;PROG;IND;PL;2;PST
+bashorat qilmoq	bashorat qilayotgan edik	V;PROG;IND;PL;1;PST
+bashorat qilmoq	bashorat qilgan edim	V;PFV;IND;SG;1;PST
+bashorat qilmoq	bashorat qilgan	V;IND;SG;3;PST
+bashorat qilmoq	bashorat qilar edilar	V;COND;PL;3;PRS
+bashorat qilmoq	bashorat qilayotgan bo'laman	V;PROG;IND;SG;1;FUT
+bashorat qilmoq	bashorat qilayotgan bo'lar edingizlar	V;PRF+PROG;COND;PL;2;PRS
+bashorat qilmoq	bashorat qilar edik	V;COND;PL;1;PRS
+bashorat qilmoq	bashorat qiladi	V;SG;3;PRS
+bashorat qilmoq	bashorat qilayotgan bo'larding	V;PROG;COND;SG;2;PRS
+bashorat qilmoq	bashorat qilayotgan edilar	V;PROG;IND;PL;3;PST
+bashorat qilmoq	bashorat qilar eding	V;COND;SG;2;INFM;PRS
+bashorat qilmoq	bashorat qilib bo'lgan bo'laman	V;PFV;SBJV;SG;1;FUT
+bashorat qilmoq	bashorat qilib bo'lgan bo'lasizlar	V;PFV;SBJV;PL;2;FUT
+bashorat qilmoq	bashorat qilasan	V;SG;2;INFM;PRS
+bashorat qilmoq	bashorat qilyapti	V;PROG;IND;SG;3;PRS
+bashorat qilmoq	bashorat qildim	V;PFV;FH;SG;1
+bashorat qilmoq	bashorat qilib bo'lgan edilar	V;PRF;SBJV;PL;3;PRS
+bashorat qilmoq	bashorat qilyapsizlar	V;PROG;IND;PL;2;PRS
+bashorat qilmoq	bashorat qilasizlar	V;PL;2;PRS
+bashorat qilmoq	bashorat qilayotgan bo'lasizlar	V;PROG;IND;PL;2;FUT
+bashorat qilmoq	bashorat qilayotgan bo'lasiz	V;PROG;FRML;IND;SG;2;FUT
+bashorat qilmoq	bashorat qilasiz	V;FRML;SG;2;PRS
+bashorat qilmoq	bashorat qilgan edingiz	V;PFV;FRML;IND;SG;2;PST
+bashorat qilmoq	bashorat qilayotgan bo'lar eding	V;PRF+PROG;COND;SG;2;INFM;PRS
+bashorat qilmoq	bashorat qilganman	V;IND;SG;1;PST
+bashorat qilmoq	bashorat qildingiz	V;PFV;FRML;FH;SG;2
+bashorat qilmoq	bashorat qilayotgan bo'lamiz	V;PROG;IND;PL;1;FUT
+bashorat qilmoq	bashorat qilayotgan bo'lar edim	V;PRF+PROG;COND;SG;1;PRS
+bashorat qilmoq	bashorat qilgansizlar	V;IND;PL;2;PST
+bashorat qilmoq	bashorat qilaman	V;SG;1;PRS
+bashorat qilmoq	bashorat qilayotgan edim	V;PROG;IND;SG;1;PST
+bashorat qilmoq	bashorat qilayotgan edingiz	V;PROG;FRML;IND;SG;2;PST
+bashorat qilmoq	bashorat qildilar	V;PFV;FH;PL;3
+bashorat qilmoq	bashorat qilib bo'lgan bo'ladi	V;PFV;SBJV;SG;3;FUT
+bashorat qilmoq	bashorat qilgansan	V;IND;SG;2;INFM;PST
+bashorat qilmoq	bashorat qilib bo'lgan edim	V;PRF;SBJV;SG;1;PRS
+bashorat qilmoq	bashorat qilib bol'gan eding	V;PRF;SBJV;SG;2;INFM;PRS
+bashorat qilmoq	bashorat qilganmiz	V;IND;PL;1;PST
+bashorat qilmoq	bashorat qilib bo'lgan bo'lamiz	V;PFV;SBJV;PL;1;FUT
+jalb qilmoq	jalb qilar edik	V;COND;PL;1;PRS
+jalb qilmoq	jalb qilyapsiz	V;PROG;FRML;IND;SG;2;PRS
+jalb qilmoq	jalb qilyaptilar	V;PROG;IND;PL;3;PRS
+jalb qilmoq	jalb qilib bo'lgan bo'lasizlar	V;PFV;SBJV;PL;2;FUT
+jalb qilmoq	jalb qilgan edingiz	V;PFV;FRML;IND;SG;2;PST
+jalb qilmoq	jalb qilyapsan	V;PROG;IND;SG;2;INFM;PRS
+jalb qilmoq	jalb qilayotgan edilar	V;PROG;IND;PL;3;PST
+jalb qilmoq	jalb qilamiz	V;PL;1;PRS
+jalb qilmoq	jalb qilib bo'lgan edi	V;PRF;SBJV;SG;3;PRS
+jalb qilmoq	jalb qilayotgan bo'lasan	V;PROG;IND;SG;2;INFM;FUT
+jalb qilmoq	jalb qilayotgan bo'lar edik	V;PRF+PROG;COND;PL;1;PRS
+jalb qilmoq	jalb qilib bo'lgan bo'lamiz	V;PFV;SBJV;PL;1;FUT
+jalb qilmoq	jalb qilayotgan bo'lar edim	V;PRF+PROG;COND;SG;1;PRS
+jalb qilmoq	jalb qildi	V;PFV;FH;SG;3
+jalb qilmoq	jalb qilib bo'lgan bo'lasan	V;PFV;SBJV;SG;2;INFM;FUT
+jalb qilmoq	jalb qilayotgan bo'lardilar	V;PROG;COND;PL;3;PRS
+jalb qilmoq	jalb qilyapmiz	V;PROG;IND;PL;1;PRS
+jalb qilmoq	jalb qilayotgan edingiz	V;PROG;FRML;IND;SG;2;PST
+jalb qilmoq	jalb qilib bo'lgan edik	V;PRF;SBJV;PL;1;PRS
+jalb qilmoq	jalb qilayotgan eding	V;PROG;IND;SG;2;INFM;PST
+jalb qilmoq	jalb qilgansiz	V;FRML;IND;SG;2;PST
+jalb qilmoq	jalb qildim	V;PFV;FH;SG;1
+jalb qilmoq	jalb qilayotgan bo'lardik	V;PROG;COND;PL;1;PRS
+jalb qilmoq	jalb qilib bo'lgan bo'ladi	V;PFV;SBJV;SG;3;FUT
+jalb qilmoq	jalb qildingiz	V;PFV;FRML;FH;SG;2
+jalb qilmoq	jalb qilayotgan edim	V;PROG;IND;SG;1;PST
+jalb qilmoq	jalb qiladi	V;SG;3;PRS
+jalb qilmoq	jalb qilar edilar	V;COND;PL;3;PRS
+jalb qilmoq	jalb qildik	V;PFV;FH;PL;1
+jalb qilmoq	jalb qilayotgan bo'lar edilar	V;PRF+PROG;COND;PL;3;PRS
+jalb qilmoq	jalb qilgan	V;IND;SG;3;PST
+jalb qilmoq	jalb qilgan eding	V;PFV;IND;SG;2;INFM;PST
+jalb qilmoq	jalb qilar edi	V;COND;SG;3;PRS
+jalb qilmoq	jalb qilayotgan bo'ladilar	V;PROG;IND;PL;3;FUT
+jalb qilmoq	jalb qilgansan	V;IND;SG;2;INFM;PST
+jalb qilmoq	jalb qilib bo'lgan edingiz	V;PRF;FRML;SBJV;SG;2;PRS
+jalb qilmoq	jalb qilayotgan bo'lar edi	V;PRF+PROG;COND;SG;3;PRS
+jalb qilmoq	jalb qilib bo'lgan edilar	V;PRF;SBJV;PL;3;PRS
+jalb qilmoq	jalb qilayotgan bo'lar eding	V;PRF+PROG;COND;SG;2;INFM;PRS
+jalb qilmoq	jalb qilgan edik	V;PFV;IND;PL;1;PST
+jalb qilmoq	jalb qiladilar	V;PL;3;PRS
+jalb qilmoq	jalb qilyapsizlar	V;PROG;IND;PL;2;PRS
+jalb qilmoq	jalb qilgansizlar	V;IND;PL;2;PST
+jalb qilmoq	jalb qilding	V;PFV;FH;SG;2
+jalb qilmoq	jalb qilasiz	V;FRML;SG;2;PRS
+jalb qilmoq	jalb qilgan edi	V;PFV;IND;SG;3;PST
+jalb qilmoq	jalb qilayotgan edi	V;PROG;IND;SG;3;PST
+jalb qilmoq	jalb qilaman	V;SG;1;PRS
+jalb qilmoq	jalb qilasizlar	V;PL;2;PRS
+jalb qilmoq	jalb qilar edingizlar	V;COND;PL;2;PRS
+jalb qilmoq	jalb qilayotgan bo'lasizlar	V;PROG;IND;PL;2;FUT
+jalb qilmoq	jalb qilayotgan bo'lasiz	V;PROG;FRML;IND;SG;2;FUT
+jalb qilmoq	jalb qilib bo'lgan edim	V;PRF;SBJV;SG;1;PRS
+jalb qilmoq	jalb qilgan edilar	V;PFV;IND;PL;3;PST
+jalb qilmoq	jalb qilganmiz	V;IND;PL;1;PST
+jalb qilmoq	jalb qilib bo'lgan bo'laman	V;PFV;SBJV;SG;1;FUT
+jalb qilmoq	jalb qilyapti	V;PROG;IND;SG;3;PRS
+jalb qilmoq	jalb qilayotgan bo'lardi	V;PROG;COND;SG;3;PRS
+jalb qilmoq	jalb qilar eding	V;COND;SG;2;INFM;PRS
+jalb qilmoq	jalb qilayotgan bo'lardim	V;PROG;COND;SG;1;PRS
+jalb qilmoq	jalb qilib bo'lgan bo'lasiz	V;PFV;FRML;SBJV;SG;2;FUT
+jalb qilmoq	jalb qilgan edim	V;PFV;IND;SG;1;PST
+jalb qilmoq	jalb qilayotgan bo'lar edingizlar	V;PRF+PROG;COND;PL;2;PRS
+jalb qilmoq	jalb qilayotgan bo'laman	V;PROG;IND;SG;1;FUT
+jalb qilmoq	jalb qildingizlar	V;PFV;FH;PL;2
+jalb qilmoq	jalb qilayotgan bo'ladi	V;PROG;IND;SG;3;FUT
+jalb qilmoq	jalb qilgan edingizlar	V;PFV;IND;PL;2;PST
+jalb qilmoq	jalb qilayotgan edingizlar	V;PROG;IND;PL;2;PST
+jalb qilmoq	jalb qilar edingiz	V;FRML;COND;SG;2;PRS
+jalb qilmoq	jalb qilar edim	V;COND;SG;1;PRS
+jalb qilmoq	jalb qilib bo'lgan bo'ladilar	V;PFV;SBJV;PL;3;FUT
+jalb qilmoq	jalb qilganman	V;IND;SG;1;PST
+jalb qilmoq	jalb qilib bo'lgan edingizlar	V;PRF;SBJV;PL;2;PRS
+jalb qilmoq	jalb qilayotgan edik	V;PROG;IND;PL;1;PST
+jalb qilmoq	jalb qilayotgan bo'larding	V;PROG;COND;SG;2;PRS
+jalb qilmoq	jalb qilganlar	V;IND;PL;3;PST
+jalb qilmoq	jalb qilib bol'gan eding	V;PRF;SBJV;SG;2;INFM;PRS
+jalb qilmoq	jalb qildilar	V;PFV;FH;PL;3
+jalb qilmoq	jalb qilyapman	V;PROG;IND;SG;1;PRS
+jalb qilmoq	jalb qilayotgan bo'lar edingiz	V;PRF+PROG;FRML;COND;SG;2;PRS
+jalb qilmoq	jalb qilayotgan bo'lamiz	V;PROG;IND;PL;1;FUT
+jalb qilmoq	jalb qilasan	V;SG;2;INFM;PRS
+pullamoq	pullagan eding	V;PFV;IND;SG;2;INFM;PST
+pullamoq	pullayotgan edim	V;PROG;IND;SG;1;PST
+pullamoq	pullayotgan edingizlar	V;PROG;IND;PL;2;PST
+pullamoq	pullar eding	V;COND;SG;2;INFM;PRS
+pullamoq	pullaymiz	V;PL;1;PRS
+pullamoq	pullayotgan bo'lamiz	V;PROG;IND;PL;1;FUT
+pullamoq	pullar edim	V;COND;SG;1;PRS
+pullamoq	pullayotgan bo'lasizlar	V;PROG;COND;PL;2;PRS
+pullamoq	pullaydilar	V;PL;3;PRS
+pullamoq	pulladingizlar	V;PFV;FH;PL;2
+pullamoq	pullayotgan edik	V;PROG;IND;PL;1;PST
+pullamoq	pullayapsan	V;PROG;IND;SG;2;INFM;PRS
+pullamoq	pullayotgan edi	V;PROG;IND;SG;3;PST
+pullamoq	pullayotgan edilar	V;PROG;IND;PL;3;PST
+pullamoq	pullar edik	V;COND;PL;1;PRS
+pullamoq	pullab bo'lgan bo'ladilar	V;PFV;SBJV;PL;3;FUT
+pullamoq	pullayotgan bo'lar edim	V;PRF+PROG;COND;SG;1;PRS
+pullamoq	pullar edilar	V;COND;PL;3;PRS
+pullamoq	pullab bo'lgan bo'laman	V;PFV;SBJV;SG;1;FUT
+pullamoq	pullayotgan bo'lar edingizlar	V;PRF+PROG;COND;PL;2;PRS
+pullamoq	pullab bo'lgan edik	V;PRF;SBJV;PL;1;PRS
+pullamoq	pullaysiz	V;FRML;SG;2;PRS
+pullamoq	pulladim	V;PFV;FH;SG;1
+pullamoq	pulladilar	V;PFV;FH;PL;3
+pullamoq	pullasin	V;SBJV;SG;3;PRS
+pullamoq	pullagan edingiz	V;PFV;FRML;IND;SG;2;PST
+pullamoq	pullab bo'lgan edi	V;PRF;SBJV;SG;3;PRS
+pullamoq	pullayotgan bo'ladi	V;PROG;IND;SG;3;FUT
+pullamoq	pullab bo'lgan edingizlar	V;PRF;SBJV;PL;2;PRS
+pullamoq	pullanglar	V;SBJV;PL;2;PRS
+pullamoq	pullagan	V;IND;SG;3;PST
+pullamoq	pulla	V;SBJV;SG;2;PRS
+pullamoq	pullayotgan bo'lasan	V;PROG;IND;SG;2;INFM;FUT
+pullamoq	pullayotgan bo'lar edilar	V;PRF+PROG;COND;PL;3;PRS
+pullamoq	pullading	V;PFV;FH;SG;2
+pullamoq	pullayotgan bo'lar edik	V;PRF+PROG;COND;PL;1;PRS
+pullamoq	pullayaptilar	V;PROG;IND;PL;3;PRS
+pullamoq	pullagan edi	V;PFV;IND;SG;3;PST
+pullamoq	pullay	V;SBJV;SG;1;PRS
+pullamoq	pullaylik	V;SBJV;PL;1;PRS
+pullamoq	pullar edi	V;COND;SG;3;PRS
+pullamoq	pullab bo'lgan edilar	V;PRF;SBJV;PL;3;PRS
+pullamoq	pullayotgan bo'lar edingiz	V;PRF+PROG;FRML;COND;SG;2;PRS
+pullamoq	pullab bo'lgan edingiz	V;PRF;FRML;SBJV;SG;2;PRS
+pullamoq	pullagan edim	V;PFV;IND;SG;1;PST
+pullamoq	pullayotgan bo'lardilar	V;PROG;COND;PL;3;PRS
+pullamoq	pullayapman	V;PROG;IND;SG;1;PRS
+pullamoq	pullaganlar	V;IND;PL;3;PST
+pullamoq	pullayapsizlar	V;PROG;IND;PL;2;PRS
+pullamoq	pullaysan	V;SG;2;INFM;PRS
+pullamoq	pullaganmiz	V;IND;PL;1;PST
+pullamoq	pullayotgan bo'lasizlar	V;PROG;IND;PL;2;FUT
+pullamoq	pullayotgan bo'larding	V;PROG;COND;SG;2;PRS
+pullamoq	pullayapsiz	V;PROG;FRML;IND;SG;2;PRS
+pullamoq	pullagansan	V;IND;SG;2;INFM;PST
+pullamoq	pulladik	V;PFV;FH;PL;1
+pullamoq	pullagan edilar	V;PFV;IND;PL;3;PST
+pullamoq	pullayotgan bo'lardik	V;PROG;COND;PL;1;PRS
+pullamoq	pullab bo'lgan bo'lasizlar	V;PFV;SBJV;PL;2;FUT
+pullamoq	pullaganman	V;IND;SG;1;PST
+pullamoq	pullayotgan bo'laman	V;PROG;IND;SG;1;FUT
+pullamoq	pullayotgan bo'ladilar	V;PROG;IND;PL;3;FUT
+pullamoq	pullayotgan bo'lasiz	V;PROG;FRML;IND;SG;2;FUT
+pullamoq	pullab bo'lgan bo'lamiz	V;PFV;SBJV;PL;1;FUT
+pullamoq	pullaydi	V;SG;3;PRS
+pullamoq	pulladingiz	V;PFV;FRML;FH;SG;2
+pullamoq	pullayotgan bo'lardi	V;PROG;COND;SG;3;PRS
+pullamoq	pullayotgan bo'lar edi	V;PRF+PROG;COND;SG;3;PRS
+pullamoq	pullar edingizlar	V;COND;PL;2;PRS
+pullamoq	pullab bol'gan eding	V;PRF;SBJV;SG;2;INFM;PRS
+pullamoq	pullayotgan bo'lasiz	V;PROG;FRML;COND;SG;2;PRS
+pullamoq	pullaysizlar	V;PL;2;PRS
+pullamoq	pullayotgan edingiz	V;PROG;FRML;IND;SG;2;PST
+pullamoq	pullagansizlar	V;IND;PL;2;PST
+pullamoq	pullayotgan eding	V;PROG;IND;SG;2;INFM;PST
+pullamoq	pullab bo'lgan edim	V;PRF;SBJV;SG;1;PRS
+pullamoq	pullasinlar	V;SBJV;PL;3;PRS
+pullamoq	pullayapmiz	V;PROG;IND;PL;1;PRS
+pullamoq	pullagan edik	V;PFV;IND;PL;1;PST
+pullamoq	pullayotgan bo'lar eding	V;PRF+PROG;COND;SG;2;INFM;PRS
+pullamoq	pullab bo'lgan bo'lasan	V;PFV;SBJV;SG;2;INFM;FUT
+pullamoq	pullagansiz	V;FRML;IND;SG;2;PST
+pullamoq	pullar edingiz	V;FRML;COND;SG;2;PRS
+pullamoq	pullab bo'lgan bo'ladi	V;PFV;SBJV;SG;3;FUT
+pullamoq	pullayman	V;SG;1;PRS
+pullamoq	pullab bo'lgan bo'lasiz	V;PFV;FRML;SBJV;SG;2;FUT
+pullamoq	pullayotgan bo'lardim	V;PROG;COND;SG;1;PRS
+pullamoq	pullayapti	V;PROG;IND;SG;3;PRS
+pullamoq	pulladi	V;PFV;FH;SG;3
+pullamoq	pullang	V;FRML;SBJV;SG;2;PRS
+pullamoq	pullagan edingizlar	V;PFV;IND;PL;2;PST
+quvmoq	quvyapsan	V;PROG;IND;SG;2;INFM;PRS
+quvmoq	quvyapsiz	V;PROG;FRML;IND;SG;2;PRS
+quvmoq	quvayotgan bo'lamiz	V;PROG;IND;PL;1;FUT
+quvmoq	quvayotgan bo'lasizlar	V;PROG;IND;PL;2;FUT
+quvmoq	quvib bol'gan eding	V;PRF;SBJV;SG;2;INFM;PRS
+quvmoq	quvib bo'lgan bo'laman	V;PFV;SBJV;SG;1;FUT
+quvmoq	quvinglar	V;SBJV;PL;2;PRS
+quvmoq	quvib bo'lgan bo'lasizlar	V;PFV;SBJV;PL;2;FUT
+quvmoq	quvgan edik	V;PFV;IND;PL;1;PST
+quvmoq	quvamiz	V;PL;1;PRS
+quvmoq	quvar edim	V;COND;SG;1;PRS
+quvmoq	quvayotgan bo'lar edi	V;PRF+PROG;COND;SG;3;PRS
+quvmoq	quvar eding	V;COND;SG;2;INFM;PRS
+quvmoq	quvayotgan bo'lar edik	V;PRF+PROG;COND;PL;1;PRS
+quvmoq	quvib bo'lgan edi	V;PRF;SBJV;SG;3;PRS
+quvmoq	quvdilar	V;PL;3;PRS
+quvmoq	quvayotgan edik	V;PROG;IND;PL;1;PST
+quvmoq	quvayotgan bo'lar eding	V;PRF+PROG;COND;SG;2;INFM;PRS
+quvmoq	quving	V;FRML;SBJV;SG;2;PRS
+quvmoq	quvar edi	V;COND;SG;3;PRS
+quvmoq	quvib bo'lgan edim	V;PRF;SBJV;SG;1;PRS
+quvmoq	quvayotgan edim	V;PROG;IND;SG;1;PST
+quvmoq	quvyaptilar	V;PROG;IND;PL;3;PRS
+quvmoq	quvib bo'lgan edingizlar	V;PRF;SBJV;PL;2;PRS
+quvmoq	quvayotgan edi	V;PROG;IND;SG;3;PST
+quvmoq	quvayotgan bo'ladilar	V;PROG;IND;PL;3;FUT
+quvmoq	quvayotgan bo'lardingizlar	V;PROG;COND;PL;2;PRS
+quvmoq	quvasiz	V;FRML;SG;2;PRS
+quvmoq	quvaman	V;SG;1;PRS
+quvmoq	quvar edingizlar	V;COND;PL;2;PRS
+quvmoq	quvib bo'lgan bo'lamiz	V;PFV;SBJV;PL;1;FUT
+quvmoq	quvib bo'lgan edilar	V;PRF;SBJV;PL;3;PRS
+quvmoq	quvding	V;PFV;FH;SG;2
+quvmoq	quvayotgan bo'lardingiz	V;PROG;FRML;COND;SG;2;PRS
+quvmoq	quvdilar	V;PFV;FH;PL;3
+quvmoq	quvyapti	V;PROG;IND;SG;3;PRS
+quvmoq	quvib bo'lgan edik	V;PRF;SBJV;PL;1;PRS
+quvmoq	quvaylik	V;SBJV;PL;1;PRS
+quvmoq	quvayotgan bo'lardim	V;PROG;COND;SG;1;PRS
+quvmoq	quvgansan	V;IND;SG;2;INFM;PST
+quvmoq	quvayotgan edingizlar	V;PROG;IND;PL;2;PST
+quvmoq	quvyapmiz	V;PROG;IND;PL;1;PRS
+quvmoq	quvdingizlar	V;PFV;FH;PL;2
+quvmoq	quvdi	V;PFV;FH;SG;3
+quvmoq	quvayotgan bo'lar edingizlar	V;PRF+PROG;COND;PL;2;PRS
+quvmoq	quvyapsizlar	V;PROG;IND;PL;2;PRS
+quvmoq	quvgansizlar	V;IND;PL;2;PST
+quvmoq	quvar edik	V;COND;PL;1;PRS
+quvmoq	quvasizlar	V;PL;2;PRS
+quvmoq	quvar edilar	V;COND;PL;3;PRS
+quvmoq	quvayotgan bo'lasan	V;PROG;IND;SG;2;INFM;FUT
+quvmoq	quvay	V;SBJV;SG;1;PRS
+quvmoq	quvdingiz	V;PFV;FRML;FH;SG;2
+quvmoq	quvayotgan edilar	V;PROG;IND;PL;3;PST
+quvmoq	quvganman	V;IND;SG;1;PST
+quvmoq	quvgan edim	V;PFV;IND;SG;1;PST
+quvmoq	quvayotgan bo'lardilar	V;PROG;COND;PL;3;PRS
+quvmoq	quvgan edingizlar	V;PFV;IND;PL;2;PST
+quvmoq	quvgansiz	V;FRML;IND;SG;2;PST
+quvmoq	quvgan edilar	V;PFV;IND;PL;3;PST
+quvmoq	quvib bo'lgan bo'ladilar	V;PFV;SBJV;PL;3;FUT
+quvmoq	quvgan edi	V;PFV;IND;SG;3;PST
+quvmoq	quvib bo'lgan bo'ladi	V;PFV;SBJV;SG;3;FUT
+quvmoq	quvayotgan eding	V;PROG;IND;SG;2;INFM;PST
+quvmoq	quvayotgan bo'lar edim	V;PRF+PROG;COND;SG;1;PRS
+quvmoq	quvdik	V;PFV;FH;PL;1
+quvmoq	quvasan	V;SG;2;INFM;PRS
+quvmoq	quvgan eding	V;PFV;IND;SG;2;INFM;PST
+quvmoq	quvayotgan bo'lasiz	V;PROG;FRML;IND;SG;2;FUT
+quvmoq	quvsin	V;SBJV;SG;3;PRS
+quvmoq	quvayotgan bo'ladi	V;PROG;IND;SG;3;FUT
+quvmoq	quvar edingiz	V;FRML;COND;SG;2;PRS
+quvmoq	quvayotgan bo'laman	V;PROG;IND;SG;1;FUT
+quvmoq	quvsinlar	V;SBJV;PL;3;PRS
+quvmoq	quvganlar	V;IND;PL;3;PST
+quvmoq	quvyapman	V;PROG;IND;SG;1;PRS
+quvmoq	quvdi	V;SG;3;PRS
+quvmoq	quvib bo'lgan bo'lasan	V;PFV;SBJV;SG;2;INFM;FUT
+quvmoq	quvgan edingiz	V;PFV;FRML;IND;SG;2;PST
+quvmoq	quvib bo'lgan bo'lasiz	V;PFV;FRML;SBJV;SG;2;FUT
+quvmoq	quvganmiz	V;IND;PL;1;PST
+quvmoq	quvayotgan bo'lar edingiz	V;PRF+PROG;FRML;COND;SG;2;PRS
+quvmoq	quvayotgan bo'larding	V;PROG;COND;SG;2;PRS
+quvmoq	quv	V;SBJV;SG;2;PRS
+quvmoq	quvayotgan bo'lardik	V;PROG;COND;PL;1;PRS
+quvmoq	quvgan	V;IND;SG;3;PST
+quvmoq	quvayotgan edingiz	V;PROG;FRML;IND;SG;2;PST
+quvmoq	quvayotgan bo'lardi	V;PROG;COND;SG;3;PRS
+quvmoq	quvdim	V;PFV;FH;SG;1
+quvmoq	quvayotgan bo'lar edilar	V;PRF+PROG;COND;PL;3;PRS
+quvmoq	quvib bo'lgan edingiz	V;PRF;FRML;SBJV;SG;2;PRS
+izoh bermoq	izoh berayotgan edingiz	V;PROG;FRML;IND;SG;2;PST
+izoh bermoq	izoh berib bo'lgan bo'ladi	V;PFV;SBJV;SG;3;FUT
+izoh bermoq	izoh berib bol'gan eding	V;PRF;SBJV;SG;2;INFM;PRS
+izoh bermoq	izoh berayotgan edi	V;PROG;IND;SG;3;PST
+izoh bermoq	izoh berdim	V;PFV;FH;SG;1
+izoh bermoq	izoh berib bo'lgan bo'laman	V;PFV;SBJV;SG;1;FUT
+izoh bermoq	izoh berayotgan bo'ladi	V;PROG;IND;SG;3;FUT
+izoh bermoq	izoh berayotgan bo'lardik	V;PROG;COND;PL;1;PRS
+izoh bermoq	izoh berayotgan bo'lasizlar	V;PROG;IND;PL;2;FUT
+izoh bermoq	izoh bergan	V;IND;SG;3;PST
+izoh bermoq	izoh berganmiz	V;IND;PL;1;PST
+izoh bermoq	izoh berayotgan bo'lamiz	V;PROG;IND;PL;1;FUT
+izoh bermoq	izoh berib bo'lgan bo'lamiz	V;PFV;SBJV;PL;1;FUT
+izoh bermoq	izoh berayotgan bo'larding	V;PROG;COND;SG;2;PRS
+izoh bermoq	izoh berasiz	V;FRML;SG;2;PRS
+izoh bermoq	izoh bergan eding	V;PFV;IND;SG;2;INFM;PST
+izoh bermoq	izoh bergan edingiz	V;PFV;FRML;IND;SG;2;PST
+izoh bermoq	izoh ber	V;SBJV;SG;2;PRS
+izoh bermoq	izoh berayotgan bo'lar edik	V;PRF+PROG;COND;PL;1;PRS
+izoh bermoq	izoh beraylik	V;SBJV;PL;1;PRS
+izoh bermoq	izoh berganman	V;IND;SG;1;PST
+izoh bermoq	izoh beryaptilar	V;PROG;IND;PL;3;PRS
+izoh bermoq	izoh berar edilar	V;COND;PL;3;PRS
+izoh bermoq	izoh beradilar	V;PL;3;PRS
+izoh bermoq	izoh berib bo'lgan edingiz	V;PRF;FRML;SBJV;SG;2;PRS
+izoh bermoq	izoh berayotgan bo'lar edingizlar	V;PRF+PROG;COND;PL;2;PRS
+izoh bermoq	izoh bering	V;FRML;SBJV;SG;2;PRS
+izoh bermoq	izoh berayotgan bo'lar eding	V;PRF+PROG;COND;SG;2;INFM;PRS
+izoh bermoq	izoh berayotgan bo'lar edi	V;PRF+PROG;COND;SG;3;PRS
+izoh bermoq	izoh beramiz	V;PL;1;PRS
+izoh bermoq	izoh berib bo'lgan edilar	V;PRF;SBJV;PL;3;PRS
+izoh bermoq	izoh berayotgan bo'lasan	V;PROG;IND;SG;2;INFM;FUT
+izoh bermoq	izoh berayotgan edim	V;PROG;IND;SG;1;PST
+izoh bermoq	izoh berayotgan bo'lardi	V;PROG;COND;SG;3;PRS
+izoh bermoq	izoh beringlar	V;SBJV;PL;2;PRS
+izoh bermoq	izoh berasizlar	V;PL;2;PRS
+izoh bermoq	izoh berayotgan edingizlar	V;PROG;IND;PL;2;PST
+izoh bermoq	izoh berar edingizlar	V;COND;PL;2;PRS
+izoh bermoq	izoh berib bo'lgan edi	V;PRF;SBJV;SG;3;PRS
+izoh bermoq	izoh berar eding	V;COND;SG;2;INFM;PRS
+izoh bermoq	izoh berar edingiz	V;FRML;COND;SG;2;PRS
+izoh bermoq	izoh beryapsan	V;PROG;IND;SG;2;INFM;PRS
+izoh bermoq	izoh berdingiz	V;PFV;FRML;FH;SG;2
+izoh bermoq	izoh berayotgan bo'lar edilar	V;PRF+PROG;COND;PL;3;PRS
+izoh bermoq	izoh berib bo'lgan bo'lasizlar	V;PFV;SBJV;PL;2;FUT
+izoh bermoq	izoh berayotgan bo'lar edingiz	V;PRF+PROG;FRML;COND;SG;2;PRS
+izoh bermoq	izoh berayotgan bo'lardim	V;PROG;COND;SG;1;PRS
+izoh bermoq	izoh beryapti	V;PROG;IND;SG;3;PRS
+izoh bermoq	izoh beryapsizlar	V;PROG;IND;PL;2;PRS
+izoh bermoq	izoh berayotgan bo'ladilar	V;PROG;IND;PL;3;FUT
+izoh bermoq	izoh berayotgan edilar	V;PROG;IND;PL;3;PST
+izoh bermoq	izoh berib bo'lgan edik	V;PRF;SBJV;PL;1;PRS
+izoh bermoq	izoh bergansizlar	V;IND;PL;2;PST
+izoh bermoq	izoh berar edim	V;COND;SG;1;PRS
+izoh bermoq	izoh berasan	V;SG;2;INFM;PRS
+izoh bermoq	izoh berdik	V;PFV;FH;PL;1
+izoh bermoq	izoh beray	V;SBJV;SG;1;PRS
+izoh bermoq	izoh bergan edingizlar	V;PFV;IND;PL;2;PST
+izoh bermoq	izoh beryapmiz	V;PROG;IND;PL;1;PRS
+izoh bermoq	izoh berayotgan eding	V;PROG;IND;SG;2;INFM;PST
+izoh bermoq	izoh berayotgan bo'lardilar	V;PROG;COND;PL;3;PRS
+izoh bermoq	izoh bergansan	V;IND;SG;2;INFM;PST
+izoh bermoq	izoh berayotgan edik	V;PROG;IND;PL;1;PST
+izoh bermoq	izoh berar edi	V;COND;SG;3;PRS
+izoh bermoq	izoh bergan edim	V;PFV;IND;SG;1;PST
+izoh bermoq	izoh berayotgan bo'lar edim	V;PRF+PROG;COND;SG;1;PRS
+izoh bermoq	izoh bergan edi	V;PFV;IND;SG;3;PST
+izoh bermoq	izoh berayotgan bo'laman	V;PROG;IND;SG;1;FUT
+izoh bermoq	izoh berib bo'lgan bo'lasan	V;PFV;SBJV;SG;2;INFM;FUT
+izoh bermoq	izoh berayotgan bo'lasiz	V;PROG;FRML;IND;SG;2;FUT
+izoh bermoq	izoh berdilar	V;PFV;FH;PL;3
+izoh bermoq	izoh bergansiz	V;FRML;IND;SG;2;PST
+izoh bermoq	izoh berib bo'lgan bo'ladilar	V;PFV;SBJV;PL;3;FUT
+izoh bermoq	izoh berganlar	V;IND;PL;3;PST
+izoh bermoq	izoh berar edik	V;COND;PL;1;PRS
+izoh bermoq	izoh beradi	V;SG;3;PRS
+izoh bermoq	izoh berdi	V;PFV;FH;SG;3
+izoh bermoq	izoh bersin	V;SBJV;SG;3;PRS
+izoh bermoq	izoh bergan edilar	V;PFV;IND;PL;3;PST
+izoh bermoq	izoh berib bo'lgan edim	V;PRF;SBJV;SG;1;PRS
+izoh bermoq	izoh berding	V;PFV;FH;SG;2
+izoh bermoq	izoh beraman	V;SG;1;PRS
+izoh bermoq	izoh berib bo'lgan edingizlar	V;PRF;SBJV;PL;2;PRS
+izoh bermoq	izoh berdingizlar	V;PFV;FH;PL;2
+izoh bermoq	izoh beryapman	V;PROG;IND;SG;1;PRS
+izoh bermoq	izoh bersinlar	V;SBJV;PL;3;PRS
+izoh bermoq	izoh bergan edik	V;PFV;IND;PL;1;PST
+izoh bermoq	izoh berib bo'lgan bo'lasiz	V;PFV;FRML;SBJV;SG;2;FUT
+izoh bermoq	izoh beryapsiz	V;PROG;FRML;IND;SG;2;PRS
+vorislik qilmoq	vorislik qilayotgan edingiz	V;PROG;FRML;IND;SG;2;PST
+vorislik qilmoq	vorislik qildi	V;PFV;FH;SG;3
+vorislik qilmoq	vorislik qilyapmiz	V;PROG;IND;PL;1;PRS
+vorislik qilmoq	vorislik qilyaptilar	V;PROG;IND;PL;3;PRS
+vorislik qilmoq	vorislik qilar eding	V;COND;SG;2;INFM;PRS
+vorislik qilmoq	vorislik qildingizlar	V;PFV;FH;PL;2
+vorislik qilmoq	vorislik qilib bo'lgan bo'ladilar	V;PFV;SBJV;PL;3;FUT
+vorislik qilmoq	vorislik qilasizlar	V;PL;2;PRS
+vorislik qilmoq	vorislik qilayotgan bo'larding	V;PROG;COND;SG;2;PRS
+vorislik qilmoq	vorislik qilayotgan bo'lar edik	V;PRF+PROG;COND;PL;1;PRS
+vorislik qilmoq	vorislik qilgansan	V;IND;SG;2;INFM;PST
+vorislik qilmoq	vorislik qilib bo'lgan edik	V;PRF;SBJV;PL;1;PRS
+vorislik qilmoq	vorislik qilib bo'lgan edingiz	V;PRF;FRML;SBJV;SG;2;PRS
+vorislik qilmoq	vorislik qilganman	V;IND;SG;1;PST
+vorislik qilmoq	vorislik qilayotgan bo'lar edingiz	V;PRF+PROG;FRML;COND;SG;2;PRS
+vorislik qilmoq	vorislik qilayotgan bo'lardik	V;PROG;COND;PL;1;PRS
+vorislik qilmoq	vorislik qildingiz	V;PFV;FRML;FH;SG;2
+vorislik qilmoq	vorislik qilgansizlar	V;IND;PL;2;PST
+vorislik qilmoq	vorislik qilganlar	V;IND;PL;3;PST
+vorislik qilmoq	vorislik qilgan	V;IND;SG;3;PST
+vorislik qilmoq	vorislik qilayotgan bo'lar edingizlar	V;PRF+PROG;COND;PL;2;PRS
+vorislik qilmoq	vorislik qilib bo'lgan bo'lamiz	V;PFV;SBJV;PL;1;FUT
+vorislik qilmoq	vorislik qiladilar	V;PL;3;PRS
+vorislik qilmoq	vorislik qilayotgan bo'lar edilar	V;PRF+PROG;COND;PL;3;PRS
+vorislik qilmoq	vorislik qilgan edingizlar	V;PFV;IND;PL;2;PST
+vorislik qilmoq	vorislik qilayotgan bo'lardi	V;PROG;COND;SG;3;PRS
+vorislik qilmoq	vorislik qilib bo'lgan bo'lasan	V;PFV;SBJV;SG;2;INFM;FUT
+vorislik qilmoq	vorislik qilayotgan bo'lardilar	V;PROG;COND;PL;3;PRS
+vorislik qilmoq	vorislik qilyapti	V;PROG;IND;SG;3;PRS
+vorislik qilmoq	vorislik qilasiz	V;FRML;SG;2;PRS
+vorislik qilmoq	vorislik qilar edim	V;COND;SG;1;PRS
+vorislik qilmoq	vorislik qilyapsizlar	V;PROG;IND;PL;2;PRS
+vorislik qilmoq	vorislik qilgan edilar	V;PFV;IND;PL;3;PST
+vorislik qilmoq	vorislik qilib bo'lgan edi	V;PRF;SBJV;SG;3;PRS
+vorislik qilmoq	vorislik qilding	V;PFV;FH;SG;2
+vorislik qilmoq	vorislik qilayotgan bo'laman	V;PROG;IND;SG;1;FUT
+vorislik qilmoq	vorislik qilgansiz	V;FRML;IND;SG;2;PST
+vorislik qilmoq	vorislik qilayotgan bo'lasizlar	V;PROG;IND;PL;2;FUT
+vorislik qilmoq	vorislik qilaman	V;SG;1;PRS
+vorislik qilmoq	vorislik qilayotgan edi	V;PROG;IND;SG;3;PST
+vorislik qilmoq	vorislik qilayotgan edik	V;PROG;IND;PL;1;PST
+vorislik qilmoq	vorislik qilar edingizlar	V;COND;PL;2;PRS
+vorislik qilmoq	vorislik qilamiz	V;PL;1;PRS
+vorislik qilmoq	vorislik qilgan edingiz	V;PFV;FRML;IND;SG;2;PST
+vorislik qilmoq	vorislik qilayotgan bo'lar edim	V;PRF+PROG;COND;SG;1;PRS
+vorislik qilmoq	vorislik qilgan edim	V;PFV;IND;SG;1;PST
+vorislik qilmoq	vorislik qilayotgan bo'ladilar	V;PROG;IND;PL;3;FUT
+vorislik qilmoq	vorislik qilib bo'lgan edim	V;PRF;SBJV;SG;1;PRS
+vorislik qilmoq	vorislik qildim	V;PFV;FH;SG;1
+vorislik qilmoq	vorislik qilayotgan edingizlar	V;PROG;IND;PL;2;PST
+vorislik qilmoq	vorislik qilayotgan bo'lardim	V;PROG;COND;SG;1;PRS
+vorislik qilmoq	vorislik qilar edingiz	V;FRML;COND;SG;2;PRS
+vorislik qilmoq	vorislik qilyapman	V;PROG;IND;SG;1;PRS
+vorislik qilmoq	vorislik qilib bo'lgan bo'lasizlar	V;PFV;SBJV;PL;2;FUT
+vorislik qilmoq	vorislik qilayotgan bo'lasiz	V;PROG;FRML;IND;SG;2;FUT
+vorislik qilmoq	vorislik qilayotgan bo'lar eding	V;PRF+PROG;COND;SG;2;INFM;PRS
+vorislik qilmoq	vorislik qilar edilar	V;COND;PL;3;PRS
+vorislik qilmoq	vorislik qilib bo'lgan bo'laman	V;PFV;SBJV;SG;1;FUT
+vorislik qilmoq	vorislik qilib bo'lgan bo'lasiz	V;PFV;FRML;SBJV;SG;2;FUT
+vorislik qilmoq	vorislik qilib bo'lgan edingizlar	V;PRF;SBJV;PL;2;PRS
+vorislik qilmoq	vorislik qilayotgan edim	V;PROG;IND;SG;1;PST
+vorislik qilmoq	vorislik qilgan edi	V;PFV;IND;SG;3;PST
+vorislik qilmoq	vorislik qilib bol'gan eding	V;PRF;SBJV;SG;2;INFM;PRS
+vorislik qilmoq	vorislik qilib bo'lgan bo'ladi	V;PFV;SBJV;SG;3;FUT
+vorislik qilmoq	vorislik qilasan	V;SG;2;INFM;PRS
+vorislik qilmoq	vorislik qilyapsiz	V;PROG;FRML;IND;SG;2;PRS
+vorislik qilmoq	vorislik qilayotgan bo'lar edi	V;PRF+PROG;COND;SG;3;PRS
+vorislik qilmoq	vorislik qilayotgan bo'lamiz	V;PROG;IND;PL;1;FUT
+vorislik qilmoq	vorislik qiladi	V;SG;3;PRS
+vorislik qilmoq	vorislik qilar edik	V;COND;PL;1;PRS
+vorislik qilmoq	vorislik qilgan edik	V;PFV;IND;PL;1;PST
+vorislik qilmoq	vorislik qilayotgan bo'lasan	V;PROG;IND;SG;2;INFM;FUT
+vorislik qilmoq	vorislik qilayotgan bo'ladi	V;PROG;IND;SG;3;FUT
+vorislik qilmoq	vorislik qilayotgan eding	V;PROG;IND;SG;2;INFM;PST
+vorislik qilmoq	vorislik qilar edi	V;COND;SG;3;PRS
+vorislik qilmoq	vorislik qildilar	V;PFV;FH;PL;3
+vorislik qilmoq	vorislik qildik	V;PFV;FH;PL;1
+vorislik qilmoq	vorislik qilgan eding	V;PFV;IND;SG;2;INFM;PST
+vorislik qilmoq	vorislik qilyapsan	V;PROG;IND;SG;2;INFM;PRS
+vorislik qilmoq	vorislik qilganmiz	V;IND;PL;1;PST
+vorislik qilmoq	vorislik qilayotgan edilar	V;PROG;IND;PL;3;PST
+vorislik qilmoq	vorislik qilib bo'lgan edilar	V;PRF;SBJV;PL;3;PRS
+tugatmoq	tugatayotgan bo'lardik	V;PROG;COND;PL;1;PRS
+tugatmoq	tugatyapti	V;PROG;IND;SG;3;PRS
+tugatmoq	tugatayotgan bo'lar edingiz	V;PRF+PROG;FRML;COND;SG;2;PRS
+tugatmoq	tugatyapsiz	V;PROG;FRML;IND;SG;2;PRS
+tugatmoq	tugatasizlar	V;PL;2;PRS
+tugatmoq	tugatar edim	V;COND;SG;1;PRS
+tugatmoq	tugataman	V;SG;1;PRS
+tugatmoq	tugatyapsan	V;PROG;IND;SG;2;INFM;PRS
+tugatmoq	tugatdik	V;PFV;FH;PL;1
+tugatmoq	tugatar edilar	V;COND;PL;3;PRS
+tugatmoq	tugatar edingizlar	V;COND;PL;2;PRS
+tugatmoq	tugatar edingiz	V;FRML;COND;SG;2;PRS
+tugatmoq	tugatar edik	V;COND;PL;1;PRS
+tugatmoq	tugatib bo'lgan bo'ladilar	V;PFV;SBJV;PL;3;FUT
+tugatmoq	tugatyapmiz	V;PROG;IND;PL;1;PRS
+tugatmoq	tugatayotgan edi	V;PROG;IND;SG;3;PST
+tugatmoq	tugatgan edilar	V;PFV;IND;PL;3;PST
+tugatmoq	tugatgansiz	V;FRML;IND;SG;2;PST
+tugatmoq	tugatganlar	V;IND;PL;3;PST
+tugatmoq	tugatgan edi	V;PFV;IND;SG;3;PST
+tugatmoq	tugatganman	V;IND;SG;1;PST
+tugatmoq	tugatgan	V;IND;SG;3;PST
+tugatmoq	tugatgan edim	V;PFV;IND;SG;1;PST
+tugatmoq	tugatayotgan bo'lardi	V;PROG;COND;SG;3;PRS
+tugatmoq	tugatdi	V;PFV;FH;SG;3
+tugatmoq	tugatayotgan bo'lar edik	V;PRF+PROG;COND;PL;1;PRS
+tugatmoq	tugatib bo'lgan edingiz	V;PRF;FRML;SBJV;SG;2;PRS
+tugatmoq	tugatayotgan bo'laman	V;PROG;IND;SG;1;FUT
+tugatmoq	tugatib bo'lgan edim	V;PRF;SBJV;SG;1;PRS
+tugatmoq	tugatasan	V;SG;2;INFM;PRS
+tugatmoq	tugatayotgan bo'lasiz	V;PROG;FRML;COND;SG;2;PRS
+tugatmoq	tugatgan edingiz	V;PFV;FRML;IND;SG;2;PST
+tugatmoq	tugatayotgan edik	V;PROG;IND;PL;1;PST
+tugatmoq	tugatadi	V;SG;3;PRS
+tugatmoq	tugatadilar	V;PL;3;PRS
+tugatmoq	tugatib bo'lgan bo'lasan	V;PFV;SBJV;SG;2;INFM;FUT
+tugatmoq	tugatayotgan edilar	V;PROG;IND;PL;3;PST
+tugatmoq	tugatayotgan bo'lar edim	V;PRF+PROG;COND;SG;1;PRS
+tugatmoq	tugatgansizlar	V;IND;PL;2;PST
+tugatmoq	tugatyaptilar	V;PROG;IND;PL;3;PRS
+tugatmoq	tugatdingiz	V;PFV;FRML;FH;SG;2
+tugatmoq	tugatayotgan bo'ladilar	V;PROG;IND;PL;3;FUT
+tugatmoq	tugatdingizlar	V;PFV;FH;PL;2
+tugatmoq	tugatayotgan eding	V;PROG;IND;SG;2;INFM;PST
+tugatmoq	tugatayotgan bo'ladi	V;PROG;IND;SG;3;FUT
+tugatmoq	tugatib bo'lgan edingizlar	V;PRF;SBJV;PL;2;PRS
+tugatmoq	tugatayotgan bo'lasan	V;PROG;IND;SG;2;INFM;FUT
+tugatmoq	tugatar eding	V;COND;SG;2;INFM;PRS
+tugatmoq	tugatgan edik	V;PFV;IND;PL;1;PST
+tugatmoq	tugatayotgan bo'larding	V;PROG;COND;SG;2;PRS
+tugatmoq	tugatgan edingizlar	V;PFV;IND;PL;2;PST
+tugatmoq	tugatganmiz	V;IND;PL;1;PST
+tugatmoq	tugatib bol'gan eding	V;PRF;SBJV;SG;2;INFM;PRS
+tugatmoq	tugatamiz	V;PL;1;PRS
+tugatmoq	tugatib bo'lgan edi	V;PRF;SBJV;SG;3;PRS
+tugatmoq	tugatib bo'lgan edilar	V;PRF;SBJV;PL;3;PRS
+tugatmoq	tugatgan eding	V;PFV;IND;SG;2;INFM;PST
+tugatmoq	tugatyapsizlar	V;PROG;IND;PL;2;PRS
+tugatmoq	tugatib bo'lgan bo'lamiz	V;PFV;SBJV;PL;1;FUT
+tugatmoq	tugatib bo'lgan bo'laman	V;PFV;SBJV;SG;1;FUT
+tugatmoq	tugatayotgan bo'lar eding	V;PRF+PROG;COND;SG;2;INFM;PRS
+tugatmoq	tugatayotgan bo'lar edingizlar	V;PRF+PROG;COND;PL;2;PRS
+tugatmoq	tugatayotgan bo'lasiz	V;PROG;FRML;IND;SG;2;FUT
+tugatmoq	tugatayotgan bo'lasizlar	V;PROG;COND;PL;2;PRS
+tugatmoq	tugatding	V;PFV;FH;SG;2
+tugatmoq	tugatayotgan bo'lar edilar	V;PRF+PROG;COND;PL;3;PRS
+tugatmoq	tugatayotgan bo'lamiz	V;PROG;IND;PL;1;FUT
+tugatmoq	tugatdim	V;PFV;FH;SG;1
+tugatmoq	tugatayotgan bo'lardim	V;PROG;COND;SG;1;PRS
+tugatmoq	tugatayotgan edingizlar	V;PROG;IND;PL;2;PST
+tugatmoq	tugatayotgan bo'lasizlar	V;PROG;IND;PL;2;FUT
+tugatmoq	tugatgansan	V;IND;SG;2;INFM;PST
+tugatmoq	tugatayotgan bo'lardilar	V;PROG;COND;PL;3;PRS
+tugatmoq	tugatayotgan edim	V;PROG;IND;SG;1;PST
+tugatmoq	tugatdilar	V;PFV;FH;PL;3
+tugatmoq	tugatar edi	V;COND;SG;3;PRS
+tugatmoq	tugatib bo'lgan bo'lasiz	V;PFV;FRML;SBJV;SG;2;FUT
+tugatmoq	tugatayotgan bo'lar edi	V;PRF+PROG;COND;SG;3;PRS
+tugatmoq	tugatib bo'lgan edik	V;PRF;SBJV;PL;1;PRS
+tugatmoq	tugatib bo'lgan bo'lasizlar	V;PFV;SBJV;PL;2;FUT
+tugatmoq	tugatib bo'lgan bo'ladi	V;PFV;SBJV;SG;3;FUT
+tugatmoq	tugatayotgan edingiz	V;PROG;FRML;IND;SG;2;PST
+tugatmoq	tugatasiz	V;FRML;SG;2;PRS
+tugatmoq	tugatyapman	V;PROG;IND;SG;1;PRS
+demoq	dedilar	V;PFV;FH;PL;3
+demoq	degan edingizlar	V;PFV;IND;PL;2;PST
+demoq	deyayotgan bo'lardi	V;PROG;COND;SG;3;PRS
+demoq	deganlar	V;IND;PL;3;PST
+demoq	deb bo'lgan edim	V;PRF;SBJV;SG;1;PRS
+demoq	deyayotgan bo'lardim	V;PROG;COND;SG;1;PRS
+demoq	deyapsan	V;PROG;IND;SG;2;INFM;PRS
+demoq	deyotgan bo'lasan	V;PROG;IND;SG;2;INFM;FUT
+demoq	deyapman	V;PROG;IND;SG;1;PRS
+demoq	deb bo'lgan edingiz	V;PRF;FRML;SBJV;SG;2;PRS
+demoq	deyotgan edi	V;PROG;IND;SG;3;PST
+demoq	dedik	V;PFV;FH;PL;1
+demoq	degansiz	V;FRML;IND;SG;2;PST
+demoq	deyapsiz	V;PROG;FRML;IND;SG;2;PRS
+demoq	deyayotgan bo'lar edingizlar	V;PRF+PROG;COND;PL;2;PRS
+demoq	deyaptilar	V;PROG;IND;PL;3;PRS
+demoq	degan edim	V;PFV;IND;SG;1;PST
+demoq	deyayotgan bo'larding	V;PROG;COND;SG;2;PRS
+demoq	degansizlar	V;IND;PL;2;PST
+demoq	der edilar	V;COND;PL;3;PRS
+demoq	deyotgan eding	V;PROG;IND;SG;2;INFM;PST
+demoq	deyayotgan bo'lar eding	V;PRF+PROG;COND;SG;2;INFM;PRS
+demoq	degan edilar	V;PFV;IND;PL;3;PST
+demoq	deyayotgan bo'lardingizlar	V;PROG;COND;PL;2;PRS
+demoq	dedi	V;PFV;FH;SG;3
+demoq	deymiz	V;PL;1;PRS
+demoq	deyotgan bo'lasizlar	V;PROG;IND;PL;2;FUT
+demoq	deyotgan edik	V;PROG;IND;PL;1;PST
+demoq	der edim	V;COND;SG;1;PRS
+demoq	deyapmiz	V;PROG;IND;PL;1;PRS
+demoq	dedingiz	V;PFV;FRML;FH;SG;2
+demoq	deydi	V;SG;3;PRS
+demoq	deyotgan bo'laman	V;PROG;IND;SG;1;FUT
+demoq	deysan	V;SG;2;INFM;PRS
+demoq	deysizlar	V;PL;2;PRS
+demoq	dedingizlar	V;PFV;FH;PL;2
+demoq	degan edi	V;PFV;IND;SG;3;PST
+demoq	deyayotgan bo'lar edingiz	V;PRF+PROG;FRML;COND;SG;2;PRS
+demoq	degan	V;IND;SG;3;PST
+demoq	deydilar	V;PL;3;PRS
+demoq	deyotgan edingizlar	V;PROG;IND;PL;2;PST
+demoq	deb bo'lgan edingizlar	V;PRF;SBJV;PL;2;PRS
+demoq	der eding	V;COND;SG;2;INFM;PRS
+demoq	der edingizlar	V;COND;PL;2;PRS
+demoq	deyotgan bo'lasiz	V;PROG;FRML;IND;SG;2;FUT
+demoq	deyotgan edilar	V;PROG;IND;PL;3;PST
+demoq	deyotgan bo'ladilar	V;PROG;IND;PL;3;FUT
+demoq	deb bol'gan eding	V;PRF;SBJV;SG;2;INFM;PRS
+demoq	dedim	V;PFV;FH;SG;1
+demoq	deyotgan edim	V;PROG;IND;SG;1;PST
+demoq	deb bo'lgan bo'lamiz	V;PFV;SBJV;PL;1;FUT
+demoq	deb bo'lgan bo'ladilar	V;PFV;SBJV;PL;3;FUT
+demoq	deb bo'lgan edik	V;PRF;SBJV;PL;1;PRS
+demoq	deb bo'lgan bo'ladi	V;PFV;SBJV;SG;3;FUT
+demoq	deb bo'lgan edi	V;PRF;SBJV;SG;3;PRS
+demoq	degan edik	V;PFV;IND;PL;1;PST
+demoq	deganman	V;IND;SG;1;PST
+demoq	deb bo'lgan bo'laman	V;PFV;SBJV;SG;1;FUT
+demoq	deb bo'lgan edilar	V;PRF;SBJV;PL;3;PRS
+demoq	deyayotgan bo'lardilar	V;PROG;COND;PL;3;PRS
+demoq	degansan	V;IND;SG;2;INFM;PST
+demoq	degan eding	V;PFV;IND;SG;2;INFM;PST
+demoq	deyapsizlar	V;PROG;IND;PL;2;PRS
+demoq	deyayotgan bo'lar edim	V;PRF+PROG;COND;SG;1;PRS
+demoq	der edingiz	V;FRML;COND;SG;2;PRS
+demoq	degan edingiz	V;PFV;FRML;IND;SG;2;PST
+demoq	deyotgan bo'lamiz	V;PROG;IND;PL;1;FUT
+demoq	deganmiz	V;IND;PL;1;PST
+demoq	deb bo'lgan bo'lasiz	V;PFV;FRML;SBJV;SG;2;FUT
+demoq	deyayotgan bo'lar edik	V;PRF+PROG;COND;PL;1;PRS
+demoq	deb bo'lgan bo'lasan	V;PFV;SBJV;SG;2;INFM;FUT
+demoq	deding	V;PFV;FH;SG;2
+demoq	deyman	V;SG;1;PRS
+demoq	deyotgan bo'ladi	V;PROG;IND;SG;3;FUT
+demoq	deyotgan edingiz	V;PROG;FRML;IND;SG;2;PST
+demoq	deyayotgan bo'lar edilar	V;PRF+PROG;COND;PL;3;PRS
+demoq	deyayotgan bo'lar edi	V;PRF+PROG;COND;SG;3;PRS
+demoq	der edi	V;COND;SG;3;PRS
+demoq	deysiz	V;FRML;SG;2;PRS
+demoq	deyapti	V;PROG;IND;SG;3;PRS
+demoq	deyayotgan bo'lardik	V;PROG;COND;PL;1;PRS
+demoq	deyayotgan bo'lardingiz	V;PROG;FRML;COND;SG;2;PRS
+demoq	deb bo'lgan bo'lasizlar	V;PFV;SBJV;PL;2;FUT
+demoq	der edik	V;COND;PL;1;PRS
+yemoq	yeb bo'lgan bo'ladi	V;PFV;SBJV;SG;3;FUT
+yemoq	yeyotgan eding	V;PROG;IND;SG;2;INFM;PST
+yemoq	yeyotgan edingizlar	V;PROG;IND;PL;2;PST
+yemoq	yeyotgan bo'lamiz	V;PROG;IND;PL;1;FUT
+yemoq	yeyotgan edim	V;PROG;IND;SG;1;PST
+yemoq	yeb bo'lgan edim	V;PRF;SBJV;SG;1;PRS
+yemoq	yeyotgan bo'lar edingiz	V;PRF+PROG;FRML;COND;SG;2;PRS
+yemoq	yeyotgan bo'lasan	V;PROG;IND;SG;2;INFM;FUT
+yemoq	yer edim	V;COND;SG;1;PRS
+yemoq	yeydilar	V;PL;3;PRS
+yemoq	yeyotgan bo'lasiz	V;PROG;FRML;COND;SG;2;PRS
+yemoq	yegan edilar	V;PFV;IND;PL;3;PST
+yemoq	yesinlar	V;SBJV;PL;3;PRS
+yemoq	yeyotgan bo'lasiz	V;PROG;FRML;IND;SG;2;FUT
+yemoq	yeyman	V;SG;1;PRS
+yemoq	yer edik	V;COND;PL;1;PRS
+yemoq	yer edingiz	V;FRML;COND;SG;2;PRS
+yemoq	ye	V;SBJV;SG;2;PRS
+yemoq	yeydi	V;SG;3;PRS
+yemoq	yedingiz	V;PFV;FRML;FH;SG;2
+yemoq	yeganmiz	V;IND;PL;1;PST
+yemoq	yeyotgan bo'ladi	V;PROG;IND;SG;3;FUT
+yemoq	yeb bo'lgan bo'lasiz	V;PFV;FRML;SBJV;SG;2;FUT
+yemoq	yer edilar	V;COND;PL;3;PRS
+yemoq	yeb bo'lgan edingizlar	V;PRF;SBJV;PL;2;PRS
+yemoq	yeyaptilar	V;PROG;IND;PL;3;PRS
+yemoq	yeyotgan bo'lardik	V;PROG;COND;PL;1;PRS
+yemoq	yeyotgan bo'larding	V;PROG;COND;SG;2;PRS
+yemoq	yey	V;SBJV;SG;1;PRS
+yemoq	yeyapmiz	V;PROG;IND;PL;1;PRS
+yemoq	yeysiz	V;FRML;SG;2;PRS
+yemoq	yeyapman	V;PROG;IND;SG;1;PRS
+yemoq	yegan edi	V;PFV;IND;SG;3;PST
+yemoq	yeyapsiz	V;PROG;FRML;IND;SG;2;PRS
+yemoq	yeyotgan bo'lasizlar	V;PROG;COND;PL;2;PRS
+yemoq	yeb bo'lgan edi	V;PRF;SBJV;SG;3;PRS
+yemoq	yeganman	V;IND;SG;1;PST
+yemoq	yegan edingizlar	V;PFV;IND;PL;2;PST
+yemoq	yegan edingiz	V;PFV;FRML;IND;SG;2;PST
+yemoq	yeb bo'lgan bo'lamiz	V;PFV;SBJV;PL;1;FUT
+yemoq	yesin	V;SBJV;SG;3;PRS
+yemoq	yegan	V;IND;SG;3;PST
+yemoq	yeding	V;PFV;FH;SG;2
+yemoq	yeyapsan	V;PROG;IND;SG;2;INFM;PRS
+yemoq	yeyotgan bo'lardilar	V;PROG;COND;PL;3;PRS
+yemoq	yeb bo'lgan bo'laman	V;PFV;SBJV;SG;1;FUT
+yemoq	yeylik	V;SBJV;PL;1;PRS
+yemoq	yeganlar	V;IND;PL;3;PST
+yemoq	yedilar	V;PFV;FH;PL;3
+yemoq	yeyotgan edi	V;PROG;IND;SG;3;PST
+yemoq	yeyotgan edilar	V;PROG;IND;PL;3;PST
+yemoq	yeb bol'gan eding	V;PRF;SBJV;SG;2;INFM;PRS
+yemoq	yer edingizlar	V;COND;PL;2;PRS
+yemoq	yeyotgan bo'lar edi	V;PRF+PROG;COND;SG;3;PRS
+yemoq	yeyotgan bo'lar eding	V;PRF+PROG;COND;SG;2;INFM;PRS
+yemoq	yeb bo'lgan edingiz	V;PRF;FRML;SBJV;SG;2;PRS
+yemoq	yegansan	V;IND;SG;2;INFM;PST
+yemoq	yegansizlar	V;IND;PL;2;PST
+yemoq	yeyotgan bo'lardi	V;PROG;COND;SG;3;PRS
+yemoq	yeyotgan bo'ladilar	V;PROG;IND;PL;3;FUT
+yemoq	yer eding	V;COND;SG;2;INFM;PRS
+yemoq	yeymiz	V;PL;1;PRS
+yemoq	yeysan	V;SG;2;INFM;PRS
+yemoq	yer edi	V;COND;SG;3;PRS
+yemoq	yeb bo'lgan bo'lasan	V;PFV;SBJV;SG;2;INFM;FUT
+yemoq	yeysizlar	V;PL;2;PRS
+yemoq	yeyapsizlar	V;PROG;IND;PL;2;PRS
+yemoq	yeyotgan bo'laman	V;PROG;IND;SG;1;FUT
+yemoq	yedik	V;PFV;FH;PL;1
+yemoq	yegan edik	V;PFV;IND;PL;1;PST
+yemoq	yeyapti	V;PROG;IND;SG;3;PRS
+yemoq	yeyotgan edingiz	V;PROG;FRML;IND;SG;2;PST
+yemoq	yeyotgan bo'lar edingizlar	V;PRF+PROG;COND;PL;2;PRS
+yemoq	yeng	V;FRML;SBJV;SG;2;PRS
+yemoq	yeb bo'lgan bo'ladilar	V;PFV;SBJV;PL;3;FUT
+yemoq	yeyotgan bo'lar edilar	V;PRF+PROG;COND;PL;3;PRS
+yemoq	yeyotgan bo'lar edim	V;PRF+PROG;COND;SG;1;PRS
+yemoq	yeyotgan bo'lardim	V;PROG;COND;SG;1;PRS
+yemoq	yedi	V;PFV;FH;SG;3
+yemoq	yeyotgan bo'lar edik	V;PRF+PROG;COND;PL;1;PRS
+yemoq	yeb bo'lgan edik	V;PRF;SBJV;PL;1;PRS
+yemoq	yedingizlar	V;PFV;FH;PL;2
+yemoq	yedim	V;PFV;FH;SG;1
+yemoq	yeyotgan edik	V;PROG;IND;PL;1;PST
+yemoq	yenglar	V;SBJV;PL;2;PRS
+yemoq	yeb bo'lgan bo'lasizlar	V;PFV;SBJV;PL;2;FUT
+yemoq	yeyotgan bo'lasizlar	V;PROG;IND;PL;2;FUT
+yemoq	yegan edim	V;PFV;IND;SG;1;PST
+yemoq	yeb bo'lgan edilar	V;PRF;SBJV;PL;3;PRS
+yemoq	yegan eding	V;PFV;IND;SG;2;INFM;PST
+yemoq	yegansiz	V;FRML;IND;SG;2;PST
+tushunib yetmoq	tushunib yetar edim	V;COND;SG;1;PRS
+tushunib yetmoq	tushunib yetayotgan bo'lardik	V;PROG;COND;PL;1;PRS
+tushunib yetmoq	tushunib yetasizlar	V;PL;2;PRS
+tushunib yetmoq	tushunib yetar edingiz	V;FRML;COND;SG;2;PRS
+tushunib yetmoq	tushunib yetamiz	V;PL;1;PRS
+tushunib yetmoq	tushunib yetgan edilar	V;PFV;IND;PL;3;PST
+tushunib yetmoq	tushunib yetayotgan bo'lardi	V;PROG;COND;SG;3;PRS
+tushunib yetmoq	tushunib yetayotgan bo'lar edi	V;PRF+PROG;COND;SG;3;PRS
+tushunib yetmoq	tushunib yetyapsan	V;PROG;IND;SG;2;INFM;PRS
+tushunib yetmoq	tushunib yetgan edingizlar	V;PFV;IND;PL;2;PST
+tushunib yetmoq	tushunib yetganmiz	V;IND;PL;1;PST
+tushunib yetmoq	tushunib yetayotgan bo'lar eding	V;PRF+PROG;COND;SG;2;INFM;PRS
+tushunib yetmoq	tushunib yetayotgan bo'lar edik	V;PRF+PROG;COND;PL;1;PRS
+tushunib yetmoq	tushunib yetib bo'lgan bo'laman	V;PFV;SBJV;SG;1;FUT
+tushunib yetmoq	tushunib yetib bo'lgan bo'lasan	V;PFV;SBJV;SG;2;INFM;FUT
+tushunib yetmoq	tushunib yetib bo'lgan edingizlar	V;PRF;SBJV;PL;2;PRS
+tushunib yetmoq	tushunib yetgan edingiz	V;PFV;FRML;IND;SG;2;PST
+tushunib yetmoq	tushunib yetayotgan bo'ladilar	V;PROG;IND;PL;3;FUT
+tushunib yetmoq	tushunib yetdilar	V;PFV;FH;PL;3
+tushunib yetmoq	tushunib yetayotgan bo'larding	V;PROG;COND;SG;2;PRS
+tushunib yetmoq	tushunib yetdingizlar	V;PFV;FH;PL;2
+tushunib yetmoq	tushunib yetganlar	V;IND;PL;3;PST
+tushunib yetmoq	tushunib yetdim	V;PFV;FH;SG;1
+tushunib yetmoq	tushunib yetayotgan edingizlar	V;PROG;IND;PL;2;PST
+tushunib yetmoq	tushunib yetyapsiz	V;PROG;FRML;IND;SG;2;PRS
+tushunib yetmoq	tushunib yetar edik	V;COND;PL;1;PRS
+tushunib yetmoq	tushunib yetayotgan bo'lamiz	V;PROG;IND;PL;1;FUT
+tushunib yetmoq	tushunib yetayotgan bo'lardim	V;PROG;COND;SG;1;PRS
+tushunib yetmoq	tushunib yetayotgan bo'lasan	V;PROG;IND;SG;2;INFM;FUT
+tushunib yetmoq	tushunib yetar edi	V;COND;SG;3;PRS
+tushunib yetmoq	tushunib yetgan	V;IND;SG;3;PST
+tushunib yetmoq	tushunib yetgansan	V;IND;SG;2;INFM;PST
+tushunib yetmoq	tushunib yetyaptilar	V;PROG;IND;PL;3;PRS
+tushunib yetmoq	tushunib yetgan eding	V;PFV;IND;SG;2;INFM;PST
+tushunib yetmoq	tushunib yetayotgan bo'ladi	V;PROG;IND;SG;3;FUT
+tushunib yetmoq	tushunib yetar eding	V;COND;SG;2;INFM;PRS
+tushunib yetmoq	tushunib yetayotgan bo'lar edim	V;PRF+PROG;COND;SG;1;PRS
+tushunib yetmoq	tushunib yetayotgan bo'lardilar	V;PROG;COND;PL;3;PRS
+tushunib yetmoq	tushunib yetar edilar	V;COND;PL;3;PRS
+tushunib yetmoq	tushunib yetib bo'lgan edilar	V;PRF;SBJV;PL;3;PRS
+tushunib yetmoq	tushunib yetyapmiz	V;PROG;IND;PL;1;PRS
+tushunib yetmoq	tushunib yetib bo'lgan edi	V;PRF;SBJV;SG;3;PRS
+tushunib yetmoq	tushunib yetayotgan edi	V;PROG;IND;SG;3;PST
+tushunib yetmoq	tushunib yetayotgan bo'laman	V;PROG;IND;SG;1;FUT
+tushunib yetmoq	tushunib yetayotgan bo'lasizlar	V;PROG;IND;PL;2;FUT
+tushunib yetmoq	tushunib yetib bo'lgan bo'ladi	V;PFV;SBJV;SG;3;FUT
+tushunib yetmoq	tushunib yetdik	V;PFV;FH;PL;1
+tushunib yetmoq	tushunib yetayotgan edim	V;PROG;IND;SG;1;PST
+tushunib yetmoq	tushunib yetayotgan bo'lar edingiz	V;PRF+PROG;FRML;COND;SG;2;PRS
+tushunib yetmoq	tushunib yetib bo'lgan edingiz	V;PRF;FRML;SBJV;SG;2;PRS
+tushunib yetmoq	tushunib yetyapsizlar	V;PROG;IND;PL;2;PRS
+tushunib yetmoq	tushunib yetib bo'lgan bo'lasiz	V;PFV;FRML;SBJV;SG;2;FUT
+tushunib yetmoq	tushunib yetib bo'lgan edik	V;PRF;SBJV;PL;1;PRS
+tushunib yetmoq	tushunib yetasan	V;SG;2;INFM;PRS
+tushunib yetmoq	tushunib yetayotgan edingiz	V;PROG;FRML;IND;SG;2;PST
+tushunib yetmoq	tushunib yetayotgan edik	V;PROG;IND;PL;1;PST
+tushunib yetmoq	tushunib yetayotgan bo'lasiz	V;PROG;FRML;IND;SG;2;FUT
+tushunib yetmoq	tushunib yetgan edim	V;PFV;IND;SG;1;PST
+tushunib yetmoq	tushunib yetayotgan bo'lar edilar	V;PRF+PROG;COND;PL;3;PRS
+tushunib yetmoq	tushunib yetyapti	V;PROG;IND;SG;3;PRS
+tushunib yetmoq	tushunib yetding	V;PFV;FH;SG;2
+tushunib yetmoq	tushunib yetib bo'lgan bo'lasizlar	V;PFV;SBJV;PL;2;FUT
+tushunib yetmoq	tushunib yetayotgan edilar	V;PROG;IND;PL;3;PST
+tushunib yetmoq	tushunib yetib bo'lgan edim	V;PRF;SBJV;SG;1;PRS
+tushunib yetmoq	tushunib yetadilar	V;PL;3;PRS
+tushunib yetmoq	tushunib yetib bo'lgan bo'lamiz	V;PFV;SBJV;PL;1;FUT
+tushunib yetmoq	tushunib yetayotgan eding	V;PROG;IND;SG;2;INFM;PST
+tushunib yetmoq	tushunib yetdingiz	V;PFV;FRML;FH;SG;2
+tushunib yetmoq	tushunib yetdi	V;PFV;FH;SG;3
+tushunib yetmoq	tushunib yetgan edi	V;PFV;IND;SG;3;PST
+tushunib yetmoq	tushunib yetyapman	V;PROG;IND;SG;1;PRS
+tushunib yetmoq	tushunib yetar edingizlar	V;COND;PL;2;PRS
+tushunib yetmoq	tushunib yetayotgan bo'lar edingizlar	V;PRF+PROG;COND;PL;2;PRS
+tushunib yetmoq	tushunib yetgansizlar	V;IND;PL;2;PST
+tushunib yetmoq	tushunib yetgansiz	V;FRML;IND;SG;2;PST
+tushunib yetmoq	tushunib yetgan edik	V;PFV;IND;PL;1;PST
+tushunib yetmoq	tushunib yetganman	V;IND;SG;1;PST
+tushunib yetmoq	tushunib yetadi	V;SG;3;PRS
+tushunib yetmoq	tushunib yetasiz	V;FRML;SG;2;PRS
+tushunib yetmoq	tushunib yetib bol'gan eding	V;PRF;SBJV;SG;2;INFM;PRS
+tushunib yetmoq	tushunib yetib bo'lgan bo'ladilar	V;PFV;SBJV;PL;3;FUT
+tushunib yetmoq	tushunib yetaman	V;SG;1;PRS
+zarar yetkazmoq	zarar yetkazgan edingizlar	V;PFV;IND;PL;2;PST
+zarar yetkazmoq	zarar yetkazganman	V;IND;SG;1;PST
+zarar yetkazmoq	zarar yetkazyapsizlar	V;PROG;IND;PL;2;PRS
+zarar yetkazmoq	zarar yetkazib bo'lgan edilar	V;PRF;SBJV;PL;3;PRS
+zarar yetkazmoq	zarar yetkazayotgan bo'ladi	V;PROG;IND;SG;3;FUT
+zarar yetkazmoq	zarar yetkazayotgan edilar	V;PROG;IND;PL;3;PST
+zarar yetkazmoq	zarar yetkazayotgan bo'larding	V;PROG;COND;SG;2;PRS
+zarar yetkazmoq	zarar yetkazayotgan bo'lasiz	V;PROG;FRML;IND;SG;2;FUT
+zarar yetkazmoq	zarar yetkazayotgan bo'lar edingizlar	V;PRF+PROG;COND;PL;2;PRS
+zarar yetkazmoq	zarar yetkazaman	V;SG;1;PRS
+zarar yetkazmoq	zarar yetkazib bo'lgan edim	V;PRF;SBJV;SG;1;PRS
+zarar yetkazmoq	zarar yetkazyapti	V;PROG;IND;SG;3;PRS
+zarar yetkazmoq	zarar yetkazdik	V;PFV;FH;PL;1
+zarar yetkazmoq	zarar yetkazayotgan bo'lar edilar	V;PRF+PROG;COND;PL;3;PRS
+zarar yetkazmoq	zarar yetkazib bo'lgan bo'lasan	V;PFV;SBJV;SG;2;INFM;FUT
+zarar yetkazmoq	zarar yetkazar edilar	V;COND;PL;3;PRS
+zarar yetkazmoq	zarar yetkazding	V;PFV;FH;SG;2
+zarar yetkazmoq	zarar yetkazayotgan edingizlar	V;PROG;IND;PL;2;PST
+zarar yetkazmoq	zarar yetkazib bo'lgan bo'lasizlar	V;PFV;SBJV;PL;2;FUT
+zarar yetkazmoq	zarar yetkazayotgan bo'lar edingiz	V;PRF+PROG;FRML;COND;SG;2;PRS
+zarar yetkazmoq	zarar yetkazasan	V;SG;2;INFM;PRS
+zarar yetkazmoq	zarar yetkazasiz	V;FRML;SG;2;PRS
+zarar yetkazmoq	zarar yetkazadi	V;SG;3;PRS
+zarar yetkazmoq	zarar yetkazib bo'lgan bo'lasiz	V;PFV;FRML;SBJV;SG;2;FUT
+zarar yetkazmoq	zarar yetkazayotgan bo'lar eding	V;PRF+PROG;COND;SG;2;INFM;PRS
+zarar yetkazmoq	zarar yetkazyaptilar	V;PROG;IND;PL;3;PRS
+zarar yetkazmoq	zarar yetkazyapmiz	V;PROG;IND;PL;1;PRS
+zarar yetkazmoq	zarar yetkazayotgan bo'lardilar	V;PROG;COND;PL;3;PRS
+zarar yetkazmoq	zarar yetkazyapsiz	V;PROG;FRML;IND;SG;2;PRS
+zarar yetkazmoq	zarar yetkazayotgan edik	V;PROG;IND;PL;1;PST
+zarar yetkazmoq	zarar yetkazayotgan edim	V;PROG;IND;SG;1;PST
+zarar yetkazmoq	zarar yetkazar edi	V;COND;SG;3;PRS
+zarar yetkazmoq	zarar yetkazayotgan edingiz	V;PROG;FRML;IND;SG;2;PST
+zarar yetkazmoq	zarar yetkazayotgan eding	V;PROG;IND;SG;2;INFM;PST
+zarar yetkazmoq	zarar yetkazayotgan edi	V;PROG;IND;SG;3;PST
+zarar yetkazmoq	zarar yetkazayotgan bo'lar edim	V;PRF+PROG;COND;SG;1;PRS
+zarar yetkazmoq	zarar yetkazar eding	V;COND;SG;2;INFM;PRS
+zarar yetkazmoq	zarar yetkazayotgan bo'lasan	V;PROG;IND;SG;2;INFM;FUT
+zarar yetkazmoq	zarar yetkazyapman	V;PROG;IND;SG;1;PRS
+zarar yetkazmoq	zarar yetkazdi	V;PFV;FH;SG;3
+zarar yetkazmoq	zarar yetkazgan edilar	V;PFV;IND;PL;3;PST
+zarar yetkazmoq	zarar yetkazayotgan bo'lar edik	V;PRF+PROG;COND;PL;1;PRS
+zarar yetkazmoq	zarar yetkazib bo'lgan bo'ladi	V;PFV;SBJV;SG;3;FUT
+zarar yetkazmoq	zarar yetkazgansiz	V;FRML;IND;SG;2;PST
+zarar yetkazmoq	zarar yetkazganlar	V;IND;PL;3;PST
+zarar yetkazmoq	zarar yetkazdingizlar	V;PFV;FH;PL;2
+zarar yetkazmoq	zarar yetkazgansan	V;IND;SG;2;INFM;PST
+zarar yetkazmoq	zarar yetkazayotgan bo'lardim	V;PROG;COND;SG;1;PRS
+zarar yetkazmoq	zarar yetkazib bo'lgan edingizlar	V;PRF;SBJV;PL;2;PRS
+zarar yetkazmoq	zarar yetkazayotgan bo'ladilar	V;PROG;IND;PL;3;FUT
+zarar yetkazmoq	zarar yetkazayotgan bo'lasizlar	V;PROG;IND;PL;2;FUT
+zarar yetkazmoq	zarar yetkazgan edingiz	V;PFV;FRML;IND;SG;2;PST
+zarar yetkazmoq	zarar yetkazdilar	V;PFV;FH;PL;3
+zarar yetkazmoq	zarar yetkazib bo'lgan bo'lamiz	V;PFV;SBJV;PL;1;FUT
+zarar yetkazmoq	zarar yetkazgansizlar	V;IND;PL;2;PST
+zarar yetkazmoq	zarar yetkazar edim	V;COND;SG;1;PRS
+zarar yetkazmoq	zarar yetkazgan edik	V;PFV;IND;PL;1;PST
+zarar yetkazmoq	zarar yetkazib bol'gan eding	V;PRF;SBJV;SG;2;INFM;PRS
+zarar yetkazmoq	zarar yetkazayotgan bo'lar edi	V;PRF+PROG;COND;SG;3;PRS
+zarar yetkazmoq	zarar yetkazgan eding	V;PFV;IND;SG;2;INFM;PST
+zarar yetkazmoq	zarar yetkazayotgan bo'lardi	V;PROG;COND;SG;3;PRS
+zarar yetkazmoq	zarar yetkazib bo'lgan edik	V;PRF;SBJV;PL;1;PRS
+zarar yetkazmoq	zarar yetkazgan edim	V;PFV;IND;SG;1;PST
+zarar yetkazmoq	zarar yetkazamiz	V;PL;1;PRS
+zarar yetkazmoq	zarar yetkazar edingizlar	V;COND;PL;2;PRS
+zarar yetkazmoq	zarar yetkazayotgan bo'lamiz	V;PROG;IND;PL;1;FUT
+zarar yetkazmoq	zarar yetkazdingiz	V;PFV;FRML;FH;SG;2
+zarar yetkazmoq	zarar yetkazib bo'lgan edi	V;PRF;SBJV;SG;3;PRS
+zarar yetkazmoq	zarar yetkazyapsan	V;PROG;IND;SG;2;INFM;PRS
+zarar yetkazmoq	zarar yetkazib bo'lgan bo'ladilar	V;PFV;SBJV;PL;3;FUT
+zarar yetkazmoq	zarar yetkazdim	V;PFV;FH;SG;1
+zarar yetkazmoq	zarar yetkazib bo'lgan edingiz	V;PRF;FRML;SBJV;SG;2;PRS
+zarar yetkazmoq	zarar yetkazayotgan bo'lardik	V;PROG;COND;PL;1;PRS
+zarar yetkazmoq	zarar yetkazgan edi	V;PFV;IND;SG;3;PST
+zarar yetkazmoq	zarar yetkazadilar	V;PL;3;PRS
+zarar yetkazmoq	zarar yetkazasizlar	V;PL;2;PRS
+zarar yetkazmoq	zarar yetkazar edingiz	V;FRML;COND;SG;2;PRS
+zarar yetkazmoq	zarar yetkazar edik	V;COND;PL;1;PRS
+zarar yetkazmoq	zarar yetkazganmiz	V;IND;PL;1;PST
+zarar yetkazmoq	zarar yetkazayotgan bo'laman	V;PROG;IND;SG;1;FUT
+zarar yetkazmoq	zarar yetkazib bo'lgan bo'laman	V;PFV;SBJV;SG;1;FUT
+zarar yetkazmoq	zarar yetkazgan	V;IND;SG;3;PST
+bo'yamoq	bo'yading	V;PFV;FH;SG;2
+bo'yamoq	bo'yar edim	V;COND;SG;1;PRS
+bo'yamoq	bo'yayotgan bo'ladilar	V;PROG;IND;PL;3;FUT
+bo'yamoq	bo'yagan	V;IND;SG;3;PST
+bo'yamoq	bo'yayotgan bo'lardilar	V;PROG;COND;PL;3;PRS
+bo'yamoq	bo'yar edik	V;COND;PL;1;PRS
+bo'yamoq	bo'yaysiz	V;FRML;SG;2;PRS
+bo'yamoq	bo'yagan edingiz	V;PFV;FRML;IND;SG;2;PST
+bo'yamoq	bo'yaysiz	V;FRML;SBJV;SG;2;PRS
+bo'yamoq	bo'yar eding	V;COND;SG;2;INFM;PRS
+bo'yamoq	bo'yaganman	V;IND;SG;1;PST
+bo'yamoq	bo'yagan edi	V;PFV;IND;SG;3;PST
+bo'yamoq	bo'yab bo'lgan bo'lasan	V;PFV;SBJV;SG;2;INFM;FUT
+bo'yamoq	bo'yaydilar	V;SBJV;PL;3;PRS
+bo'yamoq	bo'yagan edim	V;PFV;IND;SG;1;PST
+bo'yamoq	bo'yayapman	V;PROG;IND;SG;1;PRS
+bo'yamoq	bo'yayman	V;SG;1;PRS
+bo'yamoq	bo'yayotgan bo'lar edik	V;PRF+PROG;COND;PL;1;PRS
+bo'yamoq	bo'yaysan	V;SBJV;SG;2;PRS
+bo'yamoq	bo'yaysizlar	V;PL;2;PRS
+bo'yamoq	bo'yadilar	V;PFV;FH;PL;3
+bo'yamoq	bo'yayotgan bo'ladi	V;PROG;IND;SG;3;FUT
+bo'yamoq	bo'yagan eding	V;PFV;IND;SG;2;INFM;PST
+bo'yamoq	bo'yayotgan edingiz	V;PROG;FRML;IND;SG;2;PST
+bo'yamoq	bo'yaydi	V;SG;3;PRS
+bo'yamoq	bo'yayapsizlar	V;PROG;IND;PL;2;PRS
+bo'yamoq	bo'yaysan	V;SG;2;INFM;PRS
+bo'yamoq	bo'yadingiz	V;PFV;FRML;FH;SG;2
+bo'yamoq	bo'yagansizlar	V;IND;PL;2;PST
+bo'yamoq	bo'yaymiz	V;PL;1;PRS
+bo'yamoq	bo'yagan edik	V;PFV;IND;PL;1;PST
+bo'yamoq	bo'yayotgan bo'lasiz	V;PROG;FRML;IND;SG;2;FUT
+bo'yamoq	bo'yayotgan bo'lar edilar	V;PRF+PROG;COND;PL;3;PRS
+bo'yamoq	bo'yaymiz	V;SBJV;PL;1;PRS
+bo'yamoq	bo'yadim	V;PFV;FH;SG;1
+bo'yamoq	bo'yab bo'lgan edingiz	V;PRF;FRML;SBJV;SG;2;PRS
+bo'yamoq	bo'yab bo'lgan bo'lasiz	V;PFV;FRML;SBJV;SG;2;FUT
+bo'yamoq	bo'yaganmiz	V;IND;PL;1;PST
+bo'yamoq	bo'yayotgan bo'lardingizlar	V;PROG;COND;PL;2;PRS
+bo'yamoq	bo'yab bo'lgan edim	V;PRF;SBJV;SG;1;PRS
+bo'yamoq	bo'yadik	V;PFV;FH;PL;1
+bo'yamoq	bo'yayotgan bo'lar eding	V;PRF+PROG;COND;SG;2;INFM;PRS
+bo'yamoq	bo'yayapti	V;PROG;IND;SG;3;PRS
+bo'yamoq	bo'yayotgan bo'larding	V;PROG;COND;SG;2;PRS
+bo'yamoq	bo'yagan edingizlar	V;PFV;IND;PL;2;PST
+bo'yamoq	bo'yayaptilar	V;PROG;IND;PL;3;PRS
+bo'yamoq	bo'yab bo'lgan bo'lamiz	V;PFV;SBJV;PL;1;FUT
+bo'yamoq	bo'yayotgan bo'lasan	V;PROG;IND;SG;2;INFM;FUT
+bo'yamoq	bo'yayotgan bo'lardik	V;PROG;COND;PL;1;PRS
+bo'yamoq	bo'yadingizlar	V;PFV;FH;PL;2
+bo'yamoq	bo'yayotgan bo'lasizlar	V;PROG;IND;PL;2;FUT
+bo'yamoq	bo'yayapmiz	V;PROG;IND;PL;1;PRS
+bo'yamoq	bo'yaganlar	V;IND;PL;3;PST
+bo'yamoq	bo'yayotgan bo'lardim	V;PROG;COND;SG;1;PRS
+bo'yamoq	bo'yagansiz	V;FRML;IND;SG;2;PST
+bo'yamoq	bo'yab bol'gan eding	V;PRF;SBJV;SG;2;INFM;PRS
+bo'yamoq	bo'yagan edilar	V;PFV;IND;PL;3;PST
+bo'yamoq	bo'yaysizlar	V;SBJV;PL;2;PRS
+bo'yamoq	bo'yayapsiz	V;PROG;FRML;IND;SG;2;PRS
+bo'yamoq	bo'yar edilar	V;COND;PL;3;PRS
+bo'yamoq	bo'yaydi	V;SBJV;SG;3;PRS
+bo'yamoq	bo'yayotgan bo'lardi	V;PROG;COND;SG;3;PRS
+bo'yamoq	bo'yayotgan edilar	V;PROG;IND;PL;3;PST
+bo'yamoq	bo'yab bo'lgan bo'laman	V;PFV;SBJV;SG;1;FUT
+bo'yamoq	bo'yab bo'lgan bo'ladi	V;PFV;SBJV;SG;3;FUT
+bo'yamoq	bo'yayotgan bo'lamiz	V;PROG;IND;PL;1;FUT
+bo'yamoq	bo'yayotgan edingizlar	V;PROG;IND;PL;2;PST
+bo'yamoq	bo'yagansan	V;IND;SG;2;INFM;PST
+bo'yamoq	bo'yayotgan edik	V;PROG;IND;PL;1;PST
+bo'yamoq	bo'yab bo'lgan edik	V;PRF;SBJV;PL;1;PRS
+bo'yamoq	bo'yayotgan bo'lar edi	V;PRF+PROG;COND;SG;3;PRS
+bo'yamoq	bo'yayotgan bo'lardingiz	V;PROG;FRML;COND;SG;2;PRS
+bo'yamoq	bo'yab bo'lgan edi	V;PRF;SBJV;SG;3;PRS
+bo'yamoq	bo'yadi	V;PFV;FH;SG;3
+bo'yamoq	bo'yayotgan edim	V;PROG;IND;SG;1;PST
+bo'yamoq	bo'yayotgan edi	V;PROG;IND;SG;3;PST
+bo'yamoq	bo'yab bo'lgan edilar	V;PRF;SBJV;PL;3;PRS
+bo'yamoq	bo'yayotgan eding	V;PROG;IND;SG;2;INFM;PST
+bo'yamoq	bo'yar edi	V;COND;SG;3;PRS
+bo'yamoq	bo'yayotgan bo'lar edingiz	V;PRF+PROG;FRML;COND;SG;2;PRS
+bo'yamoq	bo'yab bo'lgan bo'ladilar	V;PFV;SBJV;PL;3;FUT
+bo'yamoq	bo'yayotgan bo'laman	V;PROG;IND;SG;1;FUT
+bo'yamoq	bo'yaydilar	V;PL;3;PRS
+bo'yamoq	bo'yar edingizlar	V;COND;PL;2;PRS
+bo'yamoq	bo'yayotgan bo'lar edingizlar	V;PRF+PROG;COND;PL;2;PRS
+bo'yamoq	bo'yab bo'lgan bo'lasizlar	V;PFV;SBJV;PL;2;FUT
+bo'yamoq	bo'yayotgan bo'lar edim	V;PRF+PROG;COND;SG;1;PRS
+bo'yamoq	bo'yayman	V;SBJV;SG;1;PRS
+bo'yamoq	bo'yab bo'lgan edingizlar	V;PRF;SBJV;PL;2;PRS
+bo'yamoq	bo'yayapsan	V;PROG;IND;SG;2;INFM;PRS
+bo'yamoq	bo'yar edingiz	V;FRML;COND;SG;2;PRS
+unashtirmoq	unashtirgan edingizlar	V;PFV;IND;PL;2;PST
+unashtirmoq	unashtirar edingizlar	V;COND;PL;2;PRS
+unashtirmoq	unashtirgan edim	V;PFV;IND;SG;1;PST
+unashtirmoq	unashtirgan edilar	V;PFV;IND;PL;3;PST
+unashtirmoq	unashtirgan edingiz	V;PFV;FRML;IND;SG;2;PST
+unashtirmoq	unashtiryapsan	V;PROG;IND;SG;2;INFM;PRS
+unashtirmoq	unashtirayotgan bo'lardik	V;PROG;COND;PL;1;PRS
+unashtirmoq	unashtirayotgan bo'lasiz	V;PROG;FRML;IND;SG;2;FUT
+unashtirmoq	unashtirib bo'lgan bo'lasiz	V;PFV;FRML;SBJV;SG;2;FUT
+unashtirmoq	unashtirgan edi	V;PFV;IND;SG;3;PST
+unashtirmoq	unashtiryapmiz	V;PROG;IND;PL;1;PRS
+unashtirmoq	unashtirayotgan bo'lardi	V;PROG;COND;SG;3;PRS
+unashtirmoq	unashtirib bo'lgan bo'lamiz	V;PFV;SBJV;PL;1;FUT
+unashtirmoq	unashtirib bo'lgan bo'lasan	V;PFV;SBJV;SG;2;INFM;FUT
+unashtirmoq	unashtirayotgan bo'lardim	V;PROG;COND;SG;1;PRS
+unashtirmoq	unashtirganmiz	V;IND;PL;1;PST
+unashtirmoq	unashtirayotgan edingizlar	V;PROG;IND;PL;2;PST
+unashtirmoq	unashtirayotgan bo'larding	V;PROG;COND;SG;2;PRS
+unashtirmoq	unashtirayotgan bo'ladi	V;PROG;IND;SG;3;FUT
+unashtirmoq	unashtirayotgan bo'lar edi	V;PRF+PROG;COND;SG;3;PRS
+unashtirmoq	unashtirding	V;PFV;FH;SG;2
+unashtirmoq	unashtirib bo'lgan bo'laman	V;PFV;SBJV;SG;1;FUT
+unashtirmoq	unashtirgansiz	V;FRML;IND;SG;2;PST
+unashtirmoq	unashtirayotgan bo'lar edilar	V;PRF+PROG;COND;PL;3;PRS
+unashtirmoq	unashtirayotgan bo'lasizlar	V;PROG;IND;PL;2;FUT
+unashtirmoq	unashtirayotgan bo'ladilar	V;PROG;IND;PL;3;FUT
+unashtirmoq	unashtirar edi	V;COND;SG;3;PRS
+unashtirmoq	unashtiraman	V;SG;1;PRS
+unashtirmoq	unashtirar eding	V;COND;SG;2;INFM;PRS
+unashtirmoq	unashtirdi	V;PFV;FH;SG;3
+unashtirmoq	unashtiryapsizlar	V;PROG;IND;PL;2;PRS
+unashtirmoq	unashtirayotgan bo'lar edingizlar	V;PRF+PROG;COND;PL;2;PRS
+unashtirmoq	unashtirayotgan edi	V;PROG;IND;SG;3;PST
+unashtirmoq	unashtirar edim	V;COND;SG;1;PRS
+unashtirmoq	unashtirib bo'lgan edik	V;PRF;SBJV;PL;1;PRS
+unashtirmoq	unashtirasan	V;SG;2;INFM;PRS
+unashtirmoq	unashtirdingiz	V;PFV;FRML;FH;SG;2
+unashtirmoq	unashtirib bo'lgan bo'ladi	V;PFV;SBJV;SG;3;FUT
+unashtirmoq	unashtirgansan	V;IND;SG;2;INFM;PST
+unashtirmoq	unashtirdik	V;PFV;FH;PL;1
+unashtirmoq	unashtirib bo'lgan edilar	V;PRF;SBJV;PL;3;PRS
+unashtirmoq	unashtirayotgan edim	V;PROG;IND;SG;1;PST
+unashtirmoq	unashtirgan	V;IND;SG;3;PST
+unashtirmoq	unashtirib bol'gan eding	V;PRF;SBJV;SG;2;INFM;PRS
+unashtirmoq	unashtiradi	V;SG;3;PRS
+unashtirmoq	unashtirayotgan bo'lar edik	V;PRF+PROG;COND;PL;1;PRS
+unashtirmoq	unashtirar edik	V;COND;PL;1;PRS
+unashtirmoq	unashtirasizlar	V;PL;2;PRS
+unashtirmoq	unashtirayotgan bo'lar eding	V;PRF+PROG;COND;SG;2;INFM;PRS
+unashtirmoq	unashtirayotgan bo'lasan	V;PROG;IND;SG;2;INFM;FUT
+unashtirmoq	unashtirar edilar	V;COND;PL;3;PRS
+unashtirmoq	unashtirib bo'lgan edi	V;PRF;SBJV;SG;3;PRS
+unashtirmoq	unashtirdilar	V;PFV;FH;PL;3
+unashtirmoq	unashtiryaptilar	V;PROG;IND;PL;3;PRS
+unashtirmoq	unashtirayotgan edingiz	V;PROG;FRML;IND;SG;2;PST
+unashtirmoq	unashtirayotgan edik	V;PROG;IND;PL;1;PST
+unashtirmoq	unashtirayotgan bo'lar edim	V;PRF+PROG;COND;SG;1;PRS
+unashtirmoq	unashtirgansizlar	V;IND;PL;2;PST
+unashtirmoq	unashtiryapti	V;PROG;IND;SG;3;PRS
+unashtirmoq	unashtirgan eding	V;PFV;IND;SG;2;INFM;PST
+unashtirmoq	unashtirgan edik	V;PFV;IND;PL;1;PST
+unashtirmoq	unashtirayotgan bo'lar edingiz	V;PRF+PROG;FRML;COND;SG;2;PRS
+unashtirmoq	unashtiramiz	V;PL;1;PRS
+unashtirmoq	unashtirdim	V;PFV;FH;SG;1
+unashtirmoq	unashtirib bo'lgan edingiz	V;PRF;FRML;SBJV;SG;2;PRS
+unashtirmoq	unashtirayotgan edilar	V;PROG;IND;PL;3;PST
+unashtirmoq	unashtirayotgan eding	V;PROG;IND;SG;2;INFM;PST
+unashtirmoq	unashtirib bo'lgan edim	V;PRF;SBJV;SG;1;PRS
+unashtirmoq	unashtirar edingiz	V;FRML;COND;SG;2;PRS
+unashtirmoq	unashtirayotgan bo'lamiz	V;PROG;IND;PL;1;FUT
+unashtirmoq	unashtirib bo'lgan edingizlar	V;PRF;SBJV;PL;2;PRS
+unashtirmoq	unashtiryapman	V;PROG;IND;SG;1;PRS
+unashtirmoq	unashtirdingizlar	V;PFV;FH;PL;2
+unashtirmoq	unashtirib bo'lgan bo'lasizlar	V;PFV;SBJV;PL;2;FUT
+unashtirmoq	unashtirasiz	V;FRML;SG;2;PRS
+unashtirmoq	unashtiradilar	V;PL;3;PRS
+unashtirmoq	unashtirganlar	V;IND;PL;3;PST
+unashtirmoq	unashtirib bo'lgan bo'ladilar	V;PFV;SBJV;PL;3;FUT
+unashtirmoq	unashtirayotgan bo'laman	V;PROG;IND;SG;1;FUT
+unashtirmoq	unashtirayotgan bo'lardilar	V;PROG;COND;PL;3;PRS
+unashtirmoq	unashtiryapsiz	V;PROG;FRML;IND;SG;2;PRS
+unashtirmoq	unashtirganman	V;IND;SG;1;PST
+ko'chmoq	ko'chib bo'lgan bo'lasiz	V;PFV;FRML;SBJV;SG;2;FUT
+ko'chmoq	ko'chib bo'lgan bo'lasizlar	V;PFV;SBJV;PL;2;FUT
+ko'chmoq	ko'chaylik	V;SBJV;PL;1;PRS
+ko'chmoq	ko'chyotgan bo'lar edingiz	V;PRF+PROG;FRML;COND;SG;2;PRS
+ko'chmoq	ko'chyotgan bo'laman	V;PROG;IND;SG;1;FUT
+ko'chmoq	ko'chyotgan bo'lardi	V;PROG;COND;SG;3;PRS
+ko'chmoq	ko'chasizlar	V;PL;2;PRS
+ko'chmoq	ko'chyotgan bo'larding	V;PROG;COND;SG;2;PRS
+ko'chmoq	ko'chyapti	V;PROG;IND;SG;3;PRS
+ko'chmoq	ko'chyotgan edik	V;PROG;IND;PL;1;PST
+ko'chmoq	ko'char eding	V;COND;SG;2;INFM;PRS
+ko'chmoq	ko'chyotgan bo'lardingiz	V;PROG;FRML;COND;SG;2;PRS
+ko'chmoq	ko'chasan	V;SG;2;INFM;PRS
+ko'chmoq	ko'chyotgan bo'lar edilar	V;PRF+PROG;COND;PL;3;PRS
+ko'chmoq	ko'chgansan	V;IND;SG;2;INFM;PST
+ko'chmoq	ko'chasiz	V;FRML;SG;2;PRS
+ko'chmoq	ko'chyotgan bo'lasiz	V;PROG;FRML;IND;SG;2;FUT
+ko'chmoq	ko'chgan edik	V;PFV;IND;PL;1;PST
+ko'chmoq	ko'chaman	V;SG;1;PRS
+ko'chmoq	ko'chyotgan bo'lardim	V;PROG;COND;SG;1;PRS
+ko'chmoq	ko'chdilar	V;PFV;FH;PL;3
+ko'chmoq	ko'chadilar	V;PL;3;PRS
+ko'chmoq	ko'chyotgan bo'lardik	V;PROG;COND;PL;1;PRS
+ko'chmoq	ko'ch	V;SBJV;SG;2;PRS
+ko'chmoq	ko'chib bo'lgan edilar	V;PRF;SBJV;PL;3;PRS
+ko'chmoq	ko'chyapsan	V;PROG;IND;SG;2;INFM;PRS
+ko'chmoq	ko'char edim	V;COND;SG;1;PRS
+ko'chmoq	ko'chyotgan bo'lasan	V;PROG;IND;SG;2;INFM;FUT
+ko'chmoq	ko'chgan edingiz	V;PFV;FRML;IND;SG;2;PST
+ko'chmoq	ko'chyotgan edi	V;PROG;IND;SG;3;PST
+ko'chmoq	ko'chyotgan bo'lar eding	V;PRF+PROG;COND;SG;2;INFM;PRS
+ko'chmoq	ko'chib bo'lgan bo'ladilar	V;PFV;SBJV;PL;3;FUT
+ko'chmoq	ko'chyotgan bo'lasizlar	V;PROG;IND;PL;2;FUT
+ko'chmoq	ko'chyotgan edingiz	V;PROG;FRML;IND;SG;2;PST
+ko'chmoq	ko'chyapsizlar	V;PROG;IND;PL;2;PRS
+ko'chmoq	ko'chgansiz	V;FRML;IND;SG;2;PST
+ko'chmoq	ko'char edingizlar	V;COND;PL;2;PRS
+ko'chmoq	ko'chamiz	V;PL;1;PRS
+ko'chmoq	ko'chib bo'lgan edingiz	V;PRF;FRML;SBJV;SG;2;PRS
+ko'chmoq	ko'chay	V;SBJV;SG;1;PRS
+ko'chmoq	ko'chib bol'gan eding	V;PRF;SBJV;SG;2;INFM;PRS
+ko'chmoq	ko'chadi	V;SG;3;PRS
+ko'chmoq	ko'chdim	V;PFV;FH;SG;1
+ko'chmoq	ko'chdik	V;PFV;FH;PL;1
+ko'chmoq	ko'chganlar	V;IND;PL;3;PST
+ko'chmoq	ko'chyotgan bo'lar edik	V;PRF+PROG;COND;PL;1;PRS
+ko'chmoq	ko'chgan eding	V;PFV;IND;SG;2;INFM;PST
+ko'chmoq	ko'chganman	V;IND;SG;1;PST
+ko'chmoq	ko'chgan edingizlar	V;PFV;IND;PL;2;PST
+ko'chmoq	ko'chib bo'lgan bo'lamiz	V;PFV;SBJV;PL;1;FUT
+ko'chmoq	ko'chyotgan bo'lardingizlar	V;PROG;COND;PL;2;PRS
+ko'chmoq	ko'chdi	V;PFV;FH;SG;3
+ko'chmoq	ko'chib bo'lgan edi	V;PRF;SBJV;SG;3;PRS
+ko'chmoq	ko'chsin	V;SBJV;SG;3;PRS
+ko'chmoq	ko'chyaptilar	V;PROG;IND;PL;3;PRS
+ko'chmoq	ko'chyotgan bo'lar edim	V;PRF+PROG;COND;SG;1;PRS
+ko'chmoq	ko'chgan edi	V;PFV;IND;SG;3;PST
+ko'chmoq	ko'chyotgan edingizlar	V;PROG;IND;PL;2;PST
+ko'chmoq	ko'char edi	V;COND;SG;3;PRS
+ko'chmoq	ko'chyapmiz	V;PROG;IND;PL;1;PRS
+ko'chmoq	ko'char edingiz	V;FRML;COND;SG;2;PRS
+ko'chmoq	ko'ching	V;FRML;SBJV;SG;2;PRS
+ko'chmoq	ko'chyapsiz	V;PROG;FRML;IND;SG;2;PRS
+ko'chmoq	ko'chyotgan bo'ladi	V;PROG;IND;SG;3;FUT
+ko'chmoq	ko'chib bo'lgan bo'laman	V;PFV;SBJV;SG;1;FUT
+ko'chmoq	ko'chgan	V;IND;SG;3;PST
+ko'chmoq	ko'chgan edim	V;PFV;IND;SG;1;PST
+ko'chmoq	ko'chyotgan bo'lardilar	V;PROG;COND;PL;3;PRS
+ko'chmoq	ko'chyotgan bo'lar edi	V;PRF+PROG;COND;SG;3;PRS
+ko'chmoq	ko'chib bo'lgan edik	V;PRF;SBJV;PL;1;PRS
+ko'chmoq	ko'chgan edilar	V;PFV;IND;PL;3;PST
+ko'chmoq	ko'chyotgan edim	V;PROG;IND;SG;1;PST
+ko'chmoq	ko'chding	V;PFV;FH;SG;2
+ko'chmoq	ko'char edilar	V;COND;PL;3;PRS
+ko'chmoq	ko'chyotgan bo'ladilar	V;PROG;IND;PL;3;FUT
+ko'chmoq	ko'chyotgan edilar	V;PROG;IND;PL;3;PST
+ko'chmoq	ko'chdingizlar	V;PFV;FH;PL;2
+ko'chmoq	ko'chinglar	V;SBJV;PL;2;PRS
+ko'chmoq	ko'chyapman	V;PROG;IND;SG;1;PRS
+ko'chmoq	ko'chib bo'lgan edim	V;PRF;SBJV;SG;1;PRS
+ko'chmoq	ko'chib bo'lgan bo'lasan	V;PFV;SBJV;SG;2;INFM;FUT
+ko'chmoq	ko'chyotgan bo'lar edingizlar	V;PRF+PROG;COND;PL;2;PRS
+ko'chmoq	ko'chsinlar	V;SBJV;PL;3;PRS
+ko'chmoq	ko'char edik	V;COND;PL;1;PRS
+ko'chmoq	ko'chib bo'lgan bo'ladi	V;PFV;SBJV;SG;3;FUT
+ko'chmoq	ko'chib bo'lgan edingizlar	V;PRF;SBJV;PL;2;PRS
+ko'chmoq	ko'chganmiz	V;IND;PL;1;PST
+ko'chmoq	ko'chgansizlar	V;IND;PL;2;PST
+ko'chmoq	ko'chyotgan bo'lamiz	V;PROG;IND;PL;1;FUT
+ko'chmoq	ko'chyotgan eding	V;PROG;IND;SG;2;INFM;PST
+ko'chmoq	ko'chdingiz	V;PFV;FRML;FH;SG;2
+yetaklamoq	yetaklar edim	V;COND;SG;1;PRS
+yetaklamoq	yetaklayotgan bo'lasizlar	V;PROG;IND;PL;2;FUT
+yetaklamoq	yetaklab bo'lgan bo'laman	V;PFV;SBJV;SG;1;FUT
+yetaklamoq	yetaklayotgan edi	V;PROG;IND;SG;3;PST
+yetaklamoq	yetaklab bo'lgan edingizlar	V;PRF;SBJV;PL;2;PRS
+yetaklamoq	yetaklayman	V;SG;1;PRS
+yetaklamoq	yetaklayotgan bo'lardim	V;PROG;COND;SG;1;PRS
+yetaklamoq	yetaklagan edi	V;PFV;IND;SG;3;PST
+yetaklamoq	yetaklab bo'lgan bo'lasizlar	V;PFV;SBJV;PL;2;FUT
+yetaklamoq	yetaklayotgan edik	V;PROG;IND;PL;1;PST
+yetaklamoq	yetakladingiz	V;PFV;FRML;FH;SG;2
+yetaklamoq	yetaklayapti	V;PROG;IND;SG;3;PRS
+yetaklamoq	yetaklayotgan edim	V;PROG;IND;SG;1;PST
+yetaklamoq	yetaklagan edim	V;PFV;IND;SG;1;PST
+yetaklamoq	yetakladi	V;PFV;FH;SG;3
+yetaklamoq	yetaklaysizlar	V;PL;2;PRS
+yetaklamoq	yetaklayotgan bo'lamiz	V;PROG;IND;PL;1;FUT
+yetaklamoq	yetaklayotgan bo'lardilar	V;PROG;COND;PL;3;PRS
+yetaklamoq	yetaklayotgan edilar	V;PROG;IND;PL;3;PST
+yetaklamoq	yetakladik	V;PFV;FH;PL;1
+yetaklamoq	yetaklaganmiz	V;IND;PL;1;PST
+yetaklamoq	yetaklar edik	V;COND;PL;1;PRS
+yetaklamoq	yetaklayotgan bo'lar edingiz	V;PRF+PROG;FRML;COND;SG;2;PRS
+yetaklamoq	yetaklar edi	V;COND;SG;3;PRS
+yetaklamoq	yetaklayotgan bo'lar edi	V;PRF+PROG;COND;SG;3;PRS
+yetaklamoq	yetaklagan eding	V;PFV;IND;SG;2;INFM;PST
+yetaklamoq	yetaklab bo'lgan edilar	V;PRF;SBJV;PL;3;PRS
+yetaklamoq	yetaklayotgan bo'lar edingizlar	V;PRF+PROG;COND;PL;2;PRS
+yetaklamoq	yetaklayotgan edingizlar	V;PROG;IND;PL;2;PST
+yetaklamoq	yetaklagan edilar	V;PFV;IND;PL;3;PST
+yetaklamoq	yetaklayapman	V;PROG;IND;SG;1;PRS
+yetaklamoq	yetaklayotgan eding	V;PROG;IND;SG;2;INFM;PST
+yetaklamoq	yetaklaganlar	V;IND;PL;3;PST
+yetaklamoq	yetaklab bo'lgan bo'ladi	V;PFV;SBJV;SG;3;FUT
+yetaklamoq	yetaklayotgan bo'lardik	V;PROG;COND;PL;1;PRS
+yetaklamoq	yetaklaymiz	V;PL;1;PRS
+yetaklamoq	yetaklaydilar	V;PL;3;PRS
+yetaklamoq	yetakladilar	V;PFV;FH;PL;3
+yetaklamoq	yetaklab bo'lgan edik	V;PRF;SBJV;PL;1;PRS
+yetaklamoq	yetaklayotgan bo'lar edik	V;PRF+PROG;COND;PL;1;PRS
+yetaklamoq	yetakladingizlar	V;PFV;FH;PL;2
+yetaklamoq	yetaklayotgan edingiz	V;PROG;FRML;IND;SG;2;PST
+yetaklamoq	yetaklading	V;PFV;FH;SG;2
+yetaklamoq	yetaklar edilar	V;COND;PL;3;PRS
+yetaklamoq	yetaklab bo'lgan bo'lamiz	V;PFV;SBJV;PL;1;FUT
+yetaklamoq	yetaklaysiz	V;FRML;SG;2;PRS
+yetaklamoq	yetaklagan	V;IND;SG;3;PST
+yetaklamoq	yetaklayaptilar	V;PROG;IND;PL;3;PRS
+yetaklamoq	yetaklayotgan bo'larding	V;PROG;COND;SG;2;PRS
+yetaklamoq	yetaklab bo'lgan edi	V;PRF;SBJV;SG;3;PRS
+yetaklamoq	yetaklayotgan bo'lardi	V;PROG;COND;SG;3;PRS
+yetaklamoq	yetaklagan edingizlar	V;PFV;IND;PL;2;PST
+yetaklamoq	yetaklagan edingiz	V;PFV;FRML;IND;SG;2;PST
+yetaklamoq	yetaklaydi	V;SG;3;PRS
+yetaklamoq	yetakladim	V;PFV;FH;SG;1
+yetaklamoq	yetaklayotgan bo'laman	V;PROG;IND;SG;1;FUT
+yetaklamoq	yetaklar eding	V;COND;SG;2;INFM;PRS
+yetaklamoq	yetaklar edingizlar	V;COND;PL;2;PRS
+yetaklamoq	yetaklayotgan bo'lasiz	V;PROG;FRML;IND;SG;2;FUT
+yetaklamoq	yetaklagansan	V;IND;SG;2;INFM;PST
+yetaklamoq	yetaklar edingiz	V;FRML;COND;SG;2;PRS
+yetaklamoq	yetaklab bo'lgan edingiz	V;PRF;FRML;SBJV;SG;2;PRS
+yetaklamoq	yetaklayotgan bo'ladi	V;PROG;IND;SG;3;FUT
+yetaklamoq	yetaklagansiz	V;FRML;IND;SG;2;PST
+yetaklamoq	yetaklayotgan bo'lar eding	V;PRF+PROG;COND;SG;2;INFM;PRS
+yetaklamoq	yetaklayapsiz	V;PROG;FRML;IND;SG;2;PRS
+yetaklamoq	yetaklab bol'gan eding	V;PRF;SBJV;SG;2;INFM;PRS
+yetaklamoq	yetaklayotgan bo'lar edilar	V;PRF+PROG;COND;PL;3;PRS
+yetaklamoq	yetaklab bo'lgan bo'lasan	V;PFV;SBJV;SG;2;INFM;FUT
+yetaklamoq	yetaklab bo'lgan bo'lasiz	V;PFV;FRML;SBJV;SG;2;FUT
+yetaklamoq	yetaklayotgan bo'ladilar	V;PROG;IND;PL;3;FUT
+yetaklamoq	yetaklayotgan bo'lasan	V;PROG;IND;SG;2;INFM;FUT
+yetaklamoq	yetaklab bo'lgan bo'ladilar	V;PFV;SBJV;PL;3;FUT
+yetaklamoq	yetaklaganman	V;IND;SG;1;PST
+yetaklamoq	yetaklab bo'lgan edim	V;PRF;SBJV;SG;1;PRS
+yetaklamoq	yetaklayapsizlar	V;PROG;IND;PL;2;PRS
+yetaklamoq	yetaklayapmiz	V;PROG;IND;PL;1;PRS
+yetaklamoq	yetaklagansizlar	V;IND;PL;2;PST
+yetaklamoq	yetaklaysan	V;SG;2;INFM;PRS
+yetaklamoq	yetaklagan edik	V;PFV;IND;PL;1;PST
+yetaklamoq	yetaklayotgan bo'lar edim	V;PRF+PROG;COND;SG;1;PRS
+yetaklamoq	yetaklayapsan	V;PROG;IND;SG;2;INFM;PRS
+yuklamoq	yuklayotgan bo'lamiz	V;PROG;IND;PL;1;FUT
+yuklamoq	yuklar edi	V;COND;SG;3;PRS
+yuklamoq	yuklagansiz	V;FRML;IND;SG;2;PST
+yuklamoq	yukladik	V;PFV;FH;PL;1
+yuklamoq	yuklab bo'lgan bo'ladi	V;PFV;SBJV;SG;3;FUT
+yuklamoq	yuklab bo'lgan edi	V;PRF;SBJV;SG;3;PRS
+yuklamoq	yuklar edingizlar	V;COND;PL;2;PRS
+yuklamoq	yuklaganlar	V;IND;PL;3;PST
+yuklamoq	yuklab bo'lgan bo'laman	V;PFV;SBJV;SG;1;FUT
+yuklamoq	yuklayotgan bo'lar eding	V;PRF+PROG;COND;SG;2;INFM;PRS
+yuklamoq	yuklayotgan bo'lar edi	V;PRF+PROG;COND;SG;3;PRS
+yuklamoq	yuklar edingiz	V;FRML;COND;SG;2;PRS
+yuklamoq	yuklayapsizlar	V;PROG;IND;PL;2;PRS
+yuklamoq	yuklayotgan bo'ladilar	V;PROG;IND;PL;3;FUT
+yuklamoq	yukladim	V;PFV;FH;SG;1
+yuklamoq	yuklayotgan bo'lar edilar	V;PRF+PROG;COND;PL;3;PRS
+yuklamoq	yuklayotgan edi	V;PROG;IND;SG;3;PST
+yuklamoq	yuklagan	V;IND;SG;3;PST
+yuklamoq	yuklayotgan bo'larding	V;PROG;COND;SG;2;PRS
+yuklamoq	yuklaysiz	V;FRML;SG;2;PRS
+yuklamoq	yuklar edik	V;COND;PL;1;PRS
+yuklamoq	yuklab bo'lgan bo'ladilar	V;PFV;SBJV;PL;3;FUT
+yuklamoq	yuklayotgan edilar	V;PROG;IND;PL;3;PST
+yuklamoq	yuklaymiz	V;PL;1;PRS
+yuklamoq	yuklagan eding	V;PFV;IND;SG;2;INFM;PST
+yuklamoq	yuklayotgan edingizlar	V;PROG;IND;PL;2;PST
+yuklamoq	yuklayapsan	V;PROG;IND;SG;2;INFM;PRS
+yuklamoq	yuklayotgan bo'lardi	V;PROG;COND;SG;3;PRS
+yuklamoq	yuklayapmiz	V;PROG;IND;PL;1;PRS
+yuklamoq	yuklab bo'lgan bo'lamiz	V;PFV;SBJV;PL;1;FUT
+yuklamoq	yuklab bo'lgan bo'lasizlar	V;PFV;SBJV;PL;2;FUT
+yuklamoq	yuklar eding	V;COND;SG;2;INFM;PRS
+yuklamoq	yuklayotgan bo'lardim	V;PROG;COND;SG;1;PRS
+yuklamoq	yuklagansan	V;IND;SG;2;INFM;PST
+yuklamoq	yuklayotgan bo'lasan	V;PROG;IND;SG;2;INFM;FUT
+yuklamoq	yuklab bo'lgan edingizlar	V;PRF;SBJV;PL;2;PRS
+yuklamoq	yuklayapsiz	V;PROG;FRML;IND;SG;2;PRS
+yuklamoq	yuklayapti	V;PROG;IND;SG;3;PRS
+yuklamoq	yuklaganmiz	V;IND;PL;1;PST
+yuklamoq	yuklayotgan bo'ladi	V;PROG;IND;SG;3;FUT
+yuklamoq	yuklayotgan bo'lar edim	V;PRF+PROG;COND;SG;1;PRS
+yuklamoq	yuklaganman	V;IND;SG;1;PST
+yuklamoq	yuklagan edik	V;PFV;IND;PL;1;PST
+yuklamoq	yuklab bol'gan eding	V;PRF;SBJV;SG;2;INFM;PRS
+yuklamoq	yuklayaptilar	V;PROG;IND;PL;3;PRS
+yuklamoq	yuklayotgan bo'lasizlar	V;PROG;IND;PL;2;FUT
+yuklamoq	yuklayotgan bo'laman	V;PROG;IND;SG;1;FUT
+yuklamoq	yuklaysizlar	V;PL;2;PRS
+yuklamoq	yuklagan edim	V;PFV;IND;SG;1;PST
+yuklamoq	yuklaydi	V;SG;3;PRS
+yuklamoq	yuklab bo'lgan edim	V;PRF;SBJV;SG;1;PRS
+yuklamoq	yuklading	V;PFV;FH;SG;2
+yuklamoq	yuklagansizlar	V;IND;PL;2;PST
+yuklamoq	yuklagan edingiz	V;PFV;FRML;IND;SG;2;PST
+yuklamoq	yuklayotgan eding	V;PROG;IND;SG;2;INFM;PST
+yuklamoq	yuklayapman	V;PROG;IND;SG;1;PRS
+yuklamoq	yuklagan edi	V;PFV;IND;SG;3;PST
+yuklamoq	yuklagan edingizlar	V;PFV;IND;PL;2;PST
+yuklamoq	yukladingiz	V;PFV;FRML;FH;SG;2
+yuklamoq	yuklaysan	V;SG;2;INFM;PRS
+yuklamoq	yuklab bo'lgan edik	V;PRF;SBJV;PL;1;PRS
+yuklamoq	yuklab bo'lgan bo'lasiz	V;PFV;FRML;SBJV;SG;2;FUT
+yuklamoq	yuklayotgan bo'lar edik	V;PRF+PROG;COND;PL;1;PRS
+yuklamoq	yuklab bo'lgan bo'lasan	V;PFV;SBJV;SG;2;INFM;FUT
+yuklamoq	yuklayotgan bo'lardilar	V;PROG;COND;PL;3;PRS
+yuklamoq	yuklar edilar	V;COND;PL;3;PRS
+yuklamoq	yukladi	V;PFV;FH;SG;3
+yuklamoq	yuklayotgan edingiz	V;PROG;FRML;IND;SG;2;PST
+yuklamoq	yuklayotgan bo'lardik	V;PROG;COND;PL;1;PRS
+yuklamoq	yuklayotgan bo'lar edingiz	V;PRF+PROG;FRML;COND;SG;2;PRS
+yuklamoq	yuklagan edilar	V;PFV;IND;PL;3;PST
+yuklamoq	yuklaydilar	V;PL;3;PRS
+yuklamoq	yuklab bo'lgan edingiz	V;PRF;FRML;SBJV;SG;2;PRS
+yuklamoq	yukladingizlar	V;PFV;FH;PL;2
+yuklamoq	yuklayotgan bo'lar edingizlar	V;PRF+PROG;COND;PL;2;PRS
+yuklamoq	yuklayotgan bo'lasiz	V;PROG;FRML;IND;SG;2;FUT
+yuklamoq	yuklar edim	V;COND;SG;1;PRS
+yuklamoq	yukladilar	V;PFV;FH;PL;3
+yuklamoq	yuklab bo'lgan edilar	V;PRF;SBJV;PL;3;PRS
+yuklamoq	yuklayotgan edim	V;PROG;IND;SG;1;PST
+yuklamoq	yuklayman	V;SG;1;PRS
+yuklamoq	yuklayotgan edik	V;PROG;IND;PL;1;PST
+xizmat qilmoq	xizmat qilar edik	V;COND;PL;1;PRS
+xizmat qilmoq	xizmat qilayotgan bo'ladi	V;PROG;IND;SG;3;FUT
+xizmat qilmoq	xizmat qilgan edim	V;PFV;IND;SG;1;PST
+xizmat qilmoq	xizmat qilgansan	V;IND;SG;2;INFM;PST
+xizmat qilmoq	xizmat qilib bo'lgan bo'ladi	V;PFV;SBJV;SG;3;FUT
+xizmat qilmoq	xizmat qilgan eding	V;PFV;IND;SG;2;INFM;PST
+xizmat qilmoq	xizmat qilgan edingizlar	V;PFV;IND;PL;2;PST
+xizmat qilmoq	xizmat qilayotgan bo'lamiz	V;PROG;IND;PL;1;FUT
+xizmat qilmoq	xizmat qilayotgan edik	V;PROG;IND;PL;1;PST
+xizmat qilmoq	xizmat qilib bo'lgan edilar	V;PRF;SBJV;PL;3;PRS
+xizmat qilmoq	xizmat qilar edi	V;COND;SG;3;PRS
+xizmat qilmoq	xizmat qilgansiz	V;FRML;IND;SG;2;PST
+xizmat qilmoq	xizmat qildilar	V;PFV;FH;PL;3
+xizmat qilmoq	xizmat qilar edingiz	V;FRML;COND;SG;2;PRS
+xizmat qilmoq	xizmat qilayotgan bo'larding	V;PROG;COND;SG;2;PRS
+xizmat qilmoq	xizmat qilyapmiz	V;PROG;IND;PL;1;PRS
+xizmat qilmoq	xizmat qilar eding	V;COND;SG;2;INFM;PRS
+xizmat qilmoq	xizmat qilganman	V;IND;SG;1;PST
+xizmat qilmoq	xizmat qilib bo'lgan bo'lasan	V;PFV;SBJV;SG;2;INFM;FUT
+xizmat qilmoq	xizmat qildim	V;PFV;FH;SG;1
+xizmat qilmoq	xizmat qilayotgan edingizlar	V;PROG;IND;PL;2;PST
+xizmat qilmoq	xizmat qilib bo'lgan edi	V;PRF;SBJV;SG;3;PRS
+xizmat qilmoq	xizmat qilayotgan bo'lardi	V;PROG;COND;SG;3;PRS
+xizmat qilmoq	xizmat qilayotgan bo'lar edingiz	V;PRF+PROG;FRML;COND;SG;2;PRS
+xizmat qilmoq	xizmat qilar edim	V;COND;SG;1;PRS
+xizmat qilmoq	xizmat qilib bo'lgan bo'laman	V;PFV;SBJV;SG;1;FUT
+xizmat qilmoq	xizmat qilayotgan edi	V;PROG;IND;SG;3;PST
+xizmat qilmoq	xizmat qilayotgan bo'lasizlar	V;PROG;IND;PL;2;FUT
+xizmat qilmoq	xizmat qilib bo'lgan edik	V;PRF;SBJV;PL;1;PRS
+xizmat qilmoq	xizmat qilib bo'lgan edim	V;PRF;SBJV;SG;1;PRS
+xizmat qilmoq	xizmat qilganmiz	V;IND;PL;1;PST
+xizmat qilmoq	xizmat qilayotgan eding	V;PROG;IND;SG;2;INFM;PST
+xizmat qilmoq	xizmat qilar edilar	V;COND;PL;3;PRS
+xizmat qilmoq	xizmat qilasiz	V;FRML;SG;2;PRS
+xizmat qilmoq	xizmat qilayotgan bo'lar edim	V;PRF+PROG;COND;SG;1;PRS
+xizmat qilmoq	xizmat qilib bo'lgan bo'lasizlar	V;PFV;SBJV;PL;2;FUT
+xizmat qilmoq	xizmat qilib bo'lgan bo'ladilar	V;PFV;SBJV;PL;3;FUT
+xizmat qilmoq	xizmat qilayotgan bo'lardim	V;PROG;COND;SG;1;PRS
+xizmat qilmoq	xizmat qilyapsan	V;PROG;IND;SG;2;INFM;PRS
+xizmat qilmoq	xizmat qilayotgan edilar	V;PROG;IND;PL;3;PST
+xizmat qilmoq	xizmat qilayotgan bo'ladilar	V;PROG;IND;PL;3;FUT
+xizmat qilmoq	xizmat qilib bo'lgan bo'lasiz	V;PFV;FRML;SBJV;SG;2;FUT
+xizmat qilmoq	xizmat qilyapti	V;PROG;IND;SG;3;PRS
+xizmat qilmoq	xizmat qilib bo'lgan bo'lamiz	V;PFV;SBJV;PL;1;FUT
+xizmat qilmoq	xizmat qiladilar	V;PL;3;PRS
+xizmat qilmoq	xizmat qilamiz	V;PL;1;PRS
+xizmat qilmoq	xizmat qilayotgan bo'laman	V;PROG;IND;SG;1;FUT
+xizmat qilmoq	xizmat qilib bo'lgan edingizlar	V;PRF;SBJV;PL;2;PRS
+xizmat qilmoq	xizmat qilib bol'gan eding	V;PRF;SBJV;SG;2;INFM;PRS
+xizmat qilmoq	xizmat qilayotgan bo'lar edingizlar	V;PRF+PROG;COND;PL;2;PRS
+xizmat qilmoq	xizmat qilasizlar	V;PL;2;PRS
+xizmat qilmoq	xizmat qilgansizlar	V;IND;PL;2;PST
+xizmat qilmoq	xizmat qilgan edingiz	V;PFV;FRML;IND;SG;2;PST
+xizmat qilmoq	xizmat qilar edingizlar	V;COND;PL;2;PRS
+xizmat qilmoq	xizmat qilayotgan edingiz	V;PROG;FRML;IND;SG;2;PST
+xizmat qilmoq	xizmat qilayotgan bo'lasan	V;PROG;IND;SG;2;INFM;FUT
+xizmat qilmoq	xizmat qilayotgan bo'lar edilar	V;PRF+PROG;COND;PL;3;PRS
+xizmat qilmoq	xizmat qilayotgan edim	V;PROG;IND;SG;1;PST
+xizmat qilmoq	xizmat qilib bo'lgan edingiz	V;PRF;FRML;SBJV;SG;2;PRS
+xizmat qilmoq	xizmat qilgan edi	V;PFV;IND;SG;3;PST
+xizmat qilmoq	xizmat qilyapsiz	V;PROG;FRML;IND;SG;2;PRS
+xizmat qilmoq	xizmat qilayotgan bo'lardik	V;PROG;COND;PL;1;PRS
+xizmat qilmoq	xizmat qilaman	V;SG;1;PRS
+xizmat qilmoq	xizmat qilayotgan bo'lar edik	V;PRF+PROG;COND;PL;1;PRS
+xizmat qilmoq	xizmat qildingizlar	V;PFV;FH;PL;2
+xizmat qilmoq	xizmat qilayotgan bo'lar eding	V;PRF+PROG;COND;SG;2;INFM;PRS
+xizmat qilmoq	xizmat qilganlar	V;IND;PL;3;PST
+xizmat qilmoq	xizmat qilgan	V;IND;SG;3;PST
+xizmat qilmoq	xizmat qilayotgan bo'lar edi	V;PRF+PROG;COND;SG;3;PRS
+xizmat qilmoq	xizmat qilyapsizlar	V;PROG;IND;PL;2;PRS
+xizmat qilmoq	xizmat qilayotgan bo'lasiz	V;PROG;FRML;IND;SG;2;FUT
+xizmat qilmoq	xizmat qiladi	V;SG;3;PRS
+xizmat qilmoq	xizmat qilyaptilar	V;PROG;IND;PL;3;PRS
+xizmat qilmoq	xizmat qilasan	V;SG;2;INFM;PRS
+xizmat qilmoq	xizmat qildingiz	V;PFV;FRML;FH;SG;2
+xizmat qilmoq	xizmat qilyapman	V;PROG;IND;SG;1;PRS
+xizmat qilmoq	xizmat qildi	V;PFV;FH;SG;3
+xizmat qilmoq	xizmat qilding	V;PFV;FH;SG;2
+xizmat qilmoq	xizmat qildik	V;PFV;FH;PL;1
+xizmat qilmoq	xizmat qilayotgan bo'lardilar	V;PROG;COND;PL;3;PRS
+xizmat qilmoq	xizmat qilgan edik	V;PFV;IND;PL;1;PST
+xizmat qilmoq	xizmat qilgan edilar	V;PFV;IND;PL;3;PST
+porlamoq	porladik	V;PFV;FH;PL;1
+porlamoq	porladingizlar	V;PFV;FH;PL;2
+porlamoq	porlagan edi	V;PFV;IND;SG;3;PST
+porlamoq	porlab bo'lgan bo'lasizlar	V;PFV;SBJV;PL;2;FUT
+porlamoq	porlagansiz	V;FRML;IND;SG;2;PST
+porlamoq	porlayotgan edim	V;PROG;IND;SG;1;PST
+porlamoq	porlaymiz	V;PL;1;PRS
+porlamoq	porlab bo'lgan bo'lasiz	V;PFV;FRML;SBJV;SG;2;FUT
+porlamoq	porlar edingiz	V;FRML;COND;SG;2;PRS
+porlamoq	porlayotgan bo'lardilar	V;PROG;COND;PL;3;PRS
+porlamoq	porlayotgan bo'lar eding	V;PRF+PROG;COND;SG;2;INFM;PRS
+porlamoq	porlayotgan bo'lardim	V;PROG;COND;SG;1;PRS
+porlamoq	porlayapmiz	V;PROG;IND;PL;1;PRS
+porlamoq	porlaysiz	V;FRML;SG;2;PRS
+porlamoq	porlar eding	V;COND;SG;2;INFM;PRS
+porlamoq	porlab bo'lgan edik	V;PRF;SBJV;PL;1;PRS
+porlamoq	porlagansizlar	V;IND;PL;2;PST
+porlamoq	porlar edik	V;COND;PL;1;PRS
+porlamoq	porladingiz	V;PFV;FRML;FH;SG;2
+porlamoq	porlayotgan edingizlar	V;PROG;IND;PL;2;PST
+porlamoq	porlayotgan bo'lasizlar	V;PROG;IND;PL;2;FUT
+porlamoq	porlayotgan bo'ladi	V;PROG;IND;SG;3;FUT
+porlamoq	porlagansan	V;IND;SG;2;INFM;PST
+porlamoq	porlayotgan edingiz	V;PROG;FRML;IND;SG;2;PST
+porlamoq	porlayotgan edilar	V;PROG;IND;PL;3;PST
+porlamoq	porlayotgan bo'laman	V;PROG;IND;SG;1;FUT
+porlamoq	porlaganmiz	V;IND;PL;1;PST
+porlamoq	porlayotgan bo'lamiz	V;PROG;IND;PL;1;FUT
+porlamoq	porlayotgan bo'lar edingiz	V;PRF+PROG;FRML;COND;SG;2;PRS
+porlamoq	porlagan	V;IND;SG;3;PST
+porlamoq	porlayotgan bo'lardik	V;PROG;COND;PL;1;PRS
+porlamoq	porlagan edingizlar	V;PFV;IND;PL;2;PST
+porlamoq	porlagan eding	V;PFV;IND;SG;2;INFM;PST
+porlamoq	porlab bo'lgan edim	V;PRF;SBJV;SG;1;PRS
+porlamoq	porlab bo'lgan edi	V;PRF;SBJV;SG;3;PRS
+porlamoq	porlayotgan edi	V;PROG;IND;SG;3;PST
+porlamoq	porlab bo'lgan bo'ladilar	V;PFV;SBJV;PL;3;FUT
+porlamoq	porlayotgan bo'lardi	V;PROG;COND;SG;3;PRS
+porlamoq	porlab bo'lgan bo'lamiz	V;PFV;SBJV;PL;1;FUT
+porlamoq	porlayotgan bo'lar edim	V;PRF+PROG;COND;SG;1;PRS
+porlamoq	porlar edilar	V;COND;PL;3;PRS
+porlamoq	porlagan edilar	V;PFV;IND;PL;3;PST
+porlamoq	porladilar	V;PFV;FH;PL;3
+porlamoq	porlagan edim	V;PFV;IND;SG;1;PST
+porlamoq	porlaysizlar	V;PL;2;PRS
+porlamoq	porladi	V;PFV;FH;SG;3
+porlamoq	porlab bo'lgan bo'ladi	V;PFV;SBJV;SG;3;FUT
+porlamoq	porlayaptilar	V;PROG;IND;PL;3;PRS
+porlamoq	porlaganlar	V;IND;PL;3;PST
+porlamoq	porlagan edingiz	V;PFV;FRML;IND;SG;2;PST
+porlamoq	porlab bo'lgan bo'laman	V;PFV;SBJV;SG;1;FUT
+porlamoq	porlayotgan eding	V;PROG;IND;SG;2;INFM;PST
+porlamoq	porlab bo'lgan bo'lasan	V;PFV;SBJV;SG;2;INFM;FUT
+porlamoq	porlayotgan bo'lar edingizlar	V;PRF+PROG;COND;PL;2;PRS
+porlamoq	porlading	V;PFV;FH;SG;2
+porlamoq	porladim	V;PFV;FH;SG;1
+porlamoq	porlar edim	V;COND;SG;1;PRS
+porlamoq	porlayapman	V;PROG;IND;SG;1;PRS
+porlamoq	porlayapsiz	V;PROG;FRML;IND;SG;2;PRS
+porlamoq	porlayotgan bo'lasiz	V;PROG;FRML;IND;SG;2;FUT
+porlamoq	porlab bo'lgan edingizlar	V;PRF;SBJV;PL;2;PRS
+porlamoq	porlayapsan	V;PROG;IND;SG;2;INFM;PRS
+porlamoq	porlayotgan bo'larding	V;PROG;COND;SG;2;PRS
+porlamoq	porlayman	V;SG;1;PRS
+porlamoq	porlaydilar	V;PL;3;PRS
+porlamoq	porlayotgan bo'lar edi	V;PRF+PROG;COND;SG;3;PRS
+porlamoq	porlar edingizlar	V;COND;PL;2;PRS
+porlamoq	porlaysan	V;SG;2;INFM;PRS
+porlamoq	porlayotgan bo'lar edik	V;PRF+PROG;COND;PL;1;PRS
+porlamoq	porlab bo'lgan edingiz	V;PRF;FRML;SBJV;SG;2;PRS
+porlamoq	porlayotgan bo'lasan	V;PROG;IND;SG;2;INFM;FUT
+porlamoq	porlab bo'lgan edilar	V;PRF;SBJV;PL;3;PRS
+porlamoq	porlayapti	V;PROG;IND;SG;3;PRS
+porlamoq	porlayotgan edik	V;PROG;IND;PL;1;PST
+porlamoq	porlab bol'gan eding	V;PRF;SBJV;SG;2;INFM;PRS
+porlamoq	porlagan edik	V;PFV;IND;PL;1;PST
+porlamoq	porlayotgan bo'ladilar	V;PROG;IND;PL;3;FUT
+porlamoq	porlaganman	V;IND;SG;1;PST
+porlamoq	porlar edi	V;COND;SG;3;PRS
+porlamoq	porlayapsizlar	V;PROG;IND;PL;2;PRS
+porlamoq	porlaydi	V;SG;3;PRS
+porlamoq	porlayotgan bo'lar edilar	V;PRF+PROG;COND;PL;3;PRS
+ko'tarmoq	ko'tarayotgan edim	V;PROG;IND;SG;1;PST
+ko'tarmoq	ko'tarib bo'lgan edik	V;PRF;SBJV;PL;1;PRS
+ko'tarmoq	ko'targanman	V;IND;SG;1;PST
+ko'tarmoq	ko'tarar eding	V;COND;SG;2;INFM;PRS
+ko'tarmoq	ko'taraylik	V;SBJV;PL;1;PRS
+ko'tarmoq	ko'tarib bo'lgan edi	V;PRF;SBJV;SG;3;PRS
+ko'tarmoq	ko'tarar edim	V;COND;SG;1;PRS
+ko'tarmoq	ko'taryapman	V;PROG;IND;SG;1;PRS
+ko'tarmoq	ko'taring	V;FRML;SBJV;SG;2;PRS
+ko'tarmoq	ko'taryaptilar	V;PROG;IND;PL;3;PRS
+ko'tarmoq	ko'tardik	V;PFV;FH;PL;1
+ko'tarmoq	ko'tarib bo'lgan edingiz	V;PRF;FRML;SBJV;SG;2;PRS
+ko'tarmoq	ko'taraman	V;SG;1;PRS
+ko'tarmoq	ko'targan edingiz	V;PFV;FRML;IND;SG;2;PST
+ko'tarmoq	ko'tarar edik	V;COND;PL;1;PRS
+ko'tarmoq	ko'tarayotgan bo'lardim	V;PROG;COND;SG;1;PRS
+ko'tarmoq	ko'targanmiz	V;IND;PL;1;PST
+ko'tarmoq	ko'taryapsiz	V;PROG;FRML;IND;SG;2;PRS
+ko'tarmoq	ko'targansizlar	V;IND;PL;2;PST
+ko'tarmoq	ko'tarib bol'gan eding	V;PRF;SBJV;SG;2;INFM;PRS
+ko'tarmoq	ko'tarib bo'lgan bo'ladilar	V;PFV;SBJV;PL;3;FUT
+ko'tarmoq	ko'tarar edingizlar	V;COND;PL;2;PRS
+ko'tarmoq	ko'targan	V;IND;SG;3;PST
+ko'tarmoq	ko'targan edi	V;PFV;IND;SG;3;PST
+ko'tarmoq	ko'tarayotgan bo'larding	V;PROG;COND;SG;2;PRS
+ko'tarmoq	ko'tarayotgan bo'lardik	V;PROG;COND;PL;1;PRS
+ko'tarmoq	ko'tardi	V;PFV;FH;SG;3
+ko'tarmoq	ko'targan edim	V;PFV;IND;SG;1;PST
+ko'tarmoq	ko'tarayotgan bo'lar edingiz	V;PRF+PROG;FRML;COND;SG;2;PRS
+ko'tarmoq	ko'tarayotgan edi	V;PROG;IND;SG;3;PST
+ko'tarmoq	ko'taryapsan	V;PROG;IND;SG;2;INFM;PRS
+ko'tarmoq	ko'tarar edi	V;COND;SG;3;PRS
+ko'tarmoq	ko'tarayotgan edik	V;PROG;IND;PL;1;PST
+ko'tarmoq	ko'tarasiz	V;FRML;SG;2;PRS
+ko'tarmoq	ko'tarib bo'lgan bo'lasiz	V;PFV;FRML;SBJV;SG;2;FUT
+ko'tarmoq	ko'tarsinlar	V;SBJV;PL;3;PRS
+ko'tarmoq	ko'tarayotgan bo'lar edi	V;PRF+PROG;COND;SG;3;PRS
+ko'tarmoq	ko'tarayotgan bo'lardingizlar	V;PROG;COND;PL;2;PRS
+ko'tarmoq	ko'tarib bo'lgan edingizlar	V;PRF;SBJV;PL;2;PRS
+ko'tarmoq	ko'tarar edingiz	V;FRML;COND;SG;2;PRS
+ko'tarmoq	ko'targan eding	V;PFV;IND;SG;2;INFM;PST
+ko'tarmoq	ko'tarayotgan bo'lar edingizlar	V;PRF+PROG;COND;PL;2;PRS
+ko'tarmoq	ko'tarayotgan edilar	V;PROG;IND;PL;3;PST
+ko'tarmoq	ko'tar	V;SBJV;SG;2;PRS
+ko'tarmoq	ko'tarayotgan bo'ladi	V;PROG;IND;SG;3;FUT
+ko'tarmoq	ko'taramiz	V;PL;1;PRS
+ko'tarmoq	ko'taryapmiz	V;PROG;IND;PL;1;PRS
+ko'tarmoq	ko'taray	V;SBJV;SG;1;PRS
+ko'tarmoq	ko'tarar edilar	V;COND;PL;3;PRS
+ko'tarmoq	ko'tarayotgan bo'lar edim	V;PRF+PROG;COND;SG;1;PRS
+ko'tarmoq	ko'tarayotgan bo'lar eding	V;PRF+PROG;COND;SG;2;INFM;PRS
+ko'tarmoq	ko'tarib bo'lgan edim	V;PRF;SBJV;SG;1;PRS
+ko'tarmoq	ko'tarayotgan bo'lar edik	V;PRF+PROG;COND;PL;1;PRS
+ko'tarmoq	ko'tarayotgan bo'lardingiz	V;PROG;FRML;COND;SG;2;PRS
+ko'tarmoq	ko'tarayotgan edingiz	V;PROG;FRML;IND;SG;2;PST
+ko'tarmoq	ko'tarayotgan eding	V;PROG;IND;SG;2;INFM;PST
+ko'tarmoq	ko'tardim	V;PFV;FH;SG;1
+ko'tarmoq	ko'targansiz	V;FRML;IND;SG;2;PST
+ko'tarmoq	ko'tarib bo'lgan bo'ladi	V;PFV;SBJV;SG;3;FUT
+ko'tarmoq	ko'tarayotgan bo'lar edilar	V;PRF+PROG;COND;PL;3;PRS
+ko'tarmoq	ko'tarib bo'lgan bo'lasizlar	V;PFV;SBJV;PL;2;FUT
+ko'tarmoq	ko'tarding	V;PFV;FH;SG;2
+ko'tarmoq	ko'tarib bo'lgan bo'laman	V;PFV;SBJV;SG;1;FUT
+ko'tarmoq	ko'tarib bo'lgan bo'lamiz	V;PFV;SBJV;PL;1;FUT
+ko'tarmoq	ko'tarasan	V;SG;2;INFM;PRS
+ko'tarmoq	ko'tardingiz	V;PFV;FRML;FH;SG;2
+ko'tarmoq	ko'tarayotgan bo'lardilar	V;PROG;COND;PL;3;PRS
+ko'tarmoq	ko'targanlar	V;IND;PL;3;PST
+ko'tarmoq	ko'tarib bo'lgan edilar	V;PRF;SBJV;PL;3;PRS
+ko'tarmoq	ko'taringlar	V;SBJV;PL;2;PRS
+ko'tarmoq	ko'taradi	V;SBJV;SG;3;PRS
+ko'tarmoq	ko'tarib bo'lgan bo'lasan	V;PFV;SBJV;SG;2;INFM;FUT
+ko'tarmoq	ko'tarayotgan bo'lasan	V;PROG;IND;SG;2;INFM;FUT
+ko'tarmoq	ko'tarasizlar	V;PL;2;PRS
+ko'tarmoq	ko'taryapsizlar	V;PROG;IND;PL;2;PRS
+ko'tarmoq	ko'tarayotgan edingizlar	V;PROG;IND;PL;2;PST
+ko'tarmoq	ko'tardilar	V;PFV;FH;PL;3
+ko'tarmoq	ko'taradi	V;SG;3;PRS
+ko'tarmoq	ko'tarayotgan bo'lardi	V;PROG;COND;SG;3;PRS
+ko'tarmoq	ko'tarayotgan bo'lasizlar	V;PROG;IND;PL;2;FUT
+ko'tarmoq	ko'tarayotgan bo'lamiz	V;PROG;IND;PL;1;FUT
+ko'tarmoq	ko'taradilar	V;PL;3;PRS
+ko'tarmoq	ko'targansan	V;IND;SG;2;INFM;PST
+ko'tarmoq	ko'targan edilar	V;PFV;IND;PL;3;PST
+ko'tarmoq	ko'tardingizlar	V;PFV;FH;PL;2
+ko'tarmoq	ko'targan edingizlar	V;PFV;IND;PL;2;PST
+ko'tarmoq	ko'targan edik	V;PFV;IND;PL;1;PST
+ko'tarmoq	ko'taryapti	V;PROG;IND;SG;3;PRS
+ko'tarmoq	ko'tarayotgan bo'ladilar	V;PROG;IND;PL;3;FUT
+ko'tarmoq	ko'tarayotgan bo'laman	V;PROG;IND;SG;1;FUT
+ko'tarmoq	ko'tarayotgan bo'lasiz	V;PROG;FRML;IND;SG;2;FUT
+ma'qullamoq	ma'qullayapsan	V;PROG;IND;SG;2;INFM;PRS
+ma'qullamoq	ma'qullaganman	V;IND;SG;1;PST
+ma'qullamoq	ma'qullab bo'lgan edingiz	V;PRF;FRML;SBJV;SG;2;PRS
+ma'qullamoq	ma'qullayman	V;SG;1;PRS
+ma'qullamoq	ma'qullayotgan edingiz	V;PROG;FRML;IND;SG;2;PST
+ma'qullamoq	ma'qullayapsizlar	V;PROG;IND;PL;2;PRS
+ma'qullamoq	ma'qullagansiz	V;FRML;IND;SG;2;PST
+ma'qullamoq	ma'qullayotgan bo'lardi	V;PROG;COND;SG;3;PRS
+ma'qullamoq	ma'qullaymiz	V;PL;1;PRS
+ma'qullamoq	ma'qullab bol'gan eding	V;PRF;SBJV;SG;2;INFM;PRS
+ma'qullamoq	ma'qullayotgan bo'lamiz	V;PROG;IND;PL;1;FUT
+ma'qullamoq	ma'qullayotgan bo'lar edingiz	V;PRF+PROG;FRML;COND;SG;2;PRS
+ma'qullamoq	ma'qullayotgan eding	V;PROG;IND;SG;2;INFM;PST
+ma'qullamoq	ma'qullayotgan bo'lasiz	V;PROG;FRML;IND;SG;2;FUT
+ma'qullamoq	ma'qullab bo'lgan edik	V;PRF;SBJV;PL;1;PRS
+ma'qullamoq	ma'qullayotgan bo'larding	V;PROG;COND;SG;2;PRS
+ma'qullamoq	ma'qullayotgan edi	V;PROG;IND;SG;3;PST
+ma'qullamoq	ma'qullayotgan bo'lar eding	V;PRF+PROG;COND;SG;2;INFM;PRS
+ma'qullamoq	ma'qullagansizlar	V;IND;PL;2;PST
+ma'qullamoq	ma'qullab bo'lgan edingizlar	V;PRF;SBJV;PL;2;PRS
+ma'qullamoq	ma'qullayotgan bo'lar edilar	V;PRF+PROG;COND;PL;3;PRS
+ma'qullamoq	ma'qullayotgan bo'lar edim	V;PRF+PROG;COND;SG;1;PRS
+ma'qullamoq	ma'qullayotgan bo'lar edi	V;PRF+PROG;COND;SG;3;PRS
+ma'qullamoq	ma'qullayapman	V;PROG;IND;SG;1;PRS
+ma'qullamoq	ma'qullaysiz	V;FRML;SG;2;PRS
+ma'qullamoq	ma'qullar edingiz	V;FRML;COND;SG;2;PRS
+ma'qullamoq	ma'qullayotgan bo'lar edingizlar	V;PRF+PROG;COND;PL;2;PRS
+ma'qullamoq	ma'qullab bo'lgan bo'lamiz	V;PFV;SBJV;PL;1;FUT
+ma'qullamoq	ma'qullaydi	V;SG;3;PRS
+ma'qullamoq	ma'qullayotgan bo'lasan	V;PROG;IND;SG;2;INFM;FUT
+ma'qullamoq	ma'qullab bo'lgan edi	V;PRF;SBJV;SG;3;PRS
+ma'qullamoq	ma'qullagansan	V;IND;SG;2;INFM;PST
+ma'qullamoq	ma'qullayotgan edingizlar	V;PROG;IND;PL;2;PST
+ma'qullamoq	ma'qullab bo'lgan edilar	V;PRF;SBJV;PL;3;PRS
+ma'qullamoq	ma'qullab bo'lgan bo'lasan	V;PFV;SBJV;SG;2;INFM;FUT
+ma'qullamoq	ma'qulladik	V;PFV;FH;PL;1
+ma'qullamoq	ma'qullagan edim	V;PFV;IND;SG;1;PST
+ma'qullamoq	ma'qullayotgan bo'lardim	V;PROG;COND;SG;1;PRS
+ma'qullamoq	ma'qullab bo'lgan bo'lasiz	V;PFV;FRML;SBJV;SG;2;FUT
+ma'qullamoq	ma'qulladilar	V;PFV;FH;PL;3
+ma'qullamoq	ma'qulladim	V;PFV;FH;SG;1
+ma'qullamoq	ma'qullayapmiz	V;PROG;IND;PL;1;PRS
+ma'qullamoq	ma'qullab bo'lgan bo'laman	V;PFV;SBJV;SG;1;FUT
+ma'qullamoq	ma'qullayotgan bo'lardik	V;PROG;COND;PL;1;PRS
+ma'qullamoq	ma'qullar edi	V;COND;SG;3;PRS
+ma'qullamoq	ma'qullaydilar	V;PL;3;PRS
+ma'qullamoq	ma'qullayotgan edilar	V;PROG;IND;PL;3;PST
+ma'qullamoq	ma'qullayotgan bo'lasizlar	V;PROG;IND;PL;2;FUT
+ma'qullamoq	ma'qullar edilar	V;COND;PL;3;PRS
+ma'qullamoq	ma'qullayotgan bo'laman	V;PROG;IND;SG;1;FUT
+ma'qullamoq	ma'qullar edik	V;COND;PL;1;PRS
+ma'qullamoq	ma'qullagan eding	V;PFV;IND;SG;2;INFM;PST
+ma'qullamoq	ma'qullagan edik	V;PFV;IND;PL;1;PST
+ma'qullamoq	ma'qullar edim	V;COND;SG;1;PRS
+ma'qullamoq	ma'qullab bo'lgan bo'ladi	V;PFV;SBJV;SG;3;FUT
+ma'qullamoq	ma'qullaysizlar	V;PL;2;PRS
+ma'qullamoq	ma'qullab bo'lgan edim	V;PRF;SBJV;SG;1;PRS
+ma'qullamoq	ma'qullaganlar	V;IND;PL;3;PST
+ma'qullamoq	ma'qullading	V;PFV;FH;SG;2
+ma'qullamoq	ma'qulladingiz	V;PFV;FRML;FH;SG;2
+ma'qullamoq	ma'qullayaptilar	V;PROG;IND;PL;3;PRS
+ma'qullamoq	ma'qullagan	V;IND;SG;3;PST
+ma'qullamoq	ma'qullagan edingiz	V;PFV;FRML;IND;SG;2;PST
+ma'qullamoq	ma'qullayotgan edik	V;PROG;IND;PL;1;PST
+ma'qullamoq	ma'qullayotgan bo'lar edik	V;PRF+PROG;COND;PL;1;PRS
+ma'qullamoq	ma'qullab bo'lgan bo'lasizlar	V;PFV;SBJV;PL;2;FUT
+ma'qullamoq	ma'qullayotgan bo'ladi	V;PROG;IND;SG;3;FUT
+ma'qullamoq	ma'qullayotgan bo'lardilar	V;PROG;COND;PL;3;PRS
+ma'qullamoq	ma'qullagan edi	V;PFV;IND;SG;3;PST
+ma'qullamoq	ma'qullayapsiz	V;PROG;FRML;IND;SG;2;PRS
+ma'qullamoq	ma'qullagan edingizlar	V;PFV;IND;PL;2;PST
+ma'qullamoq	ma'qulladingizlar	V;PFV;FH;PL;2
+ma'qullamoq	ma'qullayotgan bo'ladilar	V;PROG;IND;PL;3;FUT
+ma'qullamoq	ma'qullayotgan edim	V;PROG;IND;SG;1;PST
+ma'qullamoq	ma'qullaganmiz	V;IND;PL;1;PST
+ma'qullamoq	ma'qullab bo'lgan bo'ladilar	V;PFV;SBJV;PL;3;FUT
+ma'qullamoq	ma'qullaysan	V;SG;2;INFM;PRS
+ma'qullamoq	ma'qulladi	V;PFV;FH;SG;3
+ma'qullamoq	ma'qullar eding	V;COND;SG;2;INFM;PRS
+ma'qullamoq	ma'qullagan edilar	V;PFV;IND;PL;3;PST
+ma'qullamoq	ma'qullar edingizlar	V;COND;PL;2;PRS
+ma'qullamoq	ma'qullayapti	V;PROG;IND;SG;3;PRS
+qizq'anmoq	qizq'anyapsan	V;PROG;IND;SG;2;INFM;PRS
+qizq'anmoq	qizq'anding	V;PFV;FH;SG;2
+qizq'anmoq	qizq'anayotgan bo'lardim	V;PROG;COND;SG;1;PRS
+qizq'anmoq	qizq'anayotgan bo'lar edingizlar	V;PRF+PROG;COND;PL;2;PRS
+qizq'anmoq	qizq'andik	V;PFV;FH;PL;1
+qizq'anmoq	qizq'anib bo'lgan bo'lasiz	V;PFV;FRML;SBJV;SG;2;FUT
+qizq'anmoq	qizq'anayotgan bo'lasiz	V;PROG;FRML;IND;SG;2;FUT
+qizq'anmoq	qizq'andi	V;SG;3;PRS
+qizq'anmoq	qizq'anyaptilar	V;PROG;IND;PL;3;PRS
+qizq'anmoq	qizq'anayotgan bo'lar edim	V;PRF+PROG;COND;SG;1;PRS
+qizq'anmoq	qizq'anaman	V;SG;1;PRS
+qizq'anmoq	qizq'anasizlar	V;PL;2;PRS
+qizq'anmoq	qizq'anyapti	V;PROG;IND;SG;3;PRS
+qizq'anmoq	qizq'anayotgan bo'lar eding	V;PRF+PROG;COND;SG;2;INFM;PRS
+qizq'anmoq	qizq'anayotgan bo'lamiz	V;PROG;IND;PL;1;FUT
+qizq'anmoq	qizq'anayotgan bo'ladilar	V;PROG;IND;PL;3;FUT
+qizq'anmoq	qizq'anayotgan bo'lar edingiz	V;PRF+PROG;FRML;COND;SG;2;PRS
+qizq'anmoq	qizq'anasan	V;SG;2;INFM;PRS
+qizq'anmoq	qizq'anayotgan eding	V;PROG;IND;SG;2;INFM;PST
+qizq'anmoq	qizq'anib bo'lgan bo'ladi	V;PFV;SBJV;SG;3;FUT
+qizq'anmoq	qizq'anayotgan edilar	V;PROG;IND;PL;3;PST
+qizq'anmoq	qizq'anib bo'lgan edilar	V;PRF;SBJV;PL;3;PRS
+qizq'anmoq	qizq'anib bo'lgan edim	V;PRF;SBJV;SG;1;PRS
+qizq'anmoq	qizq'anayotgan edingizlar	V;PROG;IND;PL;2;PST
+qizq'anmoq	qizq'anayotgan edik	V;PROG;IND;PL;1;PST
+qizq'anmoq	qizq'anib bo'lgan edingizlar	V;PRF;SBJV;PL;2;PRS
+qizq'anmoq	qizq'andingiz	V;PFV;FRML;FH;SG;2
+qizq'anmoq	qizq'andilar	V;PL;3;PRS
+qizq'anmoq	qizq'angansizlar	V;IND;PL;2;PST
+qizq'anmoq	qizq'anganlar	V;IND;PL;3;PST
+qizq'anmoq	qizq'anar edilar	V;COND;PL;3;PRS
+qizq'anmoq	qizq'anib bo'lgan bo'lamiz	V;PFV;SBJV;PL;1;FUT
+qizq'anmoq	qizq'anib bo'lgan edik	V;PRF;SBJV;PL;1;PRS
+qizq'anmoq	qizq'anayotgan bo'laman	V;PROG;IND;SG;1;FUT
+qizq'anmoq	qizq'anganman	V;IND;SG;1;PST
+qizq'anmoq	qizq'angan edim	V;PFV;IND;SG;1;PST
+qizq'anmoq	qizq'anyapman	V;PROG;IND;SG;1;PRS
+qizq'anmoq	qizq'anasiz	V;FRML;SG;2;PRS
+qizq'anmoq	qizq'anayotgan bo'lardik	V;PROG;COND;PL;1;PRS
+qizq'anmoq	qizq'anar eding	V;COND;SG;2;INFM;PRS
+qizq'anmoq	qizq'anayotgan bo'lardilar	V;PROG;COND;PL;3;PRS
+qizq'anmoq	qizq'anayotgan bo'lardi	V;PROG;COND;SG;3;PRS
+qizq'anmoq	qizq'anib bo'lgan edingiz	V;PRF;FRML;SBJV;SG;2;PRS
+qizq'anmoq	qizq'anyapsizlar	V;PROG;IND;PL;2;PRS
+qizq'anmoq	qizq'andim	V;PFV;FH;SG;1
+qizq'anmoq	qizq'andilar	V;PFV;FH;PL;3
+qizq'anmoq	qizq'anib bo'lgan bo'lasizlar	V;PFV;SBJV;PL;2;FUT
+qizq'anmoq	qizq'anayotgan bo'lasan	V;PROG;IND;SG;2;INFM;FUT
+qizq'anmoq	qizq'anayotgan bo'lar edi	V;PRF+PROG;COND;SG;3;PRS
+qizq'anmoq	qizq'anar edim	V;COND;SG;1;PRS
+qizq'anmoq	qizq'angan edilar	V;PFV;IND;PL;3;PST
+qizq'anmoq	qizq'anganmiz	V;IND;PL;1;PST
+qizq'anmoq	qizq'anyapmiz	V;PROG;IND;PL;1;PRS
+qizq'anmoq	qizq'anib bo'lgan edi	V;PRF;SBJV;SG;3;PRS
+qizq'anmoq	qizq'angan edingiz	V;PFV;FRML;IND;SG;2;PST
+qizq'anmoq	qizq'anib bol'gan eding	V;PRF;SBJV;SG;2;INFM;PRS
+qizq'anmoq	qizq'anayotgan edingiz	V;PROG;FRML;IND;SG;2;PST
+qizq'anmoq	qizq'anib bo'lgan bo'lasan	V;PFV;SBJV;SG;2;INFM;FUT
+qizq'anmoq	qizq'anayotgan bo'lar edik	V;PRF+PROG;COND;PL;1;PRS
+qizq'anmoq	qizq'anayotgan bo'ladi	V;PROG;IND;SG;3;FUT
+qizq'anmoq	qizq'anamiz	V;PL;1;PRS
+qizq'anmoq	qizq'angansan	V;IND;SG;2;INFM;PST
+qizq'anmoq	qizq'anayotgan bo'larding	V;PROG;COND;SG;2;PRS
+qizq'anmoq	qizq'anayotgan edi	V;PROG;IND;SG;3;PST
+qizq'anmoq	qizq'angan	V;IND;SG;3;PST
+qizq'anmoq	qizq'andingizlar	V;PFV;FH;PL;2
+qizq'anmoq	qizq'anar edi	V;COND;SG;3;PRS
+qizq'anmoq	qizq'anib bo'lgan bo'laman	V;PFV;SBJV;SG;1;FUT
+qizq'anmoq	qizq'angan edingizlar	V;PFV;IND;PL;2;PST
+qizq'anmoq	qizq'anar edingiz	V;FRML;COND;SG;2;PRS
+qizq'anmoq	qizq'andi	V;PFV;FH;SG;3
+qizq'anmoq	qizq'angan edi	V;PFV;IND;SG;3;PST
+qizq'anmoq	qizq'anyapsiz	V;PROG;FRML;IND;SG;2;PRS
+qizq'anmoq	qizq'anayotgan bo'lasizlar	V;PROG;IND;PL;2;FUT
+qizq'anmoq	qizq'anayotgan edim	V;PROG;IND;SG;1;PST
+qizq'anmoq	qizq'angan eding	V;PFV;IND;SG;2;INFM;PST
+qizq'anmoq	qizq'anar edik	V;COND;PL;1;PRS
+qizq'anmoq	qizq'anar edingizlar	V;COND;PL;2;PRS
+qizq'anmoq	qizq'angansiz	V;FRML;IND;SG;2;PST
+qizq'anmoq	qizq'angan edik	V;PFV;IND;PL;1;PST
+qizq'anmoq	qizq'anib bo'lgan bo'ladilar	V;PFV;SBJV;PL;3;FUT
+qizq'anmoq	qizq'anayotgan bo'lar edilar	V;PRF+PROG;COND;PL;3;PRS
+kerak bo'lmoq	kerak bo'layotgan bo'larding	V;PROG;COND;SG;2;PRS
+kerak bo'lmoq	kerak bo'lyapsiz	V;PROG;FRML;IND;SG;2;PRS
+kerak bo'lmoq	kerak bo'layotgan bo'lasiz	V;PROG;FRML;IND;SG;2;FUT
+kerak bo'lmoq	kerak bo'lyapsan	V;PROG;IND;SG;2;INFM;PRS
+kerak bo'lmoq	kerak bo'ladilar	V;PL;3;PRS
+kerak bo'lmoq	kerak bo'layotgan bo'lasan	V;PROG;IND;SG;2;INFM;FUT
+kerak bo'lmoq	kerak bo'lib bo'lgan edik	V;PRF;SBJV;PL;1;PRS
+kerak bo'lmoq	kerak bo'layotgan bo'lamiz	V;PROG;IND;PL;1;FUT
+kerak bo'lmoq	kerak bo'lgan edingizlar	V;PFV;IND;PL;2;PST
+kerak bo'lmoq	kerak bo'lgan	V;IND;SG;3;PST
+kerak bo'lmoq	kerak bo'ldilar	V;PFV;FH;PL;3
+kerak bo'lmoq	kerak bo'lar edi	V;COND;SG;3;PRS
+kerak bo'lmoq	kerak bo'layotgan edingiz	V;PROG;FRML;IND;SG;2;PST
+kerak bo'lmoq	kerak bo'lib bo'lgan bo'lasan	V;PFV;SBJV;SG;2;INFM;FUT
+kerak bo'lmoq	kerak bo'layotgan bo'lar edik	V;PRF+PROG;COND;PL;1;PRS
+kerak bo'lmoq	kerak bo'ldi	V;PFV;FH;SG;3
+kerak bo'lmoq	kerak bo'lgan edim	V;PFV;IND;SG;1;PST
+kerak bo'lmoq	kerak bo'lib bol'gan eding	V;PRF;SBJV;SG;2;INFM;PRS
+kerak bo'lmoq	kerak bo'lib bo'lgan edingiz	V;PRF;FRML;SBJV;SG;2;PRS
+kerak bo'lmoq	kerak bo'lgansizlar	V;IND;PL;2;PST
+kerak bo'lmoq	kerak bo'layotgan bo'lar edingizlar	V;PRF+PROG;COND;PL;2;PRS
+kerak bo'lmoq	kerak bo'lib bo'lgan edilar	V;PRF;SBJV;PL;3;PRS
+kerak bo'lmoq	kerak bo'ldingizlar	V;PFV;FH;PL;2
+kerak bo'lmoq	kerak bo'layotgan edi	V;PROG;IND;SG;3;PST
+kerak bo'lmoq	kerak bo'lyapsizlar	V;PROG;IND;PL;2;PRS
+kerak bo'lmoq	kerak bo'layotgan bo'lardik	V;PROG;COND;PL;1;PRS
+kerak bo'lmoq	kerak bo'lasan	V;SG;2;INFM;PRS
+kerak bo'lmoq	kerak bo'layotgan bo'ladilar	V;PROG;IND;PL;3;FUT
+kerak bo'lmoq	kerak bo'lgan eding	V;PFV;IND;SG;2;INFM;PST
+kerak bo'lmoq	kerak bo'lasiz	V;FRML;SG;2;PRS
+kerak bo'lmoq	kerak bo'lar edingiz	V;FRML;COND;SG;2;PRS
+kerak bo'lmoq	kerak bo'lib bo'lgan bo'lasizlar	V;PFV;SBJV;PL;2;FUT
+kerak bo'lmoq	kerak bo'layotgan bo'lar edim	V;PRF+PROG;COND;SG;1;PRS
+kerak bo'lmoq	kerak bo'ldik	V;PFV;FH;PL;1
+kerak bo'lmoq	kerak bo'lgan edingiz	V;PFV;FRML;IND;SG;2;PST
+kerak bo'lmoq	kerak bo'ldim	V;PFV;FH;SG;1
+kerak bo'lmoq	kerak bo'lar edilar	V;COND;PL;3;PRS
+kerak bo'lmoq	kerak bo'lar edingizlar	V;COND;PL;2;PRS
+kerak bo'lmoq	kerak bo'layotgan edingizlar	V;PROG;IND;PL;2;PST
+kerak bo'lmoq	kerak bo'lgan edilar	V;PFV;IND;PL;3;PST
+kerak bo'lmoq	kerak bo'layotgan edim	V;PROG;IND;SG;1;PST
+kerak bo'lmoq	kerak bo'lgan edi	V;PFV;IND;SG;3;PST
+kerak bo'lmoq	kerak bo'lgan edik	V;PFV;IND;PL;1;PST
+kerak bo'lmoq	kerak bo'lib bo'lgan bo'ladi	V;PFV;SBJV;SG;3;FUT
+kerak bo'lmoq	kerak bo'lamiz	V;PL;1;PRS
+kerak bo'lmoq	kerak bo'lyapti	V;PROG;IND;SG;3;PRS
+kerak bo'lmoq	kerak bo'laman	V;SG;1;PRS
+kerak bo'lmoq	kerak bo'layotgan bo'lardim	V;PROG;COND;SG;1;PRS
+kerak bo'lmoq	kerak bo'lyapmiz	V;PROG;IND;PL;1;PRS
+kerak bo'lmoq	kerak bo'lyapman	V;PROG;IND;SG;1;PRS
+kerak bo'lmoq	kerak bo'lganmiz	V;IND;PL;1;PST
+kerak bo'lmoq	kerak bo'lganlar	V;IND;PL;3;PST
+kerak bo'lmoq	kerak bo'lyaptilar	V;PROG;IND;PL;3;PRS
+kerak bo'lmoq	kerak bo'lib bo'lgan bo'lasiz	V;PFV;FRML;SBJV;SG;2;FUT
+kerak bo'lmoq	kerak bo'lib bo'lgan bo'ladilar	V;PFV;SBJV;PL;3;FUT
+kerak bo'lmoq	kerak bo'layotgan bo'lar edi	V;PRF+PROG;COND;SG;3;PRS
+kerak bo'lmoq	kerak bo'lib bo'lgan edingizlar	V;PRF;SBJV;PL;2;PRS
+kerak bo'lmoq	kerak bo'layotgan bo'lar eding	V;PRF+PROG;COND;SG;2;INFM;PRS
+kerak bo'lmoq	kerak bo'layotgan bo'lardi	V;PROG;COND;SG;3;PRS
+kerak bo'lmoq	kerak bo'layotgan edilar	V;PROG;IND;PL;3;PST
+kerak bo'lmoq	kerak bo'lar edim	V;COND;SG;1;PRS
+kerak bo'lmoq	kerak bo'layotgan bo'lardilar	V;PROG;COND;PL;3;PRS
+kerak bo'lmoq	kerak bo'ldingiz	V;PFV;FRML;FH;SG;2
+kerak bo'lmoq	kerak bo'layotgan edik	V;PROG;IND;PL;1;PST
+kerak bo'lmoq	kerak bo'lgansiz	V;FRML;IND;SG;2;PST
+kerak bo'lmoq	kerak bo'layotgan bo'lasizlar	V;PROG;IND;PL;2;FUT
+kerak bo'lmoq	kerak bo'lding	V;PFV;FH;SG;2
+kerak bo'lmoq	kerak bo'lar eding	V;COND;SG;2;INFM;PRS
+kerak bo'lmoq	kerak bo'lganman	V;IND;SG;1;PST
+kerak bo'lmoq	kerak bo'layotgan bo'lar edilar	V;PRF+PROG;COND;PL;3;PRS
+kerak bo'lmoq	kerak bo'lib bo'lgan bo'laman	V;PFV;SBJV;SG;1;FUT
+kerak bo'lmoq	kerak bo'lib bo'lgan edim	V;PRF;SBJV;SG;1;PRS
+kerak bo'lmoq	kerak bo'lib bo'lgan bo'lamiz	V;PFV;SBJV;PL;1;FUT
+kerak bo'lmoq	kerak bo'layotgan bo'laman	V;PROG;IND;SG;1;FUT
+kerak bo'lmoq	kerak bo'lar edik	V;COND;PL;1;PRS
+kerak bo'lmoq	kerak bo'layotgan eding	V;PROG;IND;SG;2;INFM;PST
+kerak bo'lmoq	kerak bo'lib bo'lgan edi	V;PRF;SBJV;SG;3;PRS
+kerak bo'lmoq	kerak bo'layotgan bo'lar edingiz	V;PRF+PROG;FRML;COND;SG;2;PRS
+kerak bo'lmoq	kerak bo'layotgan bo'ladi	V;PROG;IND;SG;3;FUT
+kerak bo'lmoq	kerak bo'ladi	V;SG;3;PRS
+kerak bo'lmoq	kerak bo'lasizlar	V;PL;2;PRS
+kerak bo'lmoq	kerak bo'lgansan	V;IND;SG;2;INFM;PST
+o'chirmoq	o'chirib bol'gan eding	V;PRF;SBJV;SG;2;INFM;PRS
+o'chirmoq	o'chirdim	V;PFV;FH;SG;1
+o'chirmoq	o'chirib bo'lgan edim	V;PRF;SBJV;SG;1;PRS
+o'chirmoq	o'chiramiz	V;PL;1;PRS
+o'chirmoq	o'chirayotgan eding	V;PROG;IND;SG;2;INFM;PST
+o'chirmoq	o'chirib bo'lgan edi	V;PRF;SBJV;SG;3;PRS
+o'chirmoq	o'chirgan edik	V;PFV;IND;PL;1;PST
+o'chirmoq	o'chiryapsan	V;PROG;IND;SG;2;INFM;PRS
+o'chirmoq	o'chirib bo'lgan bo'laman	V;PFV;SBJV;SG;1;FUT
+o'chirmoq	o'chirib bo'lgan bo'ladi	V;PFV;SBJV;SG;3;FUT
+o'chirmoq	o'chirdilar	V;PFV;FH;PL;3
+o'chirmoq	o'chiradi	V;SG;3;PRS
+o'chirmoq	o'chirayotgan bo'lar edi	V;PRF+PROG;COND;SG;3;PRS
+o'chirmoq	o'chirar edingiz	V;FRML;COND;SG;2;PRS
+o'chirmoq	o'chirayotgan edim	V;PROG;IND;SG;1;PST
+o'chirmoq	o'chirganlar	V;IND;PL;3;PST
+o'chirmoq	o'chiradilar	V;PL;3;PRS
+o'chirmoq	o'chirdik	V;PFV;FH;PL;1
+o'chirmoq	o'chiryapsizlar	V;PROG;IND;PL;2;PRS
+o'chirmoq	o'chirayotgan bo'lasan	V;PROG;IND;SG;2;INFM;FUT
+o'chirmoq	o'chiryapmiz	V;PROG;IND;PL;1;PRS
+o'chirmoq	o'chirib bo'lgan bo'lasan	V;PFV;SBJV;SG;2;INFM;FUT
+o'chirmoq	o'chirayotgan bo'larding	V;PROG;COND;SG;2;PRS
+o'chirmoq	o'chirgan	V;IND;SG;3;PST
+o'chirmoq	o'chirayotgan bo'lar edik	V;PRF+PROG;COND;PL;1;PRS
+o'chirmoq	o'chirar edingizlar	V;COND;PL;2;PRS
+o'chirmoq	o'chirib bo'lgan edilar	V;PRF;SBJV;PL;3;PRS
+o'chirmoq	o'chirayotgan bo'lardik	V;PROG;COND;PL;1;PRS
+o'chirmoq	o'chirayotgan bo'laman	V;PROG;IND;SG;1;FUT
+o'chirmoq	o'chirayotgan edi	V;PROG;IND;SG;3;PST
+o'chirmoq	o'chirayotgan bo'lar edingiz	V;PRF+PROG;FRML;COND;SG;2;PRS
+o'chirmoq	o'chiryapman	V;PROG;IND;SG;1;PRS
+o'chirmoq	o'chirar edik	V;COND;PL;1;PRS
+o'chirmoq	o'chirasiz	V;FRML;SG;2;PRS
+o'chirmoq	o'chirgan edilar	V;PFV;IND;PL;3;PST
+o'chirmoq	o'chirar edim	V;COND;SG;1;PRS
+o'chirmoq	o'chiryapsiz	V;PROG;FRML;IND;SG;2;PRS
+o'chirmoq	o'chirayotgan bo'lar edingizlar	V;PRF+PROG;COND;PL;2;PRS
+o'chirmoq	o'chirgansiz	V;FRML;IND;SG;2;PST
+o'chirmoq	o'chirayotgan bo'lasiz	V;PROG;FRML;IND;SG;2;FUT
+o'chirmoq	o'chirayotgan bo'lardim	V;PROG;COND;SG;1;PRS
+o'chirmoq	o'chirayotgan edingizlar	V;PROG;IND;PL;2;PST
+o'chirmoq	o'chirganman	V;IND;SG;1;PST
+o'chirmoq	o'chirayotgan bo'lardi	V;PROG;COND;SG;3;PRS
+o'chirmoq	o'chirgan edim	V;PFV;IND;SG;1;PST
+o'chirmoq	o'chirgan edingiz	V;PFV;FRML;IND;SG;2;PST
+o'chirmoq	o'chiryapti	V;PROG;IND;SG;3;PRS
+o'chirmoq	o'chirar edilar	V;COND;PL;3;PRS
+o'chirmoq	o'chirayotgan bo'lar eding	V;PRF+PROG;COND;SG;2;INFM;PRS
+o'chirmoq	o'chirasan	V;SG;2;INFM;PRS
+o'chirmoq	o'chirasizlar	V;PL;2;PRS
+o'chirmoq	o'chirayotgan bo'ladilar	V;PROG;IND;PL;3;FUT
+o'chirmoq	o'chirayotgan bo'lamiz	V;PROG;IND;PL;1;FUT
+o'chirmoq	o'chiraman	V;SG;1;PRS
+o'chirmoq	o'chirib bo'lgan edik	V;PRF;SBJV;PL;1;PRS
+o'chirmoq	o'chirayotgan bo'ladi	V;PROG;IND;SG;3;FUT
+o'chirmoq	o'chirganmiz	V;IND;PL;1;PST
+o'chirmoq	o'chirayotgan bo'lardilar	V;PROG;COND;PL;3;PRS
+o'chirmoq	o'chirding	V;PFV;FH;SG;2
+o'chirmoq	o'chirdi	V;PFV;FH;SG;3
+o'chirmoq	o'chirayotgan bo'lar edilar	V;PRF+PROG;COND;PL;3;PRS
+o'chirmoq	o'chirayotgan bo'lar edim	V;PRF+PROG;COND;SG;1;PRS
+o'chirmoq	o'chirib bo'lgan bo'lamiz	V;PFV;SBJV;PL;1;FUT
+o'chirmoq	o'chirayotgan edingiz	V;PROG;FRML;IND;SG;2;PST
+o'chirmoq	o'chirgan edingizlar	V;PFV;IND;PL;2;PST
+o'chirmoq	o'chirdingiz	V;PFV;FRML;FH;SG;2
+o'chirmoq	o'chirar edi	V;COND;SG;3;PRS
+o'chirmoq	o'chirib bo'lgan bo'lasiz	V;PFV;FRML;SBJV;SG;2;FUT
+o'chirmoq	o'chirib bo'lgan edingiz	V;PRF;FRML;SBJV;SG;2;PRS
+o'chirmoq	o'chirayotgan edilar	V;PROG;IND;PL;3;PST
+o'chirmoq	o'chirgan edi	V;PFV;IND;SG;3;PST
+o'chirmoq	o'chirgansizlar	V;IND;PL;2;PST
+o'chirmoq	o'chirdingizlar	V;PFV;FH;PL;2
+o'chirmoq	o'chirib bo'lgan bo'ladilar	V;PFV;SBJV;PL;3;FUT
+o'chirmoq	o'chiryaptilar	V;PROG;IND;PL;3;PRS
+o'chirmoq	o'chirib bo'lgan edingizlar	V;PRF;SBJV;PL;2;PRS
+o'chirmoq	o'chirayotgan bo'lasizlar	V;PROG;IND;PL;2;FUT
+o'chirmoq	o'chirar eding	V;COND;SG;2;INFM;PRS
+o'chirmoq	o'chirgansan	V;IND;SG;2;INFM;PST
+o'chirmoq	o'chirgan eding	V;PFV;IND;SG;2;INFM;PST
+o'chirmoq	o'chirib bo'lgan bo'lasizlar	V;PFV;SBJV;PL;2;FUT
+o'chirmoq	o'chirayotgan edik	V;PROG;IND;PL;1;PST
+surtmoq	surtib bo'lgan edim	V;PRF;SBJV;SG;1;PRS
+surtmoq	surtar edik	V;COND;PL;1;PRS
+surtmoq	surtaylik	V;SBJV;PL;1;PRS
+surtmoq	surtayotgan bo'ladilar	V;PROG;IND;PL;3;FUT
+surtmoq	surtsin	V;SBJV;SG;3;PRS
+surtmoq	surtganman	V;IND;SG;1;PST
+surtmoq	surtyapti	V;PROG;IND;SG;3;PRS
+surtmoq	surtayotgan bo'ladi	V;PROG;IND;SG;3;FUT
+surtmoq	surtayotgan bo'lar edik	V;PRF+PROG;COND;PL;1;PRS
+surtmoq	surtayotgan bo'lardilar	V;PROG;COND;PL;3;PRS
+surtmoq	surtayotgan edik	V;PROG;IND;PL;1;PST
+surtmoq	surtayotgan bo'lar edingiz	V;PRF+PROG;FRML;COND;SG;2;PRS
+surtmoq	surtib bo'lgan bo'ladi	V;PFV;SBJV;SG;3;FUT
+surtmoq	surtayotgan edilar	V;PROG;IND;PL;3;PST
+surtmoq	surtar eding	V;COND;SG;2;INFM;PRS
+surtmoq	surtib bo'lgan edik	V;PRF;SBJV;PL;1;PRS
+surtmoq	surtsinlar	V;SBJV;PL;3;PRS
+surtmoq	surtib bo'lgan edi	V;PRF;SBJV;SG;3;PRS
+surtmoq	surtar edingizlar	V;COND;PL;2;PRS
+surtmoq	surtyapsiz	V;PROG;FRML;IND;SG;2;PRS
+surtmoq	surtayotgan bo'lasizlar	V;PROG;IND;PL;2;FUT
+surtmoq	surtgan edilar	V;PFV;IND;PL;3;PST
+surtmoq	surtasiz	V;FRML;SG;2;PRS
+surtmoq	surting	V;FRML;SBJV;SG;2;PRS
+surtmoq	surtganlar	V;IND;PL;3;PST
+surtmoq	surtdingiz	V;PFV;FRML;FH;SG;2
+surtmoq	surtasan	V;SG;2;INFM;PRS
+surtmoq	surtgan edik	V;PFV;IND;PL;1;PST
+surtmoq	surtar edim	V;COND;SG;1;PRS
+surtmoq	surtayotgan bo'lar edim	V;PRF+PROG;COND;SG;1;PRS
+surtmoq	surtding	V;PFV;FH;SG;2
+surtmoq	surtib bo'lgan edilar	V;PRF;SBJV;PL;3;PRS
+surtmoq	surtayotgan bo'lar eding	V;PRF+PROG;COND;SG;2;INFM;PRS
+surtmoq	surtyaptilar	V;PROG;IND;PL;3;PRS
+surtmoq	surtgan edingizlar	V;PFV;IND;PL;2;PST
+surtmoq	surtdik	V;PFV;FH;PL;1
+surtmoq	surtganmiz	V;IND;PL;1;PST
+surtmoq	surtgan	V;IND;SG;3;PST
+surtmoq	surtayotgan bo'lasan	V;PROG;IND;SG;2;INFM;FUT
+surtmoq	surtayotgan edingiz	V;PROG;FRML;IND;SG;2;PST
+surtmoq	surtib bol'gan eding	V;PRF;SBJV;SG;2;INFM;PRS
+surtmoq	surtib bo'lgan bo'lasiz	V;PFV;FRML;SBJV;SG;2;FUT
+surtmoq	surtayotgan bo'lar edingizlar	V;PRF+PROG;COND;PL;2;PRS
+surtmoq	surtay	V;SBJV;SG;1;PRS
+surtmoq	surtib bo'lgan edingizlar	V;PRF;SBJV;PL;2;PRS
+surtmoq	surtgan edingiz	V;PFV;FRML;IND;SG;2;PST
+surtmoq	surtayotgan bo'lar edilar	V;PRF+PROG;COND;PL;3;PRS
+surtmoq	surtayotgan edim	V;PROG;IND;SG;1;PST
+surtmoq	surtayotgan bo'lasiz	V;PROG;FRML;IND;SG;2;FUT
+surtmoq	surtayotgan bo'laman	V;PROG;IND;SG;1;FUT
+surtmoq	surtdilar	V;PFV;FH;PL;3
+surtmoq	surtyapmiz	V;PROG;IND;PL;1;PRS
+surtmoq	surtayotgan bo'lar edi	V;PRF+PROG;COND;SG;3;PRS
+surtmoq	surtamiz	V;PL;1;PRS
+surtmoq	surtib bo'lgan bo'lamiz	V;PFV;SBJV;PL;1;FUT
+surtmoq	surtgan eding	V;PFV;IND;SG;2;INFM;PST
+surtmoq	surtyapsizlar	V;PROG;IND;PL;2;PRS
+surtmoq	surtib bo'lgan edingiz	V;PRF;FRML;SBJV;SG;2;PRS
+surtmoq	surtgansan	V;IND;SG;2;INFM;PST
+surtmoq	surtadi	V;SG;3;PRS
+surtmoq	surtasizlar	V;PL;2;PRS
+surtmoq	surtar edingiz	V;FRML;COND;SG;2;PRS
+surtmoq	surtyapsan	V;PROG;IND;SG;2;INFM;PRS
+surtmoq	surtayotgan bo'lardi	V;PROG;COND;SG;3;PRS
+surtmoq	surtyapman	V;PROG;IND;SG;1;PRS
+surtmoq	surtayotgan eding	V;PROG;IND;SG;2;INFM;PST
+surtmoq	surtib bo'lgan bo'laman	V;PFV;SBJV;SG;1;FUT
+surtmoq	surtar edilar	V;COND;PL;3;PRS
+surtmoq	surtyinglar	V;SBJV;PL;2;PRS
+surtmoq	surtib bo'lgan bo'ladilar	V;PFV;SBJV;PL;3;FUT
+surtmoq	surtib bo'lgan bo'lasan	V;PFV;SBJV;SG;2;INFM;FUT
+surtmoq	surtayotgan bo'lasiz	V;PROG;FRML;COND;SG;2;PRS
+surtmoq	surtayotgan bo'lardik	V;PROG;COND;PL;1;PRS
+surtmoq	surtgansiz	V;FRML;IND;SG;2;PST
+surtmoq	surtgan edim	V;PFV;IND;SG;1;PST
+surtmoq	surtgansizlar	V;IND;PL;2;PST
+surtmoq	surt	V;SBJV;SG;2;PRS
+surtmoq	surtaman	V;SG;1;PRS
+surtmoq	surtdi	V;PFV;FH;SG;3
+surtmoq	surtayotgan bo'lamiz	V;PROG;IND;PL;1;FUT
+surtmoq	surtar edi	V;COND;SG;3;PRS
+surtmoq	surtgan edi	V;PFV;IND;SG;3;PST
+surtmoq	surtayotgan bo'lardim	V;PROG;COND;SG;1;PRS
+surtmoq	surtayotgan edi	V;PROG;IND;SG;3;PST
+surtmoq	surtadilar	V;PL;3;PRS
+surtmoq	surtdingizlar	V;PFV;FH;PL;2
+surtmoq	surtdim	V;PFV;FH;SG;1
+surtmoq	surtayotgan edingizlar	V;PROG;IND;PL;2;PST
+surtmoq	surtayotgan bo'lasizlar	V;PROG;COND;PL;2;PRS
+surtmoq	surtayotgan bo'larding	V;PROG;COND;SG;2;PRS
+surtmoq	surtib bo'lgan bo'lasizlar	V;PFV;SBJV;PL;2;FUT
+katta qilmoq	katta qilyapsan	V;PROG;IND;SG;2;INFM;PRS
+katta qilmoq	katta qilayotgan bo'lardim	V;PROG;COND;SG;1;PRS
+katta qilmoq	katta qilib bo'lgan bo'lasiz	V;PFV;FRML;SBJV;SG;2;FUT
+katta qilmoq	katta qilgan edilar	V;PFV;IND;PL;3;PST
+katta qilmoq	katta qilar edim	V;COND;SG;1;PRS
+katta qilmoq	katta qilgansan	V;IND;SG;2;INFM;PST
+katta qilmoq	katta qilgansizlar	V;IND;PL;2;PST
+katta qilmoq	katta qilyapsiz	V;PROG;FRML;IND;SG;2;PRS
+katta qilmoq	katta qilayotgan edingizlar	V;PROG;IND;PL;2;PST
+katta qilmoq	katta qildim	V;PFV;FH;SG;1
+katta qilmoq	katta qilib bo'lgan bo'ladilar	V;PFV;SBJV;PL;3;FUT
+katta qilmoq	katta qiladilar	V;PL;3;PRS
+katta qilmoq	katta qilyapman	V;PROG;IND;SG;1;PRS
+katta qilmoq	katta qilyapti	V;PROG;IND;SG;3;PRS
+katta qilmoq	katta qilgan edik	V;PFV;IND;PL;1;PST
+katta qilmoq	katta qiladi	V;SG;3;PRS
+katta qilmoq	katta qilib bo'lgan edim	V;PRF;SBJV;SG;1;PRS
+katta qilmoq	katta qilganlar	V;IND;PL;3;PST
+katta qilmoq	katta qilgan edi	V;PFV;IND;SG;3;PST
+katta qilmoq	katta qilasizlar	V;PL;2;PRS
+katta qilmoq	katta qilayotgan bo'lar edilar	V;PRF+PROG;COND;PL;3;PRS
+katta qilmoq	katta qilib bo'lgan edilar	V;PRF;SBJV;PL;3;PRS
+katta qilmoq	katta qilyapsizlar	V;PROG;IND;PL;2;PRS
+katta qilmoq	katta qildingiz	V;PFV;FRML;FH;SG;2
+katta qilmoq	katta qilasiz	V;FRML;SG;2;PRS
+katta qilmoq	katta qilayotgan bo'lar edi	V;PRF+PROG;COND;SG;3;PRS
+katta qilmoq	katta qilayotgan bo'larding	V;PROG;COND;SG;2;PRS
+katta qilmoq	katta qilayotgan edim	V;PROG;IND;SG;1;PST
+katta qilmoq	katta qilding	V;PFV;FH;SG;2
+katta qilmoq	katta qilar edilar	V;COND;PL;3;PRS
+katta qilmoq	katta qilayotgan bo'lasiz	V;PROG;FRML;IND;SG;2;FUT
+katta qilmoq	katta qilayotgan edik	V;PROG;IND;PL;1;PST
+katta qilmoq	katta qilayotgan edilar	V;PROG;IND;PL;3;PST
+katta qilmoq	katta qilayotgan eding	V;PROG;IND;SG;2;INFM;PST
+katta qilmoq	katta qilar edi	V;COND;SG;3;PRS
+katta qilmoq	katta qilayotgan bo'lamiz	V;PROG;IND;PL;1;FUT
+katta qilmoq	katta qilib bo'lgan bo'ladi	V;PFV;SBJV;SG;3;FUT
+katta qilmoq	katta qilayotgan bo'lar eding	V;PRF+PROG;COND;SG;2;INFM;PRS
+katta qilmoq	katta qilyapmiz	V;PROG;IND;PL;1;PRS
+katta qilmoq	katta qilib bo'lgan bo'lamiz	V;PFV;SBJV;PL;1;FUT
+katta qilmoq	katta qilgan	V;IND;SG;3;PST
+katta qilmoq	katta qilar edingizlar	V;COND;PL;2;PRS
+katta qilmoq	katta qilayotgan bo'lar edik	V;PRF+PROG;COND;PL;1;PRS
+katta qilmoq	katta qilasan	V;SG;2;INFM;PRS
+katta qilmoq	katta qilgan edim	V;PFV;IND;SG;1;PST
+katta qilmoq	katta qilaman	V;SG;1;PRS
+katta qilmoq	katta qilayotgan bo'lar edim	V;PRF+PROG;COND;SG;1;PRS
+katta qilmoq	katta qildi	V;PFV;FH;SG;3
+katta qilmoq	katta qilamiz	V;PL;1;PRS
+katta qilmoq	katta qilayotgan edingiz	V;PROG;FRML;IND;SG;2;PST
+katta qilmoq	katta qilayotgan bo'lardik	V;PROG;COND;PL;1;PRS
+katta qilmoq	katta qilayotgan bo'ladi	V;PROG;IND;SG;3;FUT
+katta qilmoq	katta qilayotgan bo'lasizlar	V;PROG;IND;PL;2;FUT
+katta qilmoq	katta qilib bo'lgan edi	V;PRF;SBJV;SG;3;PRS
+katta qilmoq	katta qilganmiz	V;IND;PL;1;PST
+katta qilmoq	katta qilyaptilar	V;PROG;IND;PL;3;PRS
+katta qilmoq	katta qilayotgan bo'ladilar	V;PROG;IND;PL;3;FUT
+katta qilmoq	katta qilayotgan bo'lardi	V;PROG;COND;SG;3;PRS
+katta qilmoq	katta qilib bol'gan eding	V;PRF;SBJV;SG;2;INFM;PRS
+katta qilmoq	katta qildilar	V;PFV;FH;PL;3
+katta qilmoq	katta qilar eding	V;COND;SG;2;INFM;PRS
+katta qilmoq	katta qilar edik	V;COND;PL;1;PRS
+katta qilmoq	katta qilib bo'lgan edik	V;PRF;SBJV;PL;1;PRS
+katta qilmoq	katta qildik	V;PFV;FH;PL;1
+katta qilmoq	katta qilib bo'lgan bo'lasizlar	V;PFV;SBJV;PL;2;FUT
+katta qilmoq	katta qilgan edingiz	V;PFV;FRML;IND;SG;2;PST
+katta qilmoq	katta qilayotgan bo'lar edingiz	V;PRF+PROG;FRML;COND;SG;2;PRS
+katta qilmoq	katta qilib bo'lgan edingiz	V;PRF;FRML;SBJV;SG;2;PRS
+katta qilmoq	katta qilayotgan bo'lar edingizlar	V;PRF+PROG;COND;PL;2;PRS
+katta qilmoq	katta qilgansiz	V;FRML;IND;SG;2;PST
+katta qilmoq	katta qilayotgan bo'lasan	V;PROG;IND;SG;2;INFM;FUT
+katta qilmoq	katta qilib bo'lgan edingizlar	V;PRF;SBJV;PL;2;PRS
+katta qilmoq	katta qilayotgan edi	V;PROG;IND;SG;3;PST
+katta qilmoq	katta qilib bo'lgan bo'laman	V;PFV;SBJV;SG;1;FUT
+katta qilmoq	katta qildingizlar	V;PFV;FH;PL;2
+katta qilmoq	katta qilayotgan bo'laman	V;PROG;IND;SG;1;FUT
+katta qilmoq	katta qilib bo'lgan bo'lasan	V;PFV;SBJV;SG;2;INFM;FUT
+katta qilmoq	katta qilgan edingizlar	V;PFV;IND;PL;2;PST
+katta qilmoq	katta qilganman	V;IND;SG;1;PST
+katta qilmoq	katta qilar edingiz	V;FRML;COND;SG;2;PRS
+katta qilmoq	katta qilayotgan bo'lardilar	V;PROG;COND;PL;3;PRS
+katta qilmoq	katta qilgan eding	V;PFV;IND;SG;2;INFM;PST
+suyanmoq	suyanib bo'lgan edim	V;PRF;SBJV;SG;1;PRS
+suyanmoq	suyanadi	V;SG;3;PRS
+suyanmoq	suyanayotgan bo'lardim	V;PROG;COND;SG;1;PRS
+suyanmoq	suyangan edingizlar	V;PFV;IND;PL;2;PST
+suyanmoq	suyangan	V;IND;SG;3;PST
+suyanmoq	suyanyaptilar	V;PROG;IND;PL;3;PRS
+suyanmoq	suyanayotgan bo'lardilar	V;PROG;COND;PL;3;PRS
+suyanmoq	suyanayotgan bo'lasiz	V;PROG;FRML;IND;SG;2;FUT
+suyanmoq	suyangan eding	V;PFV;IND;SG;2;INFM;PST
+suyanmoq	suyangan edingiz	V;PFV;FRML;IND;SG;2;PST
+suyanmoq	suyanib bo'lgan edingiz	V;PRF;FRML;SBJV;SG;2;PRS
+suyanmoq	suyanib bo'lgan bo'ladilar	V;PFV;SBJV;PL;3;FUT
+suyanmoq	suyandik	V;PFV;FH;PL;1
+suyanmoq	suyanyapmiz	V;PROG;IND;PL;1;PRS
+suyanmoq	suyanaman	V;SG;1;PRS
+suyanmoq	suyangansan	V;IND;SG;2;INFM;PST
+suyanmoq	suyanar edik	V;COND;PL;1;PRS
+suyanmoq	suyanyapsan	V;PROG;IND;SG;2;INFM;PRS
+suyanmoq	suyangansiz	V;FRML;IND;SG;2;PST
+suyanmoq	suyanayotgan bo'lardi	V;PROG;COND;SG;3;PRS
+suyanmoq	suyanyapti	V;PROG;IND;SG;3;PRS
+suyanmoq	suyanar edingiz	V;FRML;COND;SG;2;PRS
+suyanmoq	suyanayotgan bo'ladilar	V;PROG;IND;PL;3;FUT
+suyanmoq	suyanib bo'lgan edilar	V;PRF;SBJV;PL;3;PRS
+suyanmoq	suyanayotgan bo'lar edik	V;PRF+PROG;COND;PL;1;PRS
+suyanmoq	suyanayotgan bo'larding	V;PROG;COND;SG;2;PRS
+suyanmoq	suyanayotgan edik	V;PROG;IND;PL;1;PST
+suyanmoq	suyanib bol'gan eding	V;PRF;SBJV;SG;2;INFM;PRS
+suyanmoq	suyanganlar	V;IND;PL;3;PST
+suyanmoq	suyanayotgan edingiz	V;PROG;FRML;IND;SG;2;PST
+suyanmoq	suyandingiz	V;PFV;FRML;FH;SG;2
+suyanmoq	suyanayotgan bo'lar edim	V;PRF+PROG;COND;SG;1;PRS
+suyanmoq	suyandilar	V;PFV;FH;PL;3
+suyanmoq	suyanayotgan bo'lar eding	V;PRF+PROG;COND;SG;2;INFM;PRS
+suyanmoq	suyanar eding	V;COND;SG;2;INFM;PRS
+suyanmoq	suyanayotgan bo'lar edilar	V;PRF+PROG;COND;PL;3;PRS
+suyanmoq	suyanyapman	V;PROG;IND;SG;1;PRS
+suyanmoq	suyangan edilar	V;PFV;IND;PL;3;PST
+suyanmoq	suyangansizlar	V;IND;PL;2;PST
+suyanmoq	suyangan edi	V;PFV;IND;SG;3;PST
+suyanmoq	suyanayotgan edim	V;PROG;IND;SG;1;PST
+suyanmoq	suyanadilar	V;PL;3;PRS
+suyanmoq	suyanayotgan edingizlar	V;PROG;IND;PL;2;PST
+suyanmoq	suyanyapsiz	V;PROG;FRML;IND;SG;2;PRS
+suyanmoq	suyanayotgan bo'lar edi	V;PRF+PROG;COND;SG;3;PRS
+suyanmoq	suyanayotgan bo'lasan	V;PROG;IND;SG;2;INFM;FUT
+suyanmoq	suyanib bo'lgan bo'lasiz	V;PFV;FRML;SBJV;SG;2;FUT
+suyanmoq	suyandi	V;PFV;FH;SG;3
+suyanmoq	suyanayotgan edilar	V;PROG;IND;PL;3;PST
+suyanmoq	suyanar edim	V;COND;SG;1;PRS
+suyanmoq	suyanib bo'lgan edingizlar	V;PRF;SBJV;PL;2;PRS
+suyanmoq	suyanar edilar	V;COND;PL;3;PRS
+suyanmoq	suyanayotgan bo'lamiz	V;PROG;IND;PL;1;FUT
+suyanmoq	suyanayotgan bo'laman	V;PROG;IND;SG;1;FUT
+suyanmoq	suyanasiz	V;FRML;SG;2;PRS
+suyanmoq	suyanayotgan bo'lardik	V;PROG;COND;PL;1;PRS
+suyanmoq	suyanib bo'lgan bo'ladi	V;PFV;SBJV;SG;3;FUT
+suyanmoq	suyangan edik	V;PFV;IND;PL;1;PST
+suyanmoq	suyanamiz	V;PL;1;PRS
+suyanmoq	suyandingizlar	V;PFV;FH;PL;2
+suyanmoq	suyanasan	V;SG;2;INFM;PRS
+suyanmoq	suyanyapsizlar	V;PROG;IND;PL;2;PRS
+suyanmoq	suyanib bo'lgan edi	V;PRF;SBJV;SG;3;PRS
+suyanmoq	suyandim	V;PFV;FH;SG;1
+suyanmoq	suyanar edi	V;COND;SG;3;PRS
+suyanmoq	suyanayotgan bo'ladi	V;PROG;IND;SG;3;FUT
+suyanmoq	suyanasizlar	V;PL;2;PRS
+suyanmoq	suyanib bo'lgan edik	V;PRF;SBJV;PL;1;PRS
+suyanmoq	suyanib bo'lgan bo'lasizlar	V;PFV;SBJV;PL;2;FUT
+suyanmoq	suyanganmiz	V;IND;PL;1;PST
+suyanmoq	suyanayotgan eding	V;PROG;IND;SG;2;INFM;PST
+suyanmoq	suyanib bo'lgan bo'laman	V;PFV;SBJV;SG;1;FUT
+suyanmoq	suyanib bo'lgan bo'lamiz	V;PFV;SBJV;PL;1;FUT
+suyanmoq	suyanayotgan edi	V;PROG;IND;SG;3;PST
+suyanmoq	suyanganman	V;IND;SG;1;PST
+suyanmoq	suyanar edingizlar	V;COND;PL;2;PRS
+suyanmoq	suyanayotgan bo'lasizlar	V;PROG;IND;PL;2;FUT
+suyanmoq	suyanayotgan bo'lar edingizlar	V;PRF+PROG;COND;PL;2;PRS
+suyanmoq	suyanding	V;PFV;FH;SG;2
+suyanmoq	suyanib bo'lgan bo'lasan	V;PFV;SBJV;SG;2;INFM;FUT
+suyanmoq	suyangan edim	V;PFV;IND;SG;1;PST
+suyanmoq	suyanayotgan bo'lar edingiz	V;PRF+PROG;FRML;COND;SG;2;PRS
+uzanmoq	uzanayotgan edim	V;PROG;IND;SG;1;PST
+uzanmoq	uzanib bol'gan eding	V;PRF;SBJV;SG;2;INFM;PRS
+uzanmoq	uzanasiz	V;FRML;SG;2;PRS
+uzanmoq	uzanaman	V;SG;1;PRS
+uzanmoq	uzangan edingizlar	V;PFV;IND;PL;2;PST
+uzanmoq	uzanib bo'lgan edingiz	V;PRF;FRML;SBJV;SG;2;PRS
+uzanmoq	uzanayotgan bo'larding	V;PROG;COND;SG;2;PRS
+uzanmoq	uzanayotgan bo'lasiz	V;PROG;FRML;IND;SG;2;FUT
+uzanmoq	uzanayotgan bo'lardilar	V;PROG;COND;PL;3;PRS
+uzanmoq	uzangan edim	V;PFV;IND;SG;1;PST
+uzanmoq	uzanayotgan bo'lar edik	V;PRF+PROG;COND;PL;1;PRS
+uzanmoq	uzanayotgan eding	V;PROG;IND;SG;2;INFM;PST
+uzanmoq	uzandim	V;PFV;FH;SG;1
+uzanmoq	uzanadilar	V;PL;3;PRS
+uzanmoq	uzanayotgan edingizlar	V;PROG;IND;PL;2;PST
+uzanmoq	uzangan edingiz	V;PFV;FRML;IND;SG;2;PST
+uzanmoq	uzangan edilar	V;PFV;IND;PL;3;PST
+uzanmoq	uzangansiz	V;FRML;IND;SG;2;PST
+uzanmoq	uzanar edingizlar	V;COND;PL;2;PRS
+uzanmoq	uzanyapsizlar	V;PROG;IND;PL;2;PRS
+uzanmoq	uzanyapsan	V;PROG;IND;SG;2;INFM;PRS
+uzanmoq	uzanayotgan bo'laman	V;PROG;IND;SG;1;FUT
+uzanmoq	uzanadi	V;SG;3;PRS
+uzanmoq	uzangansan	V;IND;SG;2;INFM;PST
+uzanmoq	uzanib bo'lgan bo'lasiz	V;PFV;FRML;SBJV;SG;2;FUT
+uzanmoq	uzanganmiz	V;IND;PL;1;PST
+uzanmoq	uzanding	V;PFV;FH;SG;2
+uzanmoq	uzangan edi	V;PFV;IND;SG;3;PST
+uzanmoq	uzangan eding	V;PFV;IND;SG;2;INFM;PST
+uzanmoq	uzanayotgan bo'ladi	V;PROG;IND;SG;3;FUT
+uzanmoq	uzanib bo'lgan edilar	V;PRF;SBJV;PL;3;PRS
+uzanmoq	uzanasan	V;SG;2;INFM;PRS
+uzanmoq	uzanamiz	V;PL;1;PRS
+uzanmoq	uzanyaptilar	V;PROG;IND;PL;3;PRS
+uzanmoq	uzangan	V;IND;SG;3;PST
+uzanmoq	uzanayotgan bo'lar edingiz	V;PRF+PROG;FRML;COND;SG;2;PRS
+uzanmoq	uzanib bo'lgan bo'lamiz	V;PFV;SBJV;PL;1;FUT
+uzanmoq	uzanganman	V;IND;SG;1;PST
+uzanmoq	uzanayotgan edilar	V;PROG;IND;PL;3;PST
+uzanmoq	uzandi	V;PFV;FH;SG;3
+uzanmoq	uzanib bo'lgan bo'ladilar	V;PFV;SBJV;PL;3;FUT
+uzanmoq	uzanar edim	V;COND;SG;1;PRS
+uzanmoq	uzanayotgan bo'lasan	V;PROG;IND;SG;2;INFM;FUT
+uzanmoq	uzanayotgan bo'lar edi	V;PRF+PROG;COND;SG;3;PRS
+uzanmoq	uzanayotgan edik	V;PROG;IND;PL;1;PST
+uzanmoq	uzanganlar	V;IND;PL;3;PST
+uzanmoq	uzandingizlar	V;PFV;FH;PL;2
+uzanmoq	uzanayotgan edi	V;PROG;IND;SG;3;PST
+uzanmoq	uzanayotgan bo'lar edingizlar	V;PRF+PROG;COND;PL;2;PRS
+uzanmoq	uzanyapmiz	V;PROG;IND;PL;1;PRS
+uzanmoq	uzanar edingiz	V;FRML;COND;SG;2;PRS
+uzanmoq	uzanib bo'lgan bo'ladi	V;PFV;SBJV;SG;3;FUT
+uzanmoq	uzanar eding	V;COND;SG;2;INFM;PRS
+uzanmoq	uzandik	V;PFV;FH;PL;1
+uzanmoq	uzangan edik	V;PFV;IND;PL;1;PST
+uzanmoq	uzanib bo'lgan edim	V;PRF;SBJV;SG;1;PRS
+uzanmoq	uzanayotgan bo'lasizlar	V;PROG;IND;PL;2;FUT
+uzanmoq	uzanayotgan bo'lamiz	V;PROG;IND;PL;1;FUT
+uzanmoq	uzanayotgan bo'lardi	V;PROG;COND;SG;3;PRS
+uzanmoq	uzangansizlar	V;IND;PL;2;PST
+uzanmoq	uzanayotgan edingiz	V;PROG;FRML;IND;SG;2;PST
+uzanmoq	uzanib bo'lgan edi	V;PRF;SBJV;SG;3;PRS
+uzanmoq	uzanayotgan bo'lardik	V;PROG;COND;PL;1;PRS
+uzanmoq	uzanayotgan bo'lardim	V;PROG;COND;SG;1;PRS
+uzanmoq	uzandilar	V;PFV;FH;PL;3
+uzanmoq	uzanib bo'lgan bo'lasizlar	V;PFV;SBJV;PL;2;FUT
+uzanmoq	uzanyapman	V;PROG;IND;SG;1;PRS
+uzanmoq	uzanar edi	V;COND;SG;3;PRS
+uzanmoq	uzanyapsiz	V;PROG;FRML;IND;SG;2;PRS
+uzanmoq	uzanib bo'lgan bo'lasan	V;PFV;SBJV;SG;2;INFM;FUT
+uzanmoq	uzanar edilar	V;COND;PL;3;PRS
+uzanmoq	uzanayotgan bo'lar edim	V;PRF+PROG;COND;SG;1;PRS
+uzanmoq	uzanayotgan bo'ladilar	V;PROG;IND;PL;3;FUT
+uzanmoq	uzanyapti	V;PROG;IND;SG;3;PRS
+uzanmoq	uzanayotgan bo'lar eding	V;PRF+PROG;COND;SG;2;INFM;PRS
+uzanmoq	uzanib bo'lgan edingizlar	V;PRF;SBJV;PL;2;PRS
+uzanmoq	uzanayotgan bo'lar edilar	V;PRF+PROG;COND;PL;3;PRS
+uzanmoq	uzanar edik	V;COND;PL;1;PRS
+uzanmoq	uzanasizlar	V;PL;2;PRS
+uzanmoq	uzanib bo'lgan bo'laman	V;PFV;SBJV;SG;1;FUT
+uzanmoq	uzandingiz	V;PFV;FRML;FH;SG;2
+uzanmoq	uzanib bo'lgan edik	V;PRF;SBJV;PL;1;PRS
+tashkil qilmoq	tashkil qilib bo'lgan edi	V;PRF;SBJV;SG;3;PRS
+tashkil qilmoq	tashkil qilar edi	V;COND;SG;3;PRS
+tashkil qilmoq	tashkil qilayotgan bo'lar edim	V;PRF+PROG;COND;SG;1;PRS
+tashkil qilmoq	tashkil qilayotgan bo'lasan	V;PROG;IND;SG;2;INFM;FUT
+tashkil qilmoq	tashkil qilayotgan bo'lar edilar	V;PRF+PROG;COND;PL;3;PRS
+tashkil qilmoq	tashkil qilayotgan bo'ladi	V;PROG;IND;SG;3;FUT
+tashkil qilmoq	tashkil qilayotgan edim	V;PROG;IND;SG;1;PST
+tashkil qilmoq	tashkil qilib bol'gan eding	V;PRF;SBJV;SG;2;INFM;PRS
+tashkil qilmoq	tashkil qilayotgan bo'lardilar	V;PROG;COND;PL;3;PRS
+tashkil qilmoq	tashkil qilar edingizlar	V;COND;PL;2;PRS
+tashkil qilmoq	tashkil qilding	V;PFV;FH;SG;2
+tashkil qilmoq	tashkil qilayotgan eding	V;PROG;IND;SG;2;INFM;PST
+tashkil qilmoq	tashkil qilyapsan	V;PROG;IND;SG;2;INFM;PRS
+tashkil qilmoq	tashkil qilayotgan bo'larding	V;PROG;COND;SG;2;PRS
+tashkil qilmoq	tashkil qilasan	V;SG;2;INFM;PRS
+tashkil qilmoq	tashkil qildingizlar	V;PFV;FH;PL;2
+tashkil qilmoq	tashkil qilar edim	V;COND;SG;1;PRS
+tashkil qilmoq	tashkil qilayotgan bo'lardik	V;PROG;COND;PL;1;PRS
+tashkil qilmoq	tashkil qilayotgan bo'lasiz	V;PROG;FRML;IND;SG;2;FUT
+tashkil qilmoq	tashkil qilar edingiz	V;FRML;COND;SG;2;PRS
+tashkil qilmoq	tashkil qilganmiz	V;IND;PL;1;PST
+tashkil qilmoq	tashkil qilib bo'lgan bo'laman	V;PFV;SBJV;SG;1;FUT
+tashkil qilmoq	tashkil qilar edilar	V;COND;PL;3;PRS
+tashkil qilmoq	tashkil qilayotgan edingizlar	V;PROG;IND;PL;2;PST
+tashkil qilmoq	tashkil qilayotgan edilar	V;PROG;IND;PL;3;PST
+tashkil qilmoq	tashkil qilgansizlar	V;IND;PL;2;PST
+tashkil qilmoq	tashkil qilayotgan bo'lardi	V;PROG;COND;SG;3;PRS
+tashkil qilmoq	tashkil qilib bo'lgan edingizlar	V;PRF;SBJV;PL;2;PRS
+tashkil qilmoq	tashkil qilgan edi	V;PFV;IND;SG;3;PST
+tashkil qilmoq	tashkil qilib bo'lgan bo'lasan	V;PFV;SBJV;SG;2;INFM;FUT
+tashkil qilmoq	tashkil qilgan edingiz	V;PFV;FRML;IND;SG;2;PST
+tashkil qilmoq	tashkil qilib bo'lgan bo'lamiz	V;PFV;SBJV;PL;1;FUT
+tashkil qilmoq	tashkil qilayotgan bo'lar edingizlar	V;PRF+PROG;COND;PL;2;PRS
+tashkil qilmoq	tashkil qilayotgan bo'lar eding	V;PRF+PROG;COND;SG;2;INFM;PRS
+tashkil qilmoq	tashkil qildim	V;PFV;FH;SG;1
+tashkil qilmoq	tashkil qilib bo'lgan edik	V;PRF;SBJV;PL;1;PRS
+tashkil qilmoq	tashkil qilgan eding	V;PFV;IND;SG;2;INFM;PST
+tashkil qilmoq	tashkil qilgan edilar	V;PFV;IND;PL;3;PST
+tashkil qilmoq	tashkil qilamiz	V;PL;1;PRS
+tashkil qilmoq	tashkil qiladi	V;SG;3;PRS
+tashkil qilmoq	tashkil qilayotgan edingiz	V;PROG;FRML;IND;SG;2;PST
+tashkil qilmoq	tashkil qilgan edik	V;PFV;IND;PL;1;PST
+tashkil qilmoq	tashkil qilib bo'lgan bo'lasiz	V;PFV;FRML;SBJV;SG;2;FUT
+tashkil qilmoq	tashkil qilaman	V;SG;1;PRS
+tashkil qilmoq	tashkil qilganlar	V;IND;PL;3;PST
+tashkil qilmoq	tashkil qilar edik	V;COND;PL;1;PRS
+tashkil qilmoq	tashkil qilayotgan bo'ladilar	V;PROG;IND;PL;3;FUT
+tashkil qilmoq	tashkil qilayotgan bo'lar edi	V;PRF+PROG;COND;SG;3;PRS
+tashkil qilmoq	tashkil qildik	V;PFV;FH;PL;1
+tashkil qilmoq	tashkil qilyapsizlar	V;PROG;IND;PL;2;PRS
+tashkil qilmoq	tashkil qilgan edim	V;PFV;IND;SG;1;PST
+tashkil qilmoq	tashkil qilib bo'lgan edim	V;PRF;SBJV;SG;1;PRS
+tashkil qilmoq	tashkil qilib bo'lgan edilar	V;PRF;SBJV;PL;3;PRS
+tashkil qilmoq	tashkil qilayotgan bo'lar edik	V;PRF+PROG;COND;PL;1;PRS
+tashkil qilmoq	tashkil qilganman	V;IND;SG;1;PST
+tashkil qilmoq	tashkil qilayotgan bo'lasizlar	V;PROG;IND;PL;2;FUT
+tashkil qilmoq	tashkil qilayotgan bo'lar edingiz	V;PRF+PROG;FRML;COND;SG;2;PRS
+tashkil qilmoq	tashkil qilayotgan bo'lamiz	V;PROG;IND;PL;1;FUT
+tashkil qilmoq	tashkil qilgan	V;IND;SG;3;PST
+tashkil qilmoq	tashkil qilyapman	V;PROG;IND;SG;1;PRS
+tashkil qilmoq	tashkil qilgansan	V;IND;SG;2;INFM;PST
+tashkil qilmoq	tashkil qilayotgan bo'laman	V;PROG;IND;SG;1;FUT
+tashkil qilmoq	tashkil qilasiz	V;FRML;SG;2;PRS
+tashkil qilmoq	tashkil qilayotgan bo'lardim	V;PROG;COND;SG;1;PRS
+tashkil qilmoq	tashkil qilyaptilar	V;PROG;IND;PL;3;PRS
+tashkil qilmoq	tashkil qilib bo'lgan bo'ladi	V;PFV;SBJV;SG;3;FUT
+tashkil qilmoq	tashkil qilasizlar	V;PL;2;PRS
+tashkil qilmoq	tashkil qilib bo'lgan bo'ladilar	V;PFV;SBJV;PL;3;FUT
+tashkil qilmoq	tashkil qilyapsiz	V;PROG;FRML;IND;SG;2;PRS
+tashkil qilmoq	tashkil qildi	V;PFV;FH;SG;3
+tashkil qilmoq	tashkil qilib bo'lgan edingiz	V;PRF;FRML;SBJV;SG;2;PRS
+tashkil qilmoq	tashkil qilib bo'lgan bo'lasizlar	V;PFV;SBJV;PL;2;FUT
+tashkil qilmoq	tashkil qilyapti	V;PROG;IND;SG;3;PRS
+tashkil qilmoq	tashkil qilayotgan edi	V;PROG;IND;SG;3;PST
+tashkil qilmoq	tashkil qilayotgan edik	V;PROG;IND;PL;1;PST
+tashkil qilmoq	tashkil qilgan edingizlar	V;PFV;IND;PL;2;PST
+tashkil qilmoq	tashkil qildingiz	V;PFV;FRML;FH;SG;2
+tashkil qilmoq	tashkil qilyapmiz	V;PROG;IND;PL;1;PRS
+tashkil qilmoq	tashkil qilar eding	V;COND;SG;2;INFM;PRS
+tashkil qilmoq	tashkil qiladilar	V;PL;3;PRS
+tashkil qilmoq	tashkil qilgansiz	V;FRML;IND;SG;2;PST
+tashkil qilmoq	tashkil qildilar	V;PFV;FH;PL;3
+yondirmoq	yondirar edilar	V;COND;PL;3;PRS
+yondirmoq	yondirayotgan edingizlar	V;PROG;IND;PL;2;PST
+yondirmoq	yondirdik	V;PFV;FH;PL;1
+yondirmoq	yondirayotgan bo'lar edilar	V;PRF+PROG;COND;PL;3;PRS
+yondirmoq	yondirasiz	V;FRML;SG;2;PRS
+yondirmoq	yondirasizlar	V;PL;2;PRS
+yondirmoq	yondirayotgan bo'lardilar	V;PROG;COND;PL;3;PRS
+yondirmoq	yondirayotgan bo'larding	V;PROG;COND;SG;2;PRS
+yondirmoq	yondiramiz	V;PL;1;PRS
+yondirmoq	yondirgansizlar	V;IND;PL;2;PST
+yondirmoq	yondirib bo'lgan edi	V;PRF;SBJV;SG;3;PRS
+yondirmoq	yondirayotgan edi	V;PROG;IND;SG;3;PST
+yondirmoq	yondirayotgan bo'lar edim	V;PRF+PROG;COND;SG;1;PRS
+yondirmoq	yondirgan edingiz	V;PFV;FRML;IND;SG;2;PST
+yondirmoq	yondirayotgan bo'lar edingizlar	V;PRF+PROG;COND;PL;2;PRS
+yondirmoq	yondirayotgan eding	V;PROG;IND;SG;2;INFM;PST
+yondirmoq	yondirayotgan bo'lasan	V;PROG;IND;SG;2;INFM;FUT
+yondirmoq	yondirib bo'lgan bo'lasizlar	V;PFV;SBJV;PL;2;FUT
+yondirmoq	yondiryapsan	V;PROG;IND;SG;2;INFM;PRS
+yondirmoq	yondirayotgan edilar	V;PROG;IND;PL;3;PST
+yondirmoq	yondirayotgan bo'laman	V;PROG;IND;SG;1;FUT
+yondirmoq	yondirib bo'lgan edim	V;PRF;SBJV;SG;1;PRS
+yondirmoq	yondirgansan	V;IND;SG;2;INFM;PST
+yondirmoq	yondirayotgan bo'lasizlar	V;PROG;IND;PL;2;FUT
+yondirmoq	yondirasan	V;SG;2;INFM;PRS
+yondirmoq	yondirgan	V;IND;SG;3;PST
+yondirmoq	yondirayotgan bo'lar edingiz	V;PRF+PROG;FRML;COND;SG;2;PRS
+yondirmoq	yondirib bo'lgan bo'lamiz	V;PFV;SBJV;PL;1;FUT
+yondirmoq	yondirayotgan bo'lar edi	V;PRF+PROG;COND;SG;3;PRS
+yondirmoq	yondirdingiz	V;PFV;FRML;FH;SG;2
+yondirmoq	yondirding	V;PFV;FH;SG;2
+yondirmoq	yondirib bo'lgan bo'ladilar	V;PFV;SBJV;PL;3;FUT
+yondirmoq	yondirgansiz	V;FRML;IND;SG;2;PST
+yondirmoq	yondirib bo'lgan edingizlar	V;PRF;SBJV;PL;2;PRS
+yondirmoq	yondirgan edingizlar	V;PFV;IND;PL;2;PST
+yondirmoq	yondirayotgan edim	V;PROG;IND;SG;1;PST
+yondirmoq	yondiryapmiz	V;PROG;IND;PL;1;PRS
+yondirmoq	yondirayotgan bo'ladilar	V;PROG;IND;PL;3;FUT
+yondirmoq	yondiraman	V;SG;1;PRS
+yondirmoq	yondirdi	V;PFV;FH;SG;3
+yondirmoq	yondiryaptilar	V;PROG;IND;PL;3;PRS
+yondirmoq	yondirgan edilar	V;PFV;IND;PL;3;PST
+yondirmoq	yondirib bo'lgan bo'lasan	V;PFV;SBJV;SG;2;INFM;FUT
+yondirmoq	yondirayotgan bo'ladi	V;PROG;IND;SG;3;FUT
+yondirmoq	yondiryapman	V;PROG;IND;SG;1;PRS
+yondirmoq	yondirayotgan bo'lardim	V;PROG;COND;SG;1;PRS
+yondirmoq	yondirar eding	V;COND;SG;2;INFM;PRS
+yondirmoq	yondirgan eding	V;PFV;IND;SG;2;INFM;PST
+yondirmoq	yondirar edik	V;COND;PL;1;PRS
+yondirmoq	yondirib bo'lgan edilar	V;PRF;SBJV;PL;3;PRS
+yondirmoq	yondirayotgan bo'lamiz	V;PROG;IND;PL;1;FUT
+yondirmoq	yondirayotgan bo'lar eding	V;PRF+PROG;COND;SG;2;INFM;PRS
+yondirmoq	yondirib bo'lgan bo'laman	V;PFV;SBJV;SG;1;FUT
+yondirmoq	yondirib bo'lgan edingiz	V;PRF;FRML;SBJV;SG;2;PRS
+yondirmoq	yondirar edingiz	V;FRML;COND;SG;2;PRS
+yondirmoq	yondirar edi	V;COND;SG;3;PRS
+yondirmoq	yondirayotgan bo'lardi	V;PROG;COND;SG;3;PRS
+yondirmoq	yondirayotgan bo'lasiz	V;PROG;FRML;IND;SG;2;FUT
+yondirmoq	yondirar edingizlar	V;COND;PL;2;PRS
+yondirmoq	yondiryapsiz	V;PROG;FRML;IND;SG;2;PRS
+yondirmoq	yondirdilar	V;PFV;FH;PL;3
+yondirmoq	yondirib bo'lgan edik	V;PRF;SBJV;PL;1;PRS
+yondirmoq	yondirdingizlar	V;PFV;FH;PL;2
+yondirmoq	yondirib bo'lgan bo'lasiz	V;PFV;FRML;SBJV;SG;2;FUT
+yondirmoq	yondiryapsizlar	V;PROG;IND;PL;2;PRS
+yondirmoq	yondirgan edim	V;PFV;IND;SG;1;PST
+yondirmoq	yondirganmiz	V;IND;PL;1;PST
+yondirmoq	yondirib bol'gan eding	V;PRF;SBJV;SG;2;INFM;PRS
+yondirmoq	yondirayotgan edingiz	V;PROG;FRML;IND;SG;2;PST
+yondirmoq	yondiradilar	V;PL;3;PRS
+yondirmoq	yondirganlar	V;IND;PL;3;PST
+yondirmoq	yondiradi	V;SG;3;PRS
+yondirmoq	yondirib bo'lgan bo'ladi	V;PFV;SBJV;SG;3;FUT
+yondirmoq	yondirgan edi	V;PFV;IND;SG;3;PST
+yondirmoq	yondiryapti	V;PROG;IND;SG;3;PRS
+yondirmoq	yondirayotgan bo'lardik	V;PROG;COND;PL;1;PRS
+yondirmoq	yondirgan edik	V;PFV;IND;PL;1;PST
+yondirmoq	yondirdim	V;PFV;FH;SG;1
+yondirmoq	yondirar edim	V;COND;SG;1;PRS
+yondirmoq	yondirayotgan bo'lar edik	V;PRF+PROG;COND;PL;1;PRS
+yondirmoq	yondirayotgan edik	V;PROG;IND;PL;1;PST
+yondirmoq	yondirganman	V;IND;SG;1;PST
+yig'moq	yig'ib bo'lgan edim	V;PRF;SBJV;SG;1;PRS
+yig'moq	yig'amiz	V;PL;1;PRS
+yig'moq	yig'ganman	V;IND;SG;1;PST
+yig'moq	yig'ding	V;PFV;FH;SG;2
+yig'moq	yig'ar edi	V;COND;SG;3;PRS
+yig'moq	yig'ib bo'lgan bo'lasiz	V;PFV;FRML;SBJV;SG;2;FUT
+yig'moq	yig'ib bo'lgan bo'ladi	V;PFV;SBJV;SG;3;FUT
+yig'moq	yig'ar edim	V;COND;SG;1;PRS
+yig'moq	yig'ayotgan edilar	V;PROG;IND;PL;3;PST
+yig'moq	yig'ib bo'lgan edingiz	V;PRF;FRML;SBJV;SG;2;PRS
+yig'moq	yig'ayotgan bo'lasizlar	V;PROG;IND;PL;2;FUT
+yig'moq	yig'ar edilar	V;COND;PL;3;PRS
+yig'moq	yig'gan edim	V;PFV;IND;SG;1;PST
+yig'moq	yig'ayotgan bo'lardim	V;PROG;COND;SG;1;PRS
+yig'moq	yig'yapsiz	V;PROG;FRML;IND;SG;2;PRS
+yig'moq	yig'dingiz	V;PFV;FRML;FH;SG;2
+yig'moq	yig'dim	V;PFV;FH;SG;1
+yig'moq	yig'gansiz	V;FRML;IND;SG;2;PST
+yig'moq	yig'gansan	V;IND;SG;2;INFM;PST
+yig'moq	yig'adilar	V;PL;3;PRS
+yig'moq	yig'dingizlar	V;PFV;FH;PL;2
+yig'moq	yig'ib bo'lgan bo'lasan	V;PFV;SBJV;SG;2;INFM;FUT
+yig'moq	yig'ayotgan edingizlar	V;PROG;IND;PL;2;PST
+yig'moq	yig'asizlar	V;PL;2;PRS
+yig'moq	yig'ganlar	V;IND;PL;3;PST
+yig'moq	yig'gansizlar	V;IND;PL;2;PST
+yig'moq	yig'ar eding	V;COND;SG;2;INFM;PRS
+yig'moq	yig'ayotgan bo'laman	V;PROG;IND;SG;1;FUT
+yig'moq	yig'ar edingiz	V;FRML;COND;SG;2;PRS
+yig'moq	yig'aman	V;SG;1;PRS
+yig'moq	yig'ib bo'lgan edik	V;PRF;SBJV;PL;1;PRS
+yig'moq	yig'ganmiz	V;IND;PL;1;PST
+yig'moq	yig'ayotgan bo'lardi	V;PROG;COND;SG;3;PRS
+yig'moq	yig'adi	V;SG;3;PRS
+yig'moq	yig'yapman	V;PROG;IND;SG;1;PRS
+yig'moq	yig'ayotgan bo'ladi	V;PROG;IND;SG;3;FUT
+yig'moq	yig'yapsan	V;PROG;IND;SG;2;INFM;PRS
+yig'moq	yig'gan edilar	V;PFV;IND;PL;3;PST
+yig'moq	yig'ayotgan bo'lar edim	V;PRF+PROG;COND;SG;1;PRS
+yig'moq	yig'ib bo'lgan bo'lamiz	V;PFV;SBJV;PL;1;FUT
+yig'moq	yig'gan	V;IND;SG;3;PST
+yig'moq	yig'asiz	V;FRML;SG;2;PRS
+yig'moq	yig'gan eding	V;PFV;IND;SG;2;INFM;PST
+yig'moq	yig'gan edi	V;PFV;IND;SG;3;PST
+yig'moq	yig'gan edingizlar	V;PFV;IND;PL;2;PST
+yig'moq	yig'gan edik	V;PFV;IND;PL;1;PST
+yig'moq	yig'ib bo'lgan edilar	V;PRF;SBJV;PL;3;PRS
+yig'moq	yig'dilar	V;PFV;FH;PL;3
+yig'moq	yig'ayotgan bo'lamiz	V;PROG;IND;PL;1;FUT
+yig'moq	yig'ayotgan edingiz	V;PROG;FRML;IND;SG;2;PST
+yig'moq	yig'ayotgan bo'lar edilar	V;PRF+PROG;COND;PL;3;PRS
+yig'moq	yig'ayotgan bo'lar edi	V;PRF+PROG;COND;SG;3;PRS
+yig'moq	yig'ayotgan bo'lar edingizlar	V;PRF+PROG;COND;PL;2;PRS
+yig'moq	yig'asan	V;SG;2;INFM;PRS
+yig'moq	yig'ayotgan eding	V;PROG;IND;SG;2;INFM;PST
+yig'moq	yig'di	V;PFV;FH;SG;3
+yig'moq	yig'yapmiz	V;PROG;IND;PL;1;PRS
+yig'moq	yig'ayotgan edim	V;PROG;IND;SG;1;PST
+yig'moq	yig'ib bo'lgan bo'ladilar	V;PFV;SBJV;PL;3;FUT
+yig'moq	yig'ayotgan bo'ladilar	V;PROG;IND;PL;3;FUT
+yig'moq	yig'ib bol'gan eding	V;PRF;SBJV;SG;2;INFM;PRS
+yig'moq	yig'dik	V;PFV;FH;PL;1
+yig'moq	yig'ayotgan edik	V;PROG;IND;PL;1;PST
+yig'moq	yig'ar edingizlar	V;COND;PL;2;PRS
+yig'moq	yig'ayotgan bo'larding	V;PROG;COND;SG;2;PRS
+yig'moq	yig'ar edik	V;COND;PL;1;PRS
+yig'moq	yig'ib bo'lgan bo'lasizlar	V;PFV;SBJV;PL;2;FUT
+yig'moq	yig'ayotgan bo'lar edik	V;PRF+PROG;COND;PL;1;PRS
+yig'moq	yig'ib bo'lgan edi	V;PRF;SBJV;SG;3;PRS
+yig'moq	yig'ayotgan bo'lardik	V;PROG;COND;PL;1;PRS
+yig'moq	yig'ayotgan bo'lar edingiz	V;PRF+PROG;FRML;COND;SG;2;PRS
+yig'moq	yig'ayotgan bo'lasiz	V;PROG;FRML;IND;SG;2;FUT
+yig'moq	yig'yapsizlar	V;PROG;IND;PL;2;PRS
+yig'moq	yig'ayotgan edi	V;PROG;IND;SG;3;PST
+yig'moq	yig'yapti	V;PROG;IND;SG;3;PRS
+yig'moq	yig'yaptilar	V;PROG;IND;PL;3;PRS
+yig'moq	yig'ayotgan bo'lar eding	V;PRF+PROG;COND;SG;2;INFM;PRS
+yig'moq	yig'ayotgan bo'lasan	V;PROG;IND;SG;2;INFM;FUT
+yig'moq	yig'ib bo'lgan bo'laman	V;PFV;SBJV;SG;1;FUT
+yig'moq	yig'ayotgan bo'lardilar	V;PROG;COND;PL;3;PRS
+yig'moq	yig'ib bo'lgan edingizlar	V;PRF;SBJV;PL;2;PRS
+yig'moq	yig'gan edingiz	V;PFV;FRML;IND;SG;2;PST
+reja tuzmoq	reja tuzayotgan bo'lar edik	V;PRF+PROG;COND;PL;1;PRS
+reja tuzmoq	reja tuzib bo'lgan bo'lasan	V;PFV;SBJV;SG;2;INFM;FUT
+reja tuzmoq	reja tuzayotgan bo'lardim	V;PROG;COND;SG;1;PRS
+reja tuzmoq	reja tuzyapsizlar	V;PROG;IND;PL;2;PRS
+reja tuzmoq	reja tuzar edim	V;COND;SG;1;PRS
+reja tuzmoq	reja tuzayotgan edingiz	V;PROG;FRML;IND;SG;2;PST
+reja tuzmoq	reja tuzyapman	V;PROG;IND;SG;1;PRS
+reja tuzmoq	reja tuzgan edik	V;PFV;IND;PL;1;PST
+reja tuzmoq	reja tuzib bo'lgan edik	V;PRF;SBJV;PL;1;PRS
+reja tuzmoq	reja tuzyapsan	V;PROG;IND;SG;2;INFM;PRS
+reja tuzmoq	reja tuzgan	V;IND;SG;3;PST
+reja tuzmoq	reja tuzasizlar	V;PL;2;PRS
+reja tuzmoq	reja tuzgan edilar	V;PFV;IND;PL;3;PST
+reja tuzmoq	reja tuzib bo'lgan edilar	V;PRF;SBJV;PL;3;PRS
+reja tuzmoq	reja tuzayotgan edik	V;PROG;IND;PL;1;PST
+reja tuzmoq	reja tuzasiz	V;FRML;SG;2;PRS
+reja tuzmoq	reja tuzib bo'lgan bo'lamiz	V;PFV;SBJV;PL;1;FUT
+reja tuzmoq	reja tuzgan eding	V;PFV;IND;SG;2;INFM;PST
+reja tuzmoq	reja tuzib bo'lgan bo'lasizlar	V;PFV;SBJV;PL;2;FUT
+reja tuzmoq	reja tuzar edik	V;COND;PL;1;PRS
+reja tuzmoq	reja tuzamiz	V;PL;1;PRS
+reja tuzmoq	reja tuzayotgan bo'lardik	V;PROG;COND;PL;1;PRS
+reja tuzmoq	reja tuzayotgan bo'lasizlar	V;PROG;IND;PL;2;FUT
+reja tuzmoq	reja tuzdingiz	V;PFV;FRML;FH;SG;2
+reja tuzmoq	reja tuzar eding	V;COND;SG;2;INFM;PRS
+reja tuzmoq	reja tuzayotgan bo'lar edingizlar	V;PRF+PROG;COND;PL;2;PRS
+reja tuzmoq	reja tuzib bo'lgan bo'ladilar	V;PFV;SBJV;PL;3;FUT
+reja tuzmoq	reja tuzib bo'lgan edingiz	V;PRF;FRML;SBJV;SG;2;PRS
+reja tuzmoq	reja tuzayotgan bo'laman	V;PROG;IND;SG;1;FUT
+reja tuzmoq	reja tuzayotgan bo'lar eding	V;PRF+PROG;COND;SG;2;INFM;PRS
+reja tuzmoq	reja tuzyapti	V;PROG;IND;SG;3;PRS
+reja tuzmoq	reja tuzib bo'lgan bo'ladi	V;PFV;SBJV;SG;3;FUT
+reja tuzmoq	reja tuzar edilar	V;COND;PL;3;PRS
+reja tuzmoq	reja tuzayotgan bo'lar edim	V;PRF+PROG;COND;SG;1;PRS
+reja tuzmoq	reja tuzar edingizlar	V;COND;PL;2;PRS
+reja tuzmoq	reja tuzayotgan eding	V;PROG;IND;SG;2;INFM;PST
+reja tuzmoq	reja tuzdingizlar	V;PFV;FH;PL;2
+reja tuzmoq	reja tuzayotgan bo'lar edingiz	V;PRF+PROG;FRML;COND;SG;2;PRS
+reja tuzmoq	reja tuzayotgan bo'ladilar	V;PROG;IND;PL;3;FUT
+reja tuzmoq	reja tuzdim	V;PFV;FH;SG;1
+reja tuzmoq	reja tuzgansan	V;IND;SG;2;INFM;PST
+reja tuzmoq	reja tuzgan edingiz	V;PFV;FRML;IND;SG;2;PST
+reja tuzmoq	reja tuzayotgan edi	V;PROG;IND;SG;3;PST
+reja tuzmoq	reja tuzayotgan bo'lasan	V;PROG;IND;SG;2;INFM;FUT
+reja tuzmoq	reja tuzganman	V;IND;SG;1;PST
+reja tuzmoq	reja tuzayotgan edim	V;PROG;IND;SG;1;PST
+reja tuzmoq	reja tuzar edi	V;COND;SG;3;PRS
+reja tuzmoq	reja tuzgansizlar	V;IND;PL;2;PST
+reja tuzmoq	reja tuzayotgan bo'ladi	V;PROG;IND;SG;3;FUT
+reja tuzmoq	reja tuzib bo'lgan bo'laman	V;PFV;SBJV;SG;1;FUT
+reja tuzmoq	reja tuzyapsiz	V;PROG;FRML;IND;SG;2;PRS
+reja tuzmoq	reja tuzayotgan bo'lar edi	V;PRF+PROG;COND;SG;3;PRS
+reja tuzmoq	reja tuzib bol'gan eding	V;PRF;SBJV;SG;2;INFM;PRS
+reja tuzmoq	reja tuzdik	V;PFV;FH;PL;1
+reja tuzmoq	reja tuzadi	V;SG;3;PRS
+reja tuzmoq	reja tuzgan edi	V;PFV;IND;SG;3;PST
+reja tuzmoq	reja tuzib bo'lgan edi	V;PRF;SBJV;SG;3;PRS
+reja tuzmoq	reja tuzdi	V;PFV;FH;SG;3
+reja tuzmoq	reja tuzganmiz	V;IND;PL;1;PST
+reja tuzmoq	reja tuzdilar	V;PFV;FH;PL;3
+reja tuzmoq	reja tuzayotgan bo'lar edilar	V;PRF+PROG;COND;PL;3;PRS
+reja tuzmoq	reja tuzaman	V;SG;1;PRS
+reja tuzmoq	reja tuzgansiz	V;FRML;IND;SG;2;PST
+reja tuzmoq	reja tuzadilar	V;PL;3;PRS
+reja tuzmoq	reja tuzayotgan edilar	V;PROG;IND;PL;3;PST
+reja tuzmoq	reja tuzar edingiz	V;FRML;COND;SG;2;PRS
+reja tuzmoq	reja tuzayotgan bo'lamiz	V;PROG;IND;PL;1;FUT
+reja tuzmoq	reja tuzasan	V;SG;2;INFM;PRS
+reja tuzmoq	reja tuzayotgan edingizlar	V;PROG;IND;PL;2;PST
+reja tuzmoq	reja tuzyapmiz	V;PROG;IND;PL;1;PRS
+reja tuzmoq	reja tuzayotgan bo'lardi	V;PROG;COND;SG;3;PRS
+reja tuzmoq	reja tuzgan edim	V;PFV;IND;SG;1;PST
+reja tuzmoq	reja tuzib bo'lgan edingizlar	V;PRF;SBJV;PL;2;PRS
+reja tuzmoq	reja tuzayotgan bo'lardilar	V;PROG;COND;PL;3;PRS
+reja tuzmoq	reja tuzib bo'lgan bo'lasiz	V;PFV;FRML;SBJV;SG;2;FUT
+reja tuzmoq	reja tuzganlar	V;IND;PL;3;PST
+reja tuzmoq	reja tuzding	V;PFV;FH;SG;2
+reja tuzmoq	reja tuzib bo'lgan edim	V;PRF;SBJV;SG;1;PRS
+reja tuzmoq	reja tuzayotgan bo'larding	V;PROG;COND;SG;2;PRS
+reja tuzmoq	reja tuzayotgan bo'lasiz	V;PROG;FRML;IND;SG;2;FUT
+reja tuzmoq	reja tuzyaptilar	V;PROG;IND;PL;3;PRS
+reja tuzmoq	reja tuzgan edingizlar	V;PFV;IND;PL;2;PST
+qo'riqlamoq	qo'riqlagansan	V;IND;SG;2;INFM;PST
+qo'riqlamoq	qo'riqlayotgan eding	V;PROG;IND;SG;2;INFM;PST
+qo'riqlamoq	qo'riqlayapmiz	V;PROG;IND;PL;1;PRS
+qo'riqlamoq	qo'riqlagan edingiz	V;PFV;FRML;IND;SG;2;PST
+qo'riqlamoq	qo'riqlayotgan bo'lardik	V;PROG;COND;PL;1;PRS
+qo'riqlamoq	qo'riqlagan edi	V;PFV;IND;SG;3;PST
+qo'riqlamoq	qo'riqlab bo'lgan bo'ladilar	V;PFV;SBJV;PL;3;FUT
+qo'riqlamoq	qo'riqlaymiz	V;PL;1;PRS
+qo'riqlamoq	qo'riqlayotgan bo'lar edim	V;PRF+PROG;COND;SG;1;PRS
+qo'riqlamoq	qo'riqlab bo'lgan edik	V;PRF;SBJV;PL;1;PRS
+qo'riqlamoq	qo'riqladi	V;PFV;FH;SG;3
+qo'riqlamoq	qo'riqlar eding	V;COND;SG;2;INFM;PRS
+qo'riqlamoq	qo'riqlab bo'lgan bo'ladi	V;PFV;SBJV;SG;3;FUT
+qo'riqlamoq	qo'riqlayotgan bo'lardilar	V;PROG;COND;PL;3;PRS
+qo'riqlamoq	qo'riqlagansizlar	V;IND;PL;2;PST
+qo'riqlamoq	qo'riqlar edim	V;COND;SG;1;PRS
+qo'riqlamoq	qo'riqlaysizlar	V;PL;2;PRS
+qo'riqlamoq	qo'riqlagan eding	V;PFV;IND;SG;2;INFM;PST
+qo'riqlamoq	qo'riqlayman	V;SG;1;PRS
+qo'riqlamoq	qo'riqlar edingiz	V;FRML;COND;SG;2;PRS
+qo'riqlamoq	qo'riqlab bo'lgan bo'lasizlar	V;PFV;SBJV;PL;2;FUT
+qo'riqlamoq	qo'riqlayotgan bo'lar edilar	V;PRF+PROG;COND;PL;3;PRS
+qo'riqlamoq	qo'riqlaysiz	V;FRML;SG;2;PRS
+qo'riqlamoq	qo'riqlayotgan edingizlar	V;PROG;IND;PL;2;PST
+qo'riqlamoq	qo'riqlayapti	V;PROG;IND;SG;3;PRS
+qo'riqlamoq	qo'riqlagansiz	V;FRML;IND;SG;2;PST
+qo'riqlamoq	qo'riqlaydilar	V;PL;3;PRS
+qo'riqlamoq	qo'riqlab bo'lgan bo'laman	V;PFV;SBJV;SG;1;FUT
+qo'riqlamoq	qo'riqlayotgan bo'lar edingizlar	V;PRF+PROG;COND;PL;2;PRS
+qo'riqlamoq	qo'riqlayotgan edi	V;PROG;IND;SG;3;PST
+qo'riqlamoq	qo'riqlaganman	V;IND;SG;1;PST
+qo'riqlamoq	qo'riqlar edi	V;COND;SG;3;PRS
+qo'riqlamoq	qo'riqlading	V;PFV;FH;SG;2
+qo'riqlamoq	qo'riqlab bo'lgan bo'lasan	V;PFV;SBJV;SG;2;INFM;FUT
+qo'riqlamoq	qo'riqlab bo'lgan bo'lamiz	V;PFV;SBJV;PL;1;FUT
+qo'riqlamoq	qo'riqlagan	V;IND;SG;3;PST
+qo'riqlamoq	qo'riqlagan edim	V;PFV;IND;SG;1;PST
+qo'riqlamoq	qo'riqlayotgan bo'lamiz	V;PROG;IND;PL;1;FUT
+qo'riqlamoq	qo'riqlayotgan bo'lasiz	V;PROG;FRML;IND;SG;2;FUT
+qo'riqlamoq	qo'riqlab bo'lgan edingiz	V;PRF;FRML;SBJV;SG;2;PRS
+qo'riqlamoq	qo'riqlayaptilar	V;PROG;IND;PL;3;PRS
+qo'riqlamoq	qo'riqlayotgan bo'ladilar	V;PROG;IND;PL;3;FUT
+qo'riqlamoq	qo'riqlar edilar	V;COND;PL;3;PRS
+qo'riqlamoq	qo'riqlab bo'lgan edingizlar	V;PRF;SBJV;PL;2;PRS
+qo'riqlamoq	qo'riqlayotgan bo'ladi	V;PROG;IND;SG;3;FUT
+qo'riqlamoq	qo'riqlab bo'lgan edi	V;PRF;SBJV;SG;3;PRS
+qo'riqlamoq	qo'riqlab bol'gan eding	V;PRF;SBJV;SG;2;INFM;PRS
+qo'riqlamoq	qo'riqlayapsan	V;PROG;IND;SG;2;INFM;PRS
+qo'riqlamoq	qo'riqlab bo'lgan bo'lasiz	V;PFV;FRML;SBJV;SG;2;FUT
+qo'riqlamoq	qo'riqlayotgan edim	V;PROG;IND;SG;1;PST
+qo'riqlamoq	qo'riqlayotgan bo'lardim	V;PROG;COND;SG;1;PRS
+qo'riqlamoq	qo'riqlayotgan edik	V;PROG;IND;PL;1;PST
+qo'riqlamoq	qo'riqlagan edingizlar	V;PFV;IND;PL;2;PST
+qo'riqlamoq	qo'riqlab bo'lgan edim	V;PRF;SBJV;SG;1;PRS
+qo'riqlamoq	qo'riqladilar	V;PFV;FH;PL;3
+qo'riqlamoq	qo'riqladim	V;PFV;FH;SG;1
+qo'riqlamoq	qo'riqlayotgan bo'larding	V;PROG;COND;SG;2;PRS
+qo'riqlamoq	qo'riqlayotgan bo'lar edingiz	V;PRF+PROG;FRML;COND;SG;2;PRS
+qo'riqlamoq	qo'riqlayotgan bo'laman	V;PROG;IND;SG;1;FUT
+qo'riqlamoq	qo'riqlaganlar	V;IND;PL;3;PST
+qo'riqlamoq	qo'riqladingiz	V;PFV;FRML;FH;SG;2
+qo'riqlamoq	qo'riqlayotgan bo'lar eding	V;PRF+PROG;COND;SG;2;INFM;PRS
+qo'riqlamoq	qo'riqlagan edilar	V;PFV;IND;PL;3;PST
+qo'riqlamoq	qo'riqlar edik	V;COND;PL;1;PRS
+qo'riqlamoq	qo'riqlayotgan bo'lar edi	V;PRF+PROG;COND;SG;3;PRS
+qo'riqlamoq	qo'riqlaydi	V;SG;3;PRS
+qo'riqlamoq	qo'riqlayapman	V;PROG;IND;SG;1;PRS
+qo'riqlamoq	qo'riqladingizlar	V;PFV;FH;PL;2
+qo'riqlamoq	qo'riqlab bo'lgan edilar	V;PRF;SBJV;PL;3;PRS
+qo'riqlamoq	qo'riqlar edingizlar	V;COND;PL;2;PRS
+qo'riqlamoq	qo'riqlayotgan bo'lar edik	V;PRF+PROG;COND;PL;1;PRS
+qo'riqlamoq	qo'riqlagan edik	V;PFV;IND;PL;1;PST
+qo'riqlamoq	qo'riqlaganmiz	V;IND;PL;1;PST
+qo'riqlamoq	qo'riqladik	V;PFV;FH;PL;1
+qo'riqlamoq	qo'riqlayotgan bo'lasan	V;PROG;IND;SG;2;INFM;FUT
+qo'riqlamoq	qo'riqlayapsiz	V;PROG;FRML;IND;SG;2;PRS
+qo'riqlamoq	qo'riqlayotgan bo'lardi	V;PROG;COND;SG;3;PRS
+qo'riqlamoq	qo'riqlayotgan edilar	V;PROG;IND;PL;3;PST
+qo'riqlamoq	qo'riqlayotgan edingiz	V;PROG;FRML;IND;SG;2;PST
+qo'riqlamoq	qo'riqlaysan	V;SG;2;INFM;PRS
+qo'riqlamoq	qo'riqlayapsizlar	V;PROG;IND;PL;2;PRS
+qo'riqlamoq	qo'riqlayotgan bo'lasizlar	V;PROG;IND;PL;2;FUT
+turmoq	turib bo'lgan bo'lasizlar	V;PFV;SBJV;PL;2;FUT
+turmoq	turayotgan bo'lasiz	V;PROG;FRML;COND;SG;2;PRS
+turmoq	tur	V;SBJV;SG;2;PRS
+turmoq	turyapti	V;PROG;IND;SG;3;PRS
+turmoq	turdik	V;PFV;FH;PL;1
+turmoq	turayotgan bo'lasan	V;PROG;IND;SG;2;INFM;FUT
+turmoq	turing	V;FRML;SBJV;SG;2;PRS
+turmoq	turding	V;PFV;FH;SG;2
+turmoq	turgansan	V;IND;SG;2;INFM;PST
+turmoq	turayotgan edik	V;PROG;IND;PL;1;PST
+turmoq	turib bo'lgan bo'ladi	V;PFV;SBJV;SG;3;FUT
+turmoq	turar edingiz	V;FRML;COND;SG;2;PRS
+turmoq	turyapmiz	V;PROG;IND;PL;1;PRS
+turmoq	turib bo'lgan bo'ladilar	V;PFV;SBJV;PL;3;FUT
+turmoq	turib bo'lgan edingiz	V;PRF;FRML;SBJV;SG;2;PRS
+turmoq	turayotgan bo'lardilar	V;PROG;COND;PL;3;PRS
+turmoq	turgansiz	V;FRML;IND;SG;2;PST
+turmoq	turadi	V;SG;3;PRS
+turmoq	turayotgan bo'lar edilar	V;PRF+PROG;COND;PL;3;PRS
+turmoq	turdingiz	V;PFV;FRML;FH;SG;2
+turmoq	turayotgan bo'ladi	V;PROG;IND;SG;3;FUT
+turmoq	turdilar	V;PFV;FH;PL;3
+turmoq	turasiz	V;FRML;SG;2;PRS
+turmoq	turayotgan bo'laman	V;PROG;IND;SG;1;FUT
+turmoq	turib bo'lgan bo'lasan	V;PFV;SBJV;SG;2;INFM;FUT
+turmoq	turgan edik	V;PFV;IND;PL;1;PST
+turmoq	turayotgan edi	V;PROG;IND;SG;3;PST
+turmoq	turayotgan bo'lamiz	V;PROG;IND;PL;1;FUT
+turmoq	turayotgan bo'larding	V;PROG;COND;SG;2;PRS
+turmoq	turayotgan bo'lardim	V;PROG;COND;SG;1;PRS
+turmoq	turgan edingizlar	V;PFV;IND;PL;2;PST
+turmoq	turayotgan edingizlar	V;PROG;IND;PL;2;PST
+turmoq	turadilar	V;PL;3;PRS
+turmoq	turdingizlar	V;PFV;FH;PL;2
+turmoq	turib bo'lgan edim	V;PRF;SBJV;SG;1;PRS
+turmoq	turayotgan bo'lardi	V;PROG;COND;SG;3;PRS
+turmoq	turayotgan bo'ladilar	V;PROG;IND;PL;3;FUT
+turmoq	turayotgan bo'lasiz	V;PROG;FRML;IND;SG;2;FUT
+turmoq	turgan eding	V;PFV;IND;SG;2;INFM;PST
+turmoq	turib bo'lgan bo'lamiz	V;PFV;SBJV;PL;1;FUT
+turmoq	turayotgan bo'lasizlar	V;PROG;COND;PL;2;PRS
+turmoq	tursinlar	V;SBJV;PL;3;PRS
+turmoq	turar edi	V;COND;SG;3;PRS
+turmoq	turayotgan eding	V;PROG;IND;SG;2;INFM;PST
+turmoq	turaman	V;SG;1;PRS
+turmoq	turyapsizlar	V;PROG;IND;PL;2;PRS
+turmoq	turasan	V;SG;2;INFM;PRS
+turmoq	turasizlar	V;PL;2;PRS
+turmoq	turdim	V;PFV;FH;SG;1
+turmoq	tursin	V;SBJV;SG;3;PRS
+turmoq	turayotgan bo'lar edingiz	V;PRF+PROG;FRML;COND;SG;2;PRS
+turmoq	turib bo'lgan bo'lasiz	V;PFV;FRML;SBJV;SG;2;FUT
+turmoq	turganlar	V;IND;PL;3;PST
+turmoq	turgan edingiz	V;PFV;FRML;IND;SG;2;PST
+turmoq	turgan edim	V;PFV;IND;SG;1;PST
+turmoq	turar edingizlar	V;COND;PL;2;PRS
+turmoq	turgan edilar	V;PFV;IND;PL;3;PST
+turmoq	turinglar	V;SBJV;PL;2;PRS
+turmoq	turyapsan	V;PROG;IND;SG;2;INFM;PRS
+turmoq	turayotgan bo'lar edingizlar	V;PRF+PROG;COND;PL;2;PRS
+turmoq	turar edik	V;COND;PL;1;PRS
+turmoq	turyapman	V;PROG;IND;SG;1;PRS
+turmoq	turayotgan bo'lar eding	V;PRF+PROG;COND;SG;2;INFM;PRS
+turmoq	turayotgan edim	V;PROG;IND;SG;1;PST
+turmoq	turib bo'lgan edingizlar	V;PRF;SBJV;PL;2;PRS
+turmoq	turar eding	V;COND;SG;2;INFM;PRS
+turmoq	turganmiz	V;IND;PL;1;PST
+turmoq	turaylik	V;SBJV;PL;1;PRS
+turmoq	turamiz	V;PL;1;PRS
+turmoq	turdi	V;PFV;FH;SG;3
+turmoq	turib bo'lgan bo'laman	V;PFV;SBJV;SG;1;FUT
+turmoq	turyapsiz	V;PROG;FRML;IND;SG;2;PRS
+turmoq	turayotgan bo'lardik	V;PROG;COND;PL;1;PRS
+turmoq	turib bol'gan eding	V;PRF;SBJV;SG;2;INFM;PRS
+turmoq	turayotgan bo'lar edim	V;PRF+PROG;COND;SG;1;PRS
+turmoq	turayotgan bo'lar edik	V;PRF+PROG;COND;PL;1;PRS
+turmoq	turayotgan edilar	V;PROG;IND;PL;3;PST
+turmoq	turay	V;SBJV;SG;1;PRS
+turmoq	turgansizlar	V;IND;PL;2;PST
+turmoq	turyaptilar	V;PROG;IND;PL;3;PRS
+turmoq	turayotgan bo'lar edi	V;PRF+PROG;COND;SG;3;PRS
+turmoq	turgan edi	V;PFV;IND;SG;3;PST
+turmoq	turib bo'lgan edilar	V;PRF;SBJV;PL;3;PRS
+turmoq	turar edim	V;COND;SG;1;PRS
+turmoq	turayotgan bo'lasizlar	V;PROG;IND;PL;2;FUT
+turmoq	turayotgan edingiz	V;PROG;FRML;IND;SG;2;PST
+turmoq	turgan	V;IND;SG;3;PST
+turmoq	turib bo'lgan edik	V;PRF;SBJV;PL;1;PRS
+turmoq	turganman	V;IND;SG;1;PST
+turmoq	turib bo'lgan edi	V;PRF;SBJV;SG;3;PRS
+turmoq	turar edilar	V;COND;PL;3;PRS
+uxlab qolmoq	uxlab qoldik	V;PFV;FH;PL;1
+uxlab qolmoq	uxlab qolamiz	V;PL;1;PRS
+uxlab qolmoq	uxlab qolib bo'lgan bo'lasizlar	V;PFV;SBJV;PL;2;FUT
+uxlab qolmoq	uxlab qolyapsiz	V;PROG;FRML;IND;SG;2;PRS
+uxlab qolmoq	uxlab qolayotgan bo'ladilar	V;PROG;IND;PL;3;FUT
+uxlab qolmoq	uxlab qolasan	V;SG;2;INFM;PRS
+uxlab qolmoq	uxlab qolayotgan bo'lar edingizlar	V;PRF+PROG;COND;PL;2;PRS
+uxlab qolmoq	uxlab qolgan	V;IND;SG;3;PST
+uxlab qolmoq	uxlab qolayotgan bo'lar edingiz	V;PRF+PROG;FRML;COND;SG;2;PRS
+uxlab qolmoq	uxlab qolgansiz	V;FRML;IND;SG;2;PST
+uxlab qolmoq	uxlab qolayotgan bo'lasan	V;PROG;IND;SG;2;INFM;FUT
+uxlab qolmoq	uxlab qoldi	V;PFV;FH;SG;3
+uxlab qolmoq	uxlab qolgan edingiz	V;PFV;FRML;IND;SG;2;PST
+uxlab qolmoq	uxlab qolayotgan eding	V;PROG;IND;SG;2;INFM;PST
+uxlab qolmoq	uxlab qolayotgan edik	V;PROG;IND;PL;1;PST
+uxlab qolmoq	uxlab qolib bo'lgan bo'lasan	V;PFV;SBJV;SG;2;INFM;FUT
+uxlab qolmoq	uxlab qolyapman	V;PROG;IND;SG;1;PRS
+uxlab qolmoq	uxlab qolgan edi	V;PFV;IND;SG;3;PST
+uxlab qolmoq	uxlab qolayotgan bo'lardilar	V;PROG;COND;PL;3;PRS
+uxlab qolmoq	uxlab qolganlar	V;IND;PL;3;PST
+uxlab qolmoq	uxlab qolar edingizlar	V;COND;PL;2;PRS
+uxlab qolmoq	uxlab qolayotgan edilar	V;PROG;IND;PL;3;PST
+uxlab qolmoq	uxlab qolayotgan bo'laman	V;PROG;IND;SG;1;FUT
+uxlab qolmoq	uxlab qolayotgan bo'lasizlar	V;PROG;IND;PL;2;FUT
+uxlab qolmoq	uxlab qolganman	V;IND;SG;1;PST
+uxlab qolmoq	uxlab qoldingizlar	V;PFV;FH;PL;2
+uxlab qolmoq	uxlab qolib bo'lgan edilar	V;PRF;SBJV;PL;3;PRS
+uxlab qolmoq	uxlab qolib bo'lgan bo'lasiz	V;PFV;FRML;SBJV;SG;2;FUT
+uxlab qolmoq	uxlab qolayotgan edi	V;PROG;IND;SG;3;PST
+uxlab qolmoq	uxlab qolib bo'lgan edingiz	V;PRF;FRML;SBJV;SG;2;PRS
+uxlab qolmoq	uxlab qolayotgan bo'lardik	V;PROG;COND;PL;1;PRS
+uxlab qolmoq	uxlab qolgan edingizlar	V;PFV;IND;PL;2;PST
+uxlab qolmoq	uxlab qolayotgan bo'lardim	V;PROG;COND;SG;1;PRS
+uxlab qolmoq	uxlab qolding	V;PFV;FH;SG;2
+uxlab qolmoq	uxlab qolib bo'lgan bo'laman	V;PFV;SBJV;SG;1;FUT
+uxlab qolmoq	uxlab qolgan eding	V;PFV;IND;SG;2;INFM;PST
+uxlab qolmoq	uxlab qolar edim	V;COND;SG;1;PRS
+uxlab qolmoq	uxlab qolayotgan bo'lar edik	V;PRF+PROG;COND;PL;1;PRS
+uxlab qolmoq	uxlab qolayotgan bo'lar eding	V;PRF+PROG;COND;SG;2;INFM;PRS
+uxlab qolmoq	uxlab qolyaptilar	V;PROG;IND;PL;3;PRS
+uxlab qolmoq	uxlab qolar eding	V;COND;SG;2;INFM;PRS
+uxlab qolmoq	uxlab qolib bo'lgan edi	V;PRF;SBJV;SG;3;PRS
+uxlab qolmoq	uxlab qolgansizlar	V;IND;PL;2;PST
+uxlab qolmoq	uxlab qolasiz	V;FRML;SG;2;PRS
+uxlab qolmoq	uxlab qolib bol'gan eding	V;PRF;SBJV;SG;2;INFM;PRS
+uxlab qolmoq	uxlab qolayotgan bo'larding	V;PROG;COND;SG;2;PRS
+uxlab qolmoq	uxlab qolyapmiz	V;PROG;IND;PL;1;PRS
+uxlab qolmoq	uxlab qolayotgan edingiz	V;PROG;FRML;IND;SG;2;PST
+uxlab qolmoq	uxlab qoladi	V;SG;3;PRS
+uxlab qolmoq	uxlab qoldilar	V;PFV;FH;PL;3
+uxlab qolmoq	uxlab qolar edik	V;COND;PL;1;PRS
+uxlab qolmoq	uxlab qolib bo'lgan edik	V;PRF;SBJV;PL;1;PRS
+uxlab qolmoq	uxlab qolgansan	V;IND;SG;2;INFM;PST
+uxlab qolmoq	uxlab qolib bo'lgan edim	V;PRF;SBJV;SG;1;PRS
+uxlab qolmoq	uxlab qoldim	V;PFV;FH;SG;1
+uxlab qolmoq	uxlab qolayotgan bo'lasiz	V;PROG;FRML;IND;SG;2;FUT
+uxlab qolmoq	uxlab qolayotgan bo'lamiz	V;PROG;IND;PL;1;FUT
+uxlab qolmoq	uxlab qoldingiz	V;PFV;FRML;FH;SG;2
+uxlab qolmoq	uxlab qolayotgan bo'lar edilar	V;PRF+PROG;COND;PL;3;PRS
+uxlab qolmoq	uxlab qolar edi	V;COND;SG;3;PRS
+uxlab qolmoq	uxlab qolayotgan bo'lar edim	V;PRF+PROG;COND;SG;1;PRS
+uxlab qolmoq	uxlab qolyapti	V;PROG;IND;SG;3;PRS
+uxlab qolmoq	uxlab qolaman	V;SG;1;PRS
+uxlab qolmoq	uxlab qolayotgan bo'lar edi	V;PRF+PROG;COND;SG;3;PRS
+uxlab qolmoq	uxlab qolgan edim	V;PFV;IND;SG;1;PST
+uxlab qolmoq	uxlab qolayotgan bo'ladi	V;PROG;IND;SG;3;FUT
+uxlab qolmoq	uxlab qolayotgan edim	V;PROG;IND;SG;1;PST
+uxlab qolmoq	uxlab qolgan edilar	V;PFV;IND;PL;3;PST
+uxlab qolmoq	uxlab qolayotgan bo'lardi	V;PROG;COND;SG;3;PRS
+uxlab qolmoq	uxlab qolgan edik	V;PFV;IND;PL;1;PST
+uxlab qolmoq	uxlab qolayotgan edingizlar	V;PROG;IND;PL;2;PST
+uxlab qolmoq	uxlab qoladilar	V;PL;3;PRS
+uxlab qolmoq	uxlab qolib bo'lgan edingizlar	V;PRF;SBJV;PL;2;PRS
+uxlab qolmoq	uxlab qolib bo'lgan bo'lamiz	V;PFV;SBJV;PL;1;FUT
+uxlab qolmoq	uxlab qolganmiz	V;IND;PL;1;PST
+uxlab qolmoq	uxlab qolar edilar	V;COND;PL;3;PRS
+uxlab qolmoq	uxlab qolar edingiz	V;FRML;COND;SG;2;PRS
+uxlab qolmoq	uxlab qolib bo'lgan bo'ladilar	V;PFV;SBJV;PL;3;FUT
+uxlab qolmoq	uxlab qolyapsizlar	V;PROG;IND;PL;2;PRS
+uxlab qolmoq	uxlab qolasizlar	V;PL;2;PRS
+uxlab qolmoq	uxlab qolib bo'lgan bo'ladi	V;PFV;SBJV;SG;3;FUT
+uxlab qolmoq	uxlab qolyapsan	V;PROG;IND;SG;2;INFM;PRS
+sanamoq	sanayotgan edim	V;PROG;IND;SG;1;PST
+sanamoq	sanayotgan bo'lar edingiz	V;PRF+PROG;FRML;COND;SG;2;PRS
+sanamoq	sanab bo'lgan edi	V;PRF;SBJV;SG;3;PRS
+sanamoq	sanab bo'lgan bo'lasizlar	V;PFV;SBJV;PL;2;FUT
+sanamoq	sanagansizlar	V;IND;PL;2;PST
+sanamoq	sanayotgan bo'laman	V;PROG;IND;SG;1;FUT
+sanamoq	sanayotgan bo'lardim	V;PROG;COND;SG;1;PRS
+sanamoq	sanayotgan bo'lar edi	V;PRF+PROG;COND;SG;3;PRS
+sanamoq	sanar eding	V;COND;SG;2;INFM;PRS
+sanamoq	sanar edingiz	V;FRML;COND;SG;2;PRS
+sanamoq	sanayapsiz	V;PROG;FRML;IND;SG;2;PRS
+sanamoq	sanagan eding	V;PFV;IND;SG;2;INFM;PST
+sanamoq	sanaysizlar	V;PL;2;PRS
+sanamoq	sanayotgan bo'lardi	V;PROG;COND;SG;3;PRS
+sanamoq	sanaganman	V;IND;SG;1;PST
+sanamoq	sanaysiz	V;FRML;SG;2;PRS
+sanamoq	sanayotgan bo'lar edik	V;PRF+PROG;COND;PL;1;PRS
+sanamoq	sanayotgan bo'ladilar	V;PROG;IND;PL;3;FUT
+sanamoq	sanadingizlar	V;PFV;FH;PL;2
+sanamoq	sanayotgan bo'lar edim	V;PRF+PROG;COND;SG;1;PRS
+sanamoq	sanab bo'lgan edingiz	V;PRF;FRML;SBJV;SG;2;PRS
+sanamoq	sanadi	V;PFV;FH;SG;3
+sanamoq	sanab bo'lgan edilar	V;PRF;SBJV;PL;3;PRS
+sanamoq	sanagan edingiz	V;PFV;FRML;IND;SG;2;PST
+sanamoq	sanayotgan bo'lar edilar	V;PRF+PROG;COND;PL;3;PRS
+sanamoq	sanayotgan edi	V;PROG;IND;SG;3;PST
+sanamoq	sanaganlar	V;IND;PL;3;PST
+sanamoq	sanayotgan edingizlar	V;PROG;IND;PL;2;PST
+sanamoq	sanayotgan bo'lasiz	V;PROG;FRML;IND;SG;2;FUT
+sanamoq	sanagan	V;IND;SG;3;PST
+sanamoq	sanayotgan bo'lar edingizlar	V;PRF+PROG;COND;PL;2;PRS
+sanamoq	sanab bo'lgan edingizlar	V;PRF;SBJV;PL;2;PRS
+sanamoq	sanaganmiz	V;IND;PL;1;PST
+sanamoq	sanayotgan edik	V;PROG;IND;PL;1;PST
+sanamoq	sanar edi	V;COND;SG;3;PRS
+sanamoq	sanagan edilar	V;PFV;IND;PL;3;PST
+sanamoq	sanayotgan bo'larding	V;PROG;COND;SG;2;PRS
+sanamoq	sanab bo'lgan bo'lamiz	V;PFV;SBJV;PL;1;FUT
+sanamoq	sanayapti	V;PROG;IND;SG;3;PRS
+sanamoq	sanayapman	V;PROG;IND;SG;1;PRS
+sanamoq	sanagansiz	V;FRML;IND;SG;2;PST
+sanamoq	sanagan edim	V;PFV;IND;SG;1;PST
+sanamoq	sanayapsan	V;PROG;IND;SG;2;INFM;PRS
+sanamoq	sanayotgan bo'lasizlar	V;PROG;IND;PL;2;FUT
+sanamoq	sanab bo'lgan edik	V;PRF;SBJV;PL;1;PRS
+sanamoq	sanar edilar	V;COND;PL;3;PRS
+sanamoq	sanagan edik	V;PFV;IND;PL;1;PST
+sanamoq	sanayotgan bo'lardilar	V;PROG;COND;PL;3;PRS
+sanamoq	sanab bo'lgan bo'lasiz	V;PFV;FRML;SBJV;SG;2;FUT
+sanamoq	sanading	V;PFV;FH;SG;2
+sanamoq	sanaydilar	V;PL;3;PRS
+sanamoq	sanaymiz	V;PL;1;PRS
+sanamoq	sanab bo'lgan bo'lasan	V;PFV;SBJV;SG;2;INFM;FUT
+sanamoq	sanagansan	V;IND;SG;2;INFM;PST
+sanamoq	sanayotgan bo'lardik	V;PROG;COND;PL;1;PRS
+sanamoq	sanayotgan bo'lasan	V;PROG;IND;SG;2;INFM;FUT
+sanamoq	sanayapsizlar	V;PROG;IND;PL;2;PRS
+sanamoq	sanayotgan edingiz	V;PROG;FRML;IND;SG;2;PST
+sanamoq	sanadilar	V;PFV;FH;PL;3
+sanamoq	sanab bo'lgan bo'ladi	V;PFV;SBJV;SG;3;FUT
+sanamoq	sanab bo'lgan edim	V;PRF;SBJV;SG;1;PRS
+sanamoq	sanayotgan bo'lar eding	V;PRF+PROG;COND;SG;2;INFM;PRS
+sanamoq	sanayotgan bo'lamiz	V;PROG;IND;PL;1;FUT
+sanamoq	sanagan edingizlar	V;PFV;IND;PL;2;PST
+sanamoq	sanar edik	V;COND;PL;1;PRS
+sanamoq	sanayman	V;SG;1;PRS
+sanamoq	sanayaptilar	V;PROG;IND;PL;3;PRS
+sanamoq	sanayotgan eding	V;PROG;IND;SG;2;INFM;PST
+sanamoq	sanab bol'gan eding	V;PRF;SBJV;SG;2;INFM;PRS
+sanamoq	sanayapmiz	V;PROG;IND;PL;1;PRS
+sanamoq	sanar edim	V;COND;SG;1;PRS
+sanamoq	sanadingiz	V;PFV;FRML;FH;SG;2
+sanamoq	sanayotgan bo'ladi	V;PROG;IND;SG;3;FUT
+sanamoq	sanadik	V;PFV;FH;PL;1
+sanamoq	sanar edingizlar	V;COND;PL;2;PRS
+sanamoq	sanab bo'lgan bo'ladilar	V;PFV;SBJV;PL;3;FUT
+sanamoq	sanayotgan edilar	V;PROG;IND;PL;3;PST
+sanamoq	sanagan edi	V;PFV;IND;SG;3;PST
+sanamoq	sanaysan	V;SG;2;INFM;PRS
+sanamoq	sanab bo'lgan bo'laman	V;PFV;SBJV;SG;1;FUT
+sanamoq	sanaydi	V;SG;3;PRS
+sanamoq	sanadim	V;PFV;FH;SG;1
+o'rgatmoq	o'rgatayotgan eding	V;PROG;IND;SG;2;INFM;PST
+o'rgatmoq	o'rgatadi	V;SG;3;PRS
+o'rgatmoq	o'rgatganlar	V;IND;PL;3;PST
+o'rgatmoq	o'rgatdingiz	V;PFV;FRML;FH;SG;2
+o'rgatmoq	o'rgatib bo'lgan bo'laman	V;PFV;SBJV;SG;1;FUT
+o'rgatmoq	o'rgatib bo'lgan edingizlar	V;PRF;SBJV;PL;2;PRS
+o'rgatmoq	o'rgatganman	V;IND;SG;1;PST
+o'rgatmoq	o'rgatayotgan bo'lasan	V;PROG;IND;SG;2;INFM;FUT
+o'rgatmoq	o'rgatib bo'lgan edingiz	V;PRF;FRML;SBJV;SG;2;PRS
+o'rgatmoq	o'rgatayotgan edingizlar	V;PROG;IND;PL;2;PST
+o'rgatmoq	o'rgatyapti	V;PROG;IND;SG;3;PRS
+o'rgatmoq	o'rgatayotgan bo'lar edim	V;PRF+PROG;COND;SG;1;PRS
+o'rgatmoq	o'rgatgan edik	V;PFV;IND;PL;1;PST
+o'rgatmoq	o'rgatib bo'lgan edi	V;PRF;SBJV;SG;3;PRS
+o'rgatmoq	o'rgatib bo'lgan bo'lamiz	V;PFV;SBJV;PL;1;FUT
+o'rgatmoq	o'rgatgansan	V;IND;SG;2;INFM;PST
+o'rgatmoq	o'rgatar edingiz	V;FRML;COND;SG;2;PRS
+o'rgatmoq	o'rgatgan eding	V;PFV;IND;SG;2;INFM;PST
+o'rgatmoq	o'rgatgansizlar	V;IND;PL;2;PST
+o'rgatmoq	o'rgatgan edingizlar	V;PFV;IND;PL;2;PST
+o'rgatmoq	o'rgatib bo'lgan edilar	V;PRF;SBJV;PL;3;PRS
+o'rgatmoq	o'rgatayotgan edim	V;PROG;IND;SG;1;PST
+o'rgatmoq	o'rgataman	V;SG;1;PRS
+o'rgatmoq	o'rgatayotgan bo'larding	V;PROG;COND;SG;2;PRS
+o'rgatmoq	o'rgatgan edi	V;PFV;IND;SG;3;PST
+o'rgatmoq	o'rgatayotgan bo'lar eding	V;PRF+PROG;COND;SG;2;INFM;PRS
+o'rgatmoq	o'rgatdik	V;PFV;FH;PL;1
+o'rgatmoq	o'rgatayotgan bo'lardik	V;PROG;COND;PL;1;PRS
+o'rgatmoq	o'rgatgan	V;IND;SG;3;PST
+o'rgatmoq	o'rgatayotgan bo'ladilar	V;PROG;IND;PL;3;FUT
+o'rgatmoq	o'rgatar edingizlar	V;COND;PL;2;PRS
+o'rgatmoq	o'rgatyapman	V;PROG;IND;SG;1;PRS
+o'rgatmoq	o'rgatib bo'lgan bo'lasizlar	V;PFV;SBJV;PL;2;FUT
+o'rgatmoq	o'rgatib bo'lgan bo'lasiz	V;PFV;FRML;SBJV;SG;2;FUT
+o'rgatmoq	o'rgatayotgan bo'lardi	V;PROG;COND;SG;3;PRS
+o'rgatmoq	o'rgatayotgan bo'lasiz	V;PROG;FRML;IND;SG;2;FUT
+o'rgatmoq	o'rgatayotgan bo'lardilar	V;PROG;COND;PL;3;PRS
+o'rgatmoq	o'rgatgansiz	V;FRML;IND;SG;2;PST
+o'rgatmoq	o'rgatyapsan	V;PROG;IND;SG;2;INFM;PRS
+o'rgatmoq	o'rgatdilar	V;PFV;FH;PL;3
+o'rgatmoq	o'rgatayotgan bo'lardim	V;PROG;COND;SG;1;PRS
+o'rgatmoq	o'rgatar eding	V;COND;SG;2;INFM;PRS
+o'rgatmoq	o'rgatib bo'lgan bo'ladi	V;PFV;SBJV;SG;3;FUT
+o'rgatmoq	o'rgatayotgan edi	V;PROG;IND;SG;3;PST
+o'rgatmoq	o'rgatyaptilar	V;PROG;IND;PL;3;PRS
+o'rgatmoq	o'rgatyapsiz	V;PROG;FRML;IND;SG;2;PRS
+o'rgatmoq	o'rgatadilar	V;PL;3;PRS
+o'rgatmoq	o'rgatyapmiz	V;PROG;IND;PL;1;PRS
+o'rgatmoq	o'rgatar edik	V;COND;PL;1;PRS
+o'rgatmoq	o'rgatayotgan edingiz	V;PROG;FRML;IND;SG;2;PST
+o'rgatmoq	o'rgatasan	V;SG;2;INFM;PRS
+o'rgatmoq	o'rgatib bol'gan eding	V;PRF;SBJV;SG;2;INFM;PRS
+o'rgatmoq	o'rgatdi	V;PFV;FH;SG;3
+o'rgatmoq	o'rgatgan edilar	V;PFV;IND;PL;3;PST
+o'rgatmoq	o'rgatamiz	V;PL;1;PRS
+o'rgatmoq	o'rgatayotgan bo'lar edingiz	V;PRF+PROG;FRML;COND;SG;2;PRS
+o'rgatmoq	o'rgatasiz	V;FRML;SG;2;PRS
+o'rgatmoq	o'rgatding	V;PFV;FH;SG;2
+o'rgatmoq	o'rgatgan edim	V;PFV;IND;SG;1;PST
+o'rgatmoq	o'rgatib bo'lgan bo'ladilar	V;PFV;SBJV;PL;3;FUT
+o'rgatmoq	o'rgatib bo'lgan bo'lasan	V;PFV;SBJV;SG;2;INFM;FUT
+o'rgatmoq	o'rgatasizlar	V;PL;2;PRS
+o'rgatmoq	o'rgatayotgan bo'lar edilar	V;PRF+PROG;COND;PL;3;PRS
+o'rgatmoq	o'rgatayotgan bo'lar edik	V;PRF+PROG;COND;PL;1;PRS
+o'rgatmoq	o'rgatar edilar	V;COND;PL;3;PRS
+o'rgatmoq	o'rgatib bo'lgan edik	V;PRF;SBJV;PL;1;PRS
+o'rgatmoq	o'rgatayotgan edik	V;PROG;IND;PL;1;PST
+o'rgatmoq	o'rgatayotgan bo'lar edingizlar	V;PRF+PROG;COND;PL;2;PRS
+o'rgatmoq	o'rgatdim	V;PFV;FH;SG;1
+o'rgatmoq	o'rgatganmiz	V;IND;PL;1;PST
+o'rgatmoq	o'rgatdingizlar	V;PFV;FH;PL;2
+o'rgatmoq	o'rgatayotgan bo'laman	V;PROG;IND;SG;1;FUT
+o'rgatmoq	o'rgatar edi	V;COND;SG;3;PRS
+o'rgatmoq	o'rgatib bo'lgan edim	V;PRF;SBJV;SG;1;PRS
+o'rgatmoq	o'rgatgan edingiz	V;PFV;FRML;IND;SG;2;PST
+o'rgatmoq	o'rgatar edim	V;COND;SG;1;PRS
+o'rgatmoq	o'rgatayotgan bo'lar edi	V;PRF+PROG;COND;SG;3;PRS
+o'rgatmoq	o'rgatayotgan bo'ladi	V;PROG;IND;SG;3;FUT
+o'rgatmoq	o'rgatayotgan bo'lamiz	V;PROG;IND;PL;1;FUT
+o'rgatmoq	o'rgatyapsizlar	V;PROG;IND;PL;2;PRS
+o'rgatmoq	o'rgatayotgan bo'lasizlar	V;PROG;IND;PL;2;FUT
+o'rgatmoq	o'rgatayotgan edilar	V;PROG;IND;PL;3;PST
+pasaymoq	pasayayotgan bo'lardingiz	V;PROG;FRML;COND;SG;2;PRS
+pasaymoq	pasayasizlar	V;PL;2;PRS
+pasaymoq	pasayayotgan bo'lardim	V;PROG;COND;SG;1;PRS
+pasaymoq	pasayayotgan bo'lasan	V;PROG;IND;SG;2;INFM;FUT
+pasaymoq	pasayasan	V;SG;2;INFM;PRS
+pasaymoq	pasayayotgan bo'lasizlar	V;PROG;IND;PL;2;FUT
+pasaymoq	pasayayotgan edik	V;PROG;IND;PL;1;PST
+pasaymoq	pasayganlar	V;IND;PL;3;PST
+pasaymoq	pasaygan eding	V;PFV;IND;SG;2;INFM;PST
+pasaymoq	pasayib bo'lgan bo'ladilar	V;PFV;SBJV;PL;3;FUT
+pasaymoq	pasaysin	V;SBJV;SG;3;PRS
+pasaymoq	pasaygansan	V;IND;SG;2;INFM;PST
+pasaymoq	pasayayotgan bo'laman	V;PROG;IND;SG;1;FUT
+pasaymoq	pasayding	V;PFV;FH;SG;2
+pasaymoq	pasayyapmiz	V;PROG;IND;PL;1;PRS
+pasaymoq	pasayar edingiz	V;FRML;COND;SG;2;PRS
+pasaymoq	pasayayotgan bo'lardi	V;PROG;COND;SG;3;PRS
+pasaymoq	pasayib bo'lgan edilar	V;PRF;SBJV;PL;3;PRS
+pasaymoq	pasayib bo'lgan bo'lamiz	V;PFV;SBJV;PL;1;FUT
+pasaymoq	pasayib bo'lgan edim	V;PRF;SBJV;SG;1;PRS
+pasaymoq	pasayib bo'lgan edi	V;PRF;SBJV;SG;3;PRS
+pasaymoq	pasaydingizlar	V;PFV;FH;PL;2
+pasaymoq	pasayyapsizlar	V;PROG;IND;PL;2;PRS
+pasaymoq	pasayasiz	V;FRML;SG;2;PRS
+pasaymoq	pasayayotgan bo'lar eding	V;PRF+PROG;COND;SG;2;INFM;PRS
+pasaymoq	pasayayotgan bo'ladilar	V;PROG;IND;PL;3;FUT
+pasaymoq	pasayayotgan bo'lamiz	V;PROG;IND;PL;1;FUT
+pasaymoq	pasaying	V;FRML;SBJV;SG;2;PRS
+pasaymoq	pasaydilar	V;PFV;FH;PL;3
+pasaymoq	pasaygan edilar	V;PFV;IND;PL;3;PST
+pasaymoq	pasayib bol'gan eding	V;PRF;SBJV;SG;2;INFM;PRS
+pasaymoq	pasaygansiz	V;FRML;IND;SG;2;PST
+pasaymoq	pasayayotgan bo'lardik	V;PROG;COND;PL;1;PRS
+pasaymoq	pasayar eding	V;COND;SG;2;INFM;PRS
+pasaymoq	pasaydingiz	V;PFV;FRML;FH;SG;2
+pasaymoq	pasayayotgan edilar	V;PROG;IND;PL;3;PST
+pasaymoq	pasayyapsiz	V;PROG;FRML;IND;SG;2;PRS
+pasaymoq	pasaygan edi	V;PFV;IND;SG;3;PST
+pasaymoq	pasayib bo'lgan bo'lasan	V;PFV;SBJV;SG;2;INFM;FUT
+pasaymoq	pasaygan edingizlar	V;PFV;IND;PL;2;PST
+pasaymoq	pasayayotgan eding	V;PROG;IND;SG;2;INFM;PST
+pasaymoq	pasaygan edim	V;PFV;IND;SG;1;PST
+pasaymoq	pasayinglar	V;SBJV;PL;2;PRS
+pasaymoq	pasayadilar	V;PL;3;PRS
+pasaymoq	pasayayotgan bo'lar edilar	V;PRF+PROG;COND;PL;3;PRS
+pasaymoq	pasaygansizlar	V;IND;PL;2;PST
+pasaymoq	pasayamiz	V;PL;1;PRS
+pasaymoq	pasayayotgan bo'lardilar	V;PROG;COND;PL;3;PRS
+pasaymoq	pasaygan edik	V;PFV;IND;PL;1;PST
+pasaymoq	pasayib bo'lgan edingizlar	V;PRF;SBJV;PL;2;PRS
+pasaymoq	pasayayotgan edi	V;PROG;IND;SG;3;PST
+pasaymoq	pasayib bo'lgan bo'lasizlar	V;PFV;SBJV;PL;2;FUT
+pasaymoq	pasayganman	V;IND;SG;1;PST
+pasaymoq	pasayayotgan bo'lardingizlar	V;PROG;COND;PL;2;PRS
+pasaymoq	pasayayotgan edingizlar	V;PROG;IND;PL;2;PST
+pasaymoq	pasayar edingizlar	V;COND;PL;2;PRS
+pasaymoq	pasay	V;SBJV;SG;2;PRS
+pasaymoq	pasayyaptilar	V;PROG;IND;PL;3;PRS
+pasaymoq	pasayayotgan bo'lar edi	V;PRF+PROG;COND;SG;3;PRS
+pasaymoq	pasayyapman	V;PROG;IND;SG;1;PRS
+pasaymoq	pasayganmiz	V;IND;PL;1;PST
+pasaymoq	pasayayotgan bo'lar edingiz	V;PRF+PROG;FRML;COND;SG;2;PRS
+pasaymoq	pasayyapsan	V;PROG;IND;SG;2;INFM;PRS
+pasaymoq	pasayadi	V;SG;3;PRS
+pasaymoq	pasayayotgan bo'lar edingizlar	V;PRF+PROG;COND;PL;2;PRS
+pasaymoq	pasayyapti	V;PROG;IND;SG;3;PRS
+pasaymoq	pasayib bo'lgan bo'ladi	V;PFV;SBJV;SG;3;FUT
+pasaymoq	pasayaylik	V;SBJV;PL;1;PRS
+pasaymoq	pasayayotgan bo'lar edik	V;PRF+PROG;COND;PL;1;PRS
+pasaymoq	pasayaman	V;SG;1;PRS
+pasaymoq	pasayayotgan bo'lasiz	V;PROG;FRML;IND;SG;2;FUT
+pasaymoq	pasaysinlar	V;SBJV;PL;3;PRS
+pasaymoq	pasayib bo'lgan bo'lasiz	V;PFV;FRML;SBJV;SG;2;FUT
+pasaymoq	pasaygan	V;IND;SG;3;PST
+pasaymoq	pasayib bo'lgan edingiz	V;PRF;FRML;SBJV;SG;2;PRS
+pasaymoq	pasayayotgan bo'lar edim	V;PRF+PROG;COND;SG;1;PRS
+pasaymoq	pasaygan edingiz	V;PFV;FRML;IND;SG;2;PST
+pasaymoq	pasayar edik	V;COND;PL;1;PRS
+pasaymoq	pasaydim	V;PFV;FH;SG;1
+pasaymoq	pasayar edim	V;COND;SG;1;PRS
+pasaymoq	pasayar edi	V;COND;SG;3;PRS
+pasaymoq	pasayayotgan bo'ladi	V;PROG;IND;SG;3;FUT
+pasaymoq	pasayayotgan edim	V;PROG;IND;SG;1;PST
+pasaymoq	pasaydik	V;PFV;FH;PL;1
+pasaymoq	pasayib bo'lgan bo'laman	V;PFV;SBJV;SG;1;FUT
+pasaymoq	pasaydi	V;PFV;FH;SG;3
+pasaymoq	pasayay	V;SBJV;SG;1;PRS
+pasaymoq	pasayayotgan edingiz	V;PROG;FRML;IND;SG;2;PST
+pasaymoq	pasayib bo'lgan edik	V;PRF;SBJV;PL;1;PRS
+pasaymoq	pasayar edilar	V;COND;PL;3;PRS
+pasaymoq	pasayayotgan bo'larding	V;PROG;COND;SG;2;PRS
+yashirmoq	yashirar edi	V;COND;SG;3;PRS
+yashirmoq	yashirayotgan edim	V;PROG;IND;SG;1;PST
+yashirmoq	yashirayotgan bo'lardilar	V;PROG;COND;PL;3;PRS
+yashirmoq	yashirding	V;PFV;FH;SG;2
+yashirmoq	yashirgan edik	V;PFV;IND;PL;1;PST
+yashirmoq	yashirar eding	V;COND;SG;2;INFM;PRS
+yashirmoq	yashirganmiz	V;IND;PL;1;PST
+yashirmoq	yashirar edingiz	V;FRML;COND;SG;2;PRS
+yashirmoq	yashirib bo'lgan bo'laman	V;PFV;SBJV;SG;1;FUT
+yashirmoq	yashirayotgan edingiz	V;PROG;FRML;IND;SG;2;PST
+yashirmoq	yashirayotgan bo'lardik	V;PROG;COND;PL;1;PRS
+yashirmoq	yashiryapmiz	V;PROG;IND;PL;1;PRS
+yashirmoq	yashirayotgan bo'lardim	V;PROG;COND;SG;1;PRS
+yashirmoq	yashirayotgan bo'lar edingizlar	V;PRF+PROG;COND;PL;2;PRS
+yashirmoq	yashirib bo'lgan bo'lasan	V;PFV;SBJV;SG;2;INFM;FUT
+yashirmoq	yashirayotgan edi	V;PROG;IND;SG;3;PST
+yashirmoq	yashirganlar	V;IND;PL;3;PST
+yashirmoq	yashirib bo'lgan edim	V;PRF;SBJV;SG;1;PRS
+yashirmoq	yashirdik	V;PFV;FH;PL;1
+yashirmoq	yashirasizlar	V;PL;2;PRS
+yashirmoq	yashirar edim	V;COND;SG;1;PRS
+yashirmoq	yashiramiz	V;PL;1;PRS
+yashirmoq	yashirib bo'lgan bo'lamiz	V;PFV;SBJV;PL;1;FUT
+yashirmoq	yashirdim	V;PFV;FH;SG;1
+yashirmoq	yashirasiz	V;FRML;SG;2;PRS
+yashirmoq	yashirib bo'lgan edingizlar	V;PRF;SBJV;PL;2;PRS
+yashirmoq	yashirib bol'gan eding	V;PRF;SBJV;SG;2;INFM;PRS
+yashirmoq	yashiryapsizlar	V;PROG;IND;PL;2;PRS
+yashirmoq	yashirib bo'lgan edingiz	V;PRF;FRML;SBJV;SG;2;PRS
+yashirmoq	yashirib bo'lgan bo'lasizlar	V;PFV;SBJV;PL;2;FUT
+yashirmoq	yashiryaptilar	V;PROG;IND;PL;3;PRS
+yashirmoq	yashirayotgan edik	V;PROG;IND;PL;1;PST
+yashirmoq	yashirar edilar	V;COND;PL;3;PRS
+yashirmoq	yashirgansizlar	V;IND;PL;2;PST
+yashirmoq	yashirgan	V;IND;SG;3;PST
+yashirmoq	yashiryapsan	V;PROG;IND;SG;2;INFM;PRS
+yashirmoq	yashirgan edilar	V;PFV;IND;PL;3;PST
+yashirmoq	yashirayotgan bo'ladi	V;PROG;IND;SG;3;FUT
+yashirmoq	yashirgan edi	V;PFV;IND;SG;3;PST
+yashirmoq	yashirgan edingiz	V;PFV;FRML;IND;SG;2;PST
+yashirmoq	yashirayotgan bo'larding	V;PROG;COND;SG;2;PRS
+yashirmoq	yashirar edik	V;COND;PL;1;PRS
+yashirmoq	yashirayotgan bo'lar edim	V;PRF+PROG;COND;SG;1;PRS
+yashirmoq	yashirib bo'lgan edik	V;PRF;SBJV;PL;1;PRS
+yashirmoq	yashirdingizlar	V;PFV;FH;PL;2
+yashirmoq	yashirdilar	V;PFV;FH;PL;3
+yashirmoq	yashirdi	V;PFV;FH;SG;3
+yashirmoq	yashiryapti	V;PROG;IND;SG;3;PRS
+yashirmoq	yashirayotgan eding	V;PROG;IND;SG;2;INFM;PST
+yashirmoq	yashirib bo'lgan bo'ladilar	V;PFV;SBJV;PL;3;FUT
+yashirmoq	yashirib bo'lgan edi	V;PRF;SBJV;SG;3;PRS
+yashirmoq	yashirib bo'lgan bo'ladi	V;PFV;SBJV;SG;3;FUT
+yashirmoq	yashirgansiz	V;FRML;IND;SG;2;PST
+yashirmoq	yashirayotgan bo'lar edik	V;PRF+PROG;COND;PL;1;PRS
+yashirmoq	yashirayotgan bo'lasizlar	V;PROG;IND;PL;2;FUT
+yashirmoq	yashirgan edingizlar	V;PFV;IND;PL;2;PST
+yashirmoq	yashirgan eding	V;PFV;IND;SG;2;INFM;PST
+yashirmoq	yashirar edingizlar	V;COND;PL;2;PRS
+yashirmoq	yashirayotgan bo'lasan	V;PROG;IND;SG;2;INFM;FUT
+yashirmoq	yashirayotgan bo'lamiz	V;PROG;IND;PL;1;FUT
+yashirmoq	yashirayotgan bo'lardi	V;PROG;COND;SG;3;PRS
+yashirmoq	yashirayotgan edilar	V;PROG;IND;PL;3;PST
+yashirmoq	yashiryapsiz	V;PROG;FRML;IND;SG;2;PRS
+yashirmoq	yashirayotgan edingizlar	V;PROG;IND;PL;2;PST
+yashirmoq	yashirgansan	V;IND;SG;2;INFM;PST
+yashirmoq	yashiradilar	V;PL;3;PRS
+yashirmoq	yashiradi	V;SG;3;PRS
+yashirmoq	yashirganman	V;IND;SG;1;PST
+yashirmoq	yashirib bo'lgan edilar	V;PRF;SBJV;PL;3;PRS
+yashirmoq	yashirayotgan bo'lasiz	V;PROG;FRML;IND;SG;2;FUT
+yashirmoq	yashirgan edim	V;PFV;IND;SG;1;PST
+yashirmoq	yashirayotgan bo'lar edingiz	V;PRF+PROG;FRML;COND;SG;2;PRS
+yashirmoq	yashirayotgan bo'lar edilar	V;PRF+PROG;COND;PL;3;PRS
+yashirmoq	yashiraman	V;SG;1;PRS
+yashirmoq	yashirayotgan bo'lar eding	V;PRF+PROG;COND;SG;2;INFM;PRS
+yashirmoq	yashirayotgan bo'ladilar	V;PROG;IND;PL;3;FUT
+yashirmoq	yashirayotgan bo'lar edi	V;PRF+PROG;COND;SG;3;PRS
+yashirmoq	yashirdingiz	V;PFV;FRML;FH;SG;2
+yashirmoq	yashirayotgan bo'laman	V;PROG;IND;SG;1;FUT
+yashirmoq	yashiryapman	V;PROG;IND;SG;1;PRS
+yashirmoq	yashirasan	V;SG;2;INFM;PRS
+yashirmoq	yashirib bo'lgan bo'lasiz	V;PFV;FRML;SBJV;SG;2;FUT
+chang'i uchmoq	chang'i uchib bo'lgan bo'laman	V;PFV;SBJV;SG;1;FUT
+chang'i uchmoq	chang'i uchayotgan edilar	V;PROG;IND;PL;3;PST
+chang'i uchmoq	chang'i uchgan edik	V;PFV;IND;PL;1;PST
+chang'i uchmoq	chang'i uchamiz	V;PL;1;PRS
+chang'i uchmoq	chang'i uchayotgan bo'lar edingizlar	V;PRF+PROG;COND;PL;2;PRS
+chang'i uchmoq	chang'i uchdi	V;PFV;FH;SG;3
+chang'i uchmoq	chang'i uchar edingizlar	V;COND;PL;2;PRS
+chang'i uchmoq	chang'i uchgan edingizlar	V;PFV;IND;PL;2;PST
+chang'i uchmoq	chang'i uchib bo'lgan edi	V;PRF;SBJV;SG;3;PRS
+chang'i uchmoq	chang'i uchasizlar	V;PL;2;PRS
+chang'i uchmoq	chang'i uchayotgan edingiz	V;PROG;FRML;IND;SG;2;PST
+chang'i uchmoq	chang'i uchayotgan bo'lardilar	V;PROG;COND;PL;3;PRS
+chang'i uchmoq	chang'i uchayotgan bo'lar edi	V;PRF+PROG;COND;SG;3;PRS
+chang'i uchmoq	chang'i uchayotgan bo'lardik	V;PROG;COND;PL;1;PRS
+chang'i uchmoq	chang'i uchayotgan edim	V;PROG;IND;SG;1;PST
+chang'i uchmoq	chang'i uchdilar	V;PFV;FH;PL;3
+chang'i uchmoq	chang'i uchib bo'lgan edingiz	V;PRF;FRML;SBJV;SG;2;PRS
+chang'i uchmoq	chang'i uchasan	V;SG;2;INFM;PRS
+chang'i uchmoq	chang'i uchayotgan eding	V;PROG;IND;SG;2;INFM;PST
+chang'i uchmoq	chang'i uchayotgan edik	V;PROG;IND;PL;1;PST
+chang'i uchmoq	chang'i uchgan edingiz	V;PFV;FRML;IND;SG;2;PST
+chang'i uchmoq	chang'i uchar eding	V;COND;SG;2;INFM;PRS
+chang'i uchmoq	chang'i uchib bo'lgan edilar	V;PRF;SBJV;PL;3;PRS
+chang'i uchmoq	chang'i uchgan edim	V;PFV;IND;SG;1;PST
+chang'i uchmoq	chang'i uchib bo'lgan bo'ladi	V;PFV;SBJV;SG;3;FUT
+chang'i uchmoq	chang'i uchayotgan bo'lar edik	V;PRF+PROG;COND;PL;1;PRS
+chang'i uchmoq	chang'i uchayotgan bo'lar edingiz	V;PRF+PROG;FRML;COND;SG;2;PRS
+chang'i uchmoq	chang'i uchayotgan edi	V;PROG;IND;SG;3;PST
+chang'i uchmoq	chang'i uchayotgan bo'lar edim	V;PRF+PROG;COND;SG;1;PRS
+chang'i uchmoq	chang'i uchyapsan	V;PROG;IND;SG;2;INFM;PRS
+chang'i uchmoq	chang'i uchasiz	V;FRML;SG;2;PRS
+chang'i uchmoq	chang'i uchib bo'lgan edim	V;PRF;SBJV;SG;1;PRS
+chang'i uchmoq	chang'i uchar edilar	V;COND;PL;3;PRS
+chang'i uchmoq	chang'i uchdi	V;SG;3;PRS
+chang'i uchmoq	chang'i uchgansiz	V;FRML;IND;SG;2;PST
+chang'i uchmoq	chang'i uchyapmiz	V;PROG;IND;PL;1;PRS
+chang'i uchmoq	chang'i uchdik	V;PFV;FH;PL;1
+chang'i uchmoq	chang'i uchaman	V;SG;1;PRS
+chang'i uchmoq	chang'i uchdingiz	V;PFV;FRML;FH;SG;2
+chang'i uchmoq	chang'i uchar edik	V;COND;PL;1;PRS
+chang'i uchmoq	chang'i uchayotgan bo'ladilar	V;PROG;IND;PL;3;FUT
+chang'i uchmoq	chang'i uchyaptilar	V;PROG;IND;PL;3;PRS
+chang'i uchmoq	chang'i uchayotgan bo'ladi	V;PROG;IND;SG;3;FUT
+chang'i uchmoq	chang'i uchib bo'lgan edingizlar	V;PRF;SBJV;PL;2;PRS
+chang'i uchmoq	chang'i uchayotgan bo'lasan	V;PROG;IND;SG;2;INFM;FUT
+chang'i uchmoq	chang'i uchayotgan bo'lasiz	V;PROG;FRML;IND;SG;2;FUT
+chang'i uchmoq	chang'i uchayotgan edingizlar	V;PROG;IND;PL;2;PST
+chang'i uchmoq	chang'i uchayotgan bo'lasizlar	V;PROG;IND;PL;2;FUT
+chang'i uchmoq	chang'i uchgansan	V;IND;SG;2;INFM;PST
+chang'i uchmoq	chang'i uchayotgan bo'lamiz	V;PROG;IND;PL;1;FUT
+chang'i uchmoq	chang'i uchding	V;PFV;FH;SG;2
+chang'i uchmoq	chang'i uchgan edi	V;PFV;IND;SG;3;PST
+chang'i uchmoq	chang'i uchdilar	V;PL;3;PRS
+chang'i uchmoq	chang'i uchib bo'lgan edik	V;PRF;SBJV;PL;1;PRS
+chang'i uchmoq	chang'i uchganmiz	V;IND;PL;1;PST
+chang'i uchmoq	chang'i uchar edingiz	V;FRML;COND;SG;2;PRS
+chang'i uchmoq	chang'i uchar edi	V;COND;SG;3;PRS
+chang'i uchmoq	chang'i uchayotgan bo'lardi	V;PROG;COND;SG;3;PRS
+chang'i uchmoq	chang'i uchyapman	V;PROG;IND;SG;1;PRS
+chang'i uchmoq	chang'i uchayotgan bo'laman	V;PROG;IND;SG;1;FUT
+chang'i uchmoq	chang'i uchar edim	V;COND;SG;1;PRS
+chang'i uchmoq	chang'i uchyapti	V;PROG;IND;SG;3;PRS
+chang'i uchmoq	chang'i uchib bo'lgan bo'ladilar	V;PFV;SBJV;PL;3;FUT
+chang'i uchmoq	chang'i uchib bo'lgan bo'lasan	V;PFV;SBJV;SG;2;INFM;FUT
+chang'i uchmoq	chang'i uchgan eding	V;PFV;IND;SG;2;INFM;PST
+chang'i uchmoq	chang'i uchayotgan bo'lar edilar	V;PRF+PROG;COND;PL;3;PRS
+chang'i uchmoq	chang'i uchib bol'gan eding	V;PRF;SBJV;SG;2;INFM;PRS
+chang'i uchmoq	chang'i uchgansizlar	V;IND;PL;2;PST
+chang'i uchmoq	chang'i uchyapsizlar	V;PROG;IND;PL;2;PRS
+chang'i uchmoq	chang'i uchayotgan bo'lardim	V;PROG;COND;SG;1;PRS
+chang'i uchmoq	chang'i uchgan edilar	V;PFV;IND;PL;3;PST
+chang'i uchmoq	chang'i uchdingizlar	V;PFV;FH;PL;2
+chang'i uchmoq	chang'i uchayotgan bo'larding	V;PROG;COND;SG;2;PRS
+chang'i uchmoq	chang'i uchib bo'lgan bo'lasizlar	V;PFV;SBJV;PL;2;FUT
+chang'i uchmoq	chang'i uchayotgan bo'lar eding	V;PRF+PROG;COND;SG;2;INFM;PRS
+chang'i uchmoq	chang'i uchib bo'lgan bo'lamiz	V;PFV;SBJV;PL;1;FUT
+chang'i uchmoq	chang'i uchgan	V;IND;SG;3;PST
+chang'i uchmoq	chang'i uchganman	V;IND;SG;1;PST
+chang'i uchmoq	chang'i uchyapsiz	V;PROG;FRML;IND;SG;2;PRS
+chang'i uchmoq	chang'i uchdim	V;PFV;FH;SG;1
+chang'i uchmoq	chang'i uchib bo'lgan bo'lasiz	V;PFV;FRML;SBJV;SG;2;FUT
+chang'i uchmoq	chang'i uchganlar	V;IND;PL;3;PST
+umid qilmoq	umid qilgan edim	V;PFV;IND;SG;1;PST
+umid qilmoq	umid qilyapsiz	V;PROG;FRML;IND;SG;2;PRS
+umid qilmoq	umid qilayotgan bo'lar edi	V;PRF+PROG;COND;SG;3;PRS
+umid qilmoq	umid qilgansan	V;IND;SG;2;INFM;PST
+umid qilmoq	umid qilib bo'lgan bo'laman	V;PFV;SBJV;SG;1;FUT
+umid qilmoq	umid qilgan edi	V;PFV;IND;SG;3;PST
+umid qilmoq	umid qilyapti	V;PROG;IND;SG;3;PRS
+umid qilmoq	umid qilayotgan bo'lardi	V;PROG;COND;SG;3;PRS
+umid qilmoq	umid qilayotgan edingizlar	V;PROG;IND;PL;2;PST
+umid qilmoq	umid qilaman	V;SG;1;PRS
+umid qilmoq	umid qilib bo'lgan edingizlar	V;PRF;SBJV;PL;2;PRS
+umid qilmoq	umid qilayotgan bo'lardik	V;PROG;COND;PL;1;PRS
+umid qilmoq	umid qilgansizlar	V;IND;PL;2;PST
+umid qilmoq	umid qilyapman	V;PROG;IND;SG;1;PRS
+umid qilmoq	umid qilib bo'lgan edik	V;PRF;SBJV;PL;1;PRS
+umid qilmoq	umid qildingizlar	V;PFV;FH;PL;2
+umid qilmoq	umid qilganlar	V;IND;PL;3;PST
+umid qilmoq	umid qilib bo'lgan bo'lasizlar	V;PFV;SBJV;PL;2;FUT
+umid qilmoq	umid qilar edilar	V;COND;PL;3;PRS
+umid qilmoq	umid qilyapsizlar	V;PROG;IND;PL;2;PRS
+umid qilmoq	umid qilayotgan edilar	V;PROG;IND;PL;3;PST
+umid qilmoq	umid qilar edingizlar	V;COND;PL;2;PRS
+umid qilmoq	umid qilgansiz	V;FRML;IND;SG;2;PST
+umid qilmoq	umid qilasiz	V;FRML;SG;2;PRS
+umid qilmoq	umid qilar eding	V;COND;SG;2;INFM;PRS
+umid qilmoq	umid qiladilar	V;PL;3;PRS
+umid qilmoq	umid qilayotgan bo'lasiz	V;PROG;FRML;IND;SG;2;FUT
+umid qilmoq	umid qilayotgan bo'larding	V;PROG;COND;SG;2;PRS
+umid qilmoq	umid qilib bo'lgan bo'lasiz	V;PFV;FRML;SBJV;SG;2;FUT
+umid qilmoq	umid qilayotgan bo'laman	V;PROG;IND;SG;1;FUT
+umid qilmoq	umid qilyaptilar	V;PROG;IND;PL;3;PRS
+umid qilmoq	umid qilasan	V;SG;2;INFM;PRS
+umid qilmoq	umid qilayotgan bo'lar edingizlar	V;PRF+PROG;COND;PL;2;PRS
+umid qilmoq	umid qilib bol'gan eding	V;PRF;SBJV;SG;2;INFM;PRS
+umid qilmoq	umid qilib bo'lgan bo'ladilar	V;PFV;SBJV;PL;3;FUT
+umid qilmoq	umid qilgan	V;IND;SG;3;PST
+umid qilmoq	umid qilib bo'lgan edim	V;PRF;SBJV;SG;1;PRS
+umid qilmoq	umid qilayotgan bo'lasan	V;PROG;IND;SG;2;INFM;FUT
+umid qilmoq	umid qilayotgan bo'lar eding	V;PRF+PROG;COND;SG;2;INFM;PRS
+umid qilmoq	umid qilar edi	V;COND;SG;3;PRS
+umid qilmoq	umid qilayotgan bo'lardilar	V;PROG;COND;PL;3;PRS
+umid qilmoq	umid qilgan edingizlar	V;PFV;IND;PL;2;PST
+umid qilmoq	umid qilayotgan edingiz	V;PROG;FRML;IND;SG;2;PST
+umid qilmoq	umid qilayotgan bo'lar edingiz	V;PRF+PROG;FRML;COND;SG;2;PRS
+umid qilmoq	umid qilgan edik	V;PFV;IND;PL;1;PST
+umid qilmoq	umid qilayotgan edim	V;PROG;IND;SG;1;PST
+umid qilmoq	umid qildingiz	V;PFV;FRML;FH;SG;2
+umid qilmoq	umid qilayotgan bo'ladi	V;PROG;IND;SG;3;FUT
+umid qilmoq	umid qilib bo'lgan bo'lamiz	V;PFV;SBJV;PL;1;FUT
+umid qilmoq	umid qilib bo'lgan edi	V;PRF;SBJV;SG;3;PRS
+umid qilmoq	umid qilayotgan bo'lardim	V;PROG;COND;SG;1;PRS
+umid qilmoq	umid qilgan eding	V;PFV;IND;SG;2;INFM;PST
+umid qilmoq	umid qilar edingiz	V;FRML;COND;SG;2;PRS
+umid qilmoq	umid qilgan edingiz	V;PFV;FRML;IND;SG;2;PST
+umid qilmoq	umid qilasizlar	V;PL;2;PRS
+umid qilmoq	umid qilib bo'lgan edingiz	V;PRF;FRML;SBJV;SG;2;PRS
+umid qilmoq	umid qilding	V;PFV;FH;SG;2
+umid qilmoq	umid qilayotgan bo'lar edim	V;PRF+PROG;COND;SG;1;PRS
+umid qilmoq	umid qildilar	V;PFV;FH;PL;3
+umid qilmoq	umid qilamiz	V;PL;1;PRS
+umid qilmoq	umid qilayotgan bo'lar edik	V;PRF+PROG;COND;PL;1;PRS
+umid qilmoq	umid qilayotgan bo'lasizlar	V;PROG;IND;PL;2;FUT
+umid qilmoq	umid qiladi	V;SG;3;PRS
+umid qilmoq	umid qilayotgan bo'lamiz	V;PROG;IND;PL;1;FUT
+umid qilmoq	umid qilganman	V;IND;SG;1;PST
+umid qilmoq	umid qildi	V;PFV;FH;SG;3
+umid qilmoq	umid qilayotgan bo'ladilar	V;PROG;IND;PL;3;FUT
+umid qilmoq	umid qilar edim	V;COND;SG;1;PRS
+umid qilmoq	umid qildik	V;PFV;FH;PL;1
+umid qilmoq	umid qilyapsan	V;PROG;IND;SG;2;INFM;PRS
+umid qilmoq	umid qilgan edilar	V;PFV;IND;PL;3;PST
+umid qilmoq	umid qilayotgan bo'lar edilar	V;PRF+PROG;COND;PL;3;PRS
+umid qilmoq	umid qilayotgan eding	V;PROG;IND;SG;2;INFM;PST
+umid qilmoq	umid qilib bo'lgan edilar	V;PRF;SBJV;PL;3;PRS
+umid qilmoq	umid qilyapmiz	V;PROG;IND;PL;1;PRS
+umid qilmoq	umid qildim	V;PFV;FH;SG;1
+umid qilmoq	umid qilayotgan edi	V;PROG;IND;SG;3;PST
+umid qilmoq	umid qilayotgan edik	V;PROG;IND;PL;1;PST
+umid qilmoq	umid qilganmiz	V;IND;PL;1;PST
+umid qilmoq	umid qilib bo'lgan bo'ladi	V;PFV;SBJV;SG;3;FUT
+umid qilmoq	umid qilib bo'lgan bo'lasan	V;PFV;SBJV;SG;2;INFM;FUT
+umid qilmoq	umid qilar edik	V;COND;PL;1;PRS
+archimoq	archiyotgan bo'ladilar	V;PROG;IND;PL;3;FUT
+archimoq	archiding	V;PFV;FH;SG;2
+archimoq	archigan edi	V;PFV;IND;SG;3;PST
+archimoq	archib bo'lgan edingizlar	V;PRF;SBJV;PL;2;PRS
+archimoq	archigan edim	V;PFV;IND;SG;1;PST
+archimoq	archiydi	V;SG;3;PRS
+archimoq	archigan	V;IND;SG;3;PST
+archimoq	archiyotgan bo'lasiz	V;PROG;FRML;IND;SG;2;FUT
+archimoq	archiydilar	V;PL;3;PRS
+archimoq	archib bo'lgan bo'ladilar	V;PFV;SBJV;PL;3;FUT
+archimoq	archiyotgan bo'lar eding	V;PRF+PROG;COND;SG;2;INFM;PRS
+archimoq	archib bo'lgan bo'lamiz	V;PFV;SBJV;PL;1;FUT
+archimoq	archiysan	V;SG;2;INFM;PRS
+archimoq	archigansan	V;IND;SG;2;INFM;PST
+archimoq	archib bo'lgan bo'ladi	V;PFV;SBJV;SG;3;FUT
+archimoq	archidingizlar	V;PFV;FH;PL;2
+archimoq	archib bo'lgan eding	V;PRF;SBJV;SG;2;INFM;PRS
+archimoq	archir edingizlar	V;COND;PL;2;PRS
+archimoq	archiyapsiz	V;PROG;FRML;IND;SG;2;PRS
+archimoq	archiyotgan bo'lar edik	V;PRF+PROG;COND;PL;1;PRS
+archimoq	archiysiz	V;FRML;SG;2;PRS
+archimoq	archiyotgan bo'lardi	V;PROG;COND;SG;3;PRS
+archimoq	archiyotgan edingizlar	V;PROG;IND;PL;2;PST
+archimoq	archiyotgan edik	V;PROG;IND;PL;1;PST
+archimoq	archir edim	V;COND;SG;1;PRS
+archimoq	archir edi	V;COND;SG;3;PRS
+archimoq	archidingiz	V;PFV;FRML;FH;SG;2
+archimoq	archib bo'lgan edik	V;PRF;SBJV;PL;1;PRS
+archimoq	archidi	V;PFV;FH;SG;3
+archimoq	archiganlar	V;IND;PL;3;PST
+archimoq	archiyotgan bo'lardilar	V;PROG;COND;PL;3;PRS
+archimoq	archigan edingizlar	V;PFV;IND;PL;2;PST
+archimoq	archiyotgan bo'larding	V;PROG;COND;SG;2;PRS
+archimoq	archiyotgan edingiz	V;PROG;FRML;IND;SG;2;PST
+archimoq	archib bo'lgan edi	V;PRF;SBJV;SG;3;PRS
+archimoq	archiyotgan bo'lardim	V;PROG;COND;SG;1;PRS
+archimoq	archiyotgan bo'lar edingizlar	V;PRF+PROG;COND;PL;2;PRS
+archimoq	archiyotgan bo'lar edim	V;PRF+PROG;COND;SG;1;PRS
+archimoq	archidik	V;PFV;FH;PL;1
+archimoq	archiyotgan eding	V;PROG;IND;SG;2;INFM;PST
+archimoq	archib bo'lgan bo'lasizlar	V;PFV;SBJV;PL;2;FUT
+archimoq	archiyapmiz	V;PROG;IND;PL;1;PRS
+archimoq	archiyotgan edim	V;PROG;IND;SG;1;PST
+archimoq	archiyotgan edi	V;PROG;IND;SG;3;PST
+archimoq	archiyotgan bo'laman	V;PROG;IND;SG;1;FUT
+archimoq	archidilar	V;PFV;FH;PL;3
+archimoq	archib bo'lgan edim	V;PRF;SBJV;SG;1;PRS
+archimoq	archiyotgan bo'lar edilar	V;PRF+PROG;COND;PL;3;PRS
+archimoq	archib bo'lgan bo'lasan	V;PFV;SBJV;SG;2;INFM;FUT
+archimoq	archigansiz	V;FRML;IND;SG;2;PST
+archimoq	archiyotgan bo'lasizlar	V;PROG;IND;PL;2;FUT
+archimoq	archigan edilar	V;PFV;IND;PL;3;PST
+archimoq	archiyapsan	V;PROG;IND;SG;2;INFM;PRS
+archimoq	archiysizlar	V;PL;2;PRS
+archimoq	archigan eding	V;PFV;IND;SG;2;INFM;PST
+archimoq	archiyotgan bo'ladi	V;PROG;IND;SG;3;FUT
+archimoq	archiganman	V;IND;SG;1;PST
+archimoq	archiyman	V;SG;1;PRS
+archimoq	archib bo'lgan edilar	V;PRF;SBJV;PL;3;PRS
+archimoq	archiyotgan bo'lar edingiz	V;PRF+PROG;FRML;COND;SG;2;PRS
+archimoq	archigan edingiz	V;PFV;FRML;IND;SG;2;PST
+archimoq	archiyapman	V;PROG;IND;SG;1;PRS
+archimoq	archir eding	V;COND;SG;2;INFM;PRS
+archimoq	archib bo'lgan bo'lasiz	V;PFV;FRML;SBJV;SG;2;FUT
+archimoq	archib bo'lgan bo'laman	V;PFV;SBJV;SG;1;FUT
+archimoq	archigansizlar	V;IND;PL;2;PST
+archimoq	archiyapsizlar	V;PROG;IND;PL;2;PRS
+archimoq	archiyotgan edilar	V;PROG;IND;PL;3;PST
+archimoq	archiyotgan bo'lamiz	V;PROG;IND;PL;1;FUT
+archimoq	archigan edik	V;PFV;IND;PL;1;PST
+archimoq	archiganmiz	V;IND;PL;1;PST
+archimoq	archiyaptilar	V;PROG;IND;PL;3;PRS
+archimoq	archiyotgan bo'lardik	V;PROG;COND;PL;1;PRS
+archimoq	archiyotgan bo'lasan	V;PROG;IND;SG;2;INFM;FUT
+archimoq	archib bo'lgan edingiz	V;PRF;FRML;SBJV;SG;2;PRS
+archimoq	archiyotgan bo'lar edi	V;PRF+PROG;COND;SG;3;PRS
+archimoq	archir edilar	V;COND;PL;3;PRS
+archimoq	archiymiz	V;PL;1;PRS
+archimoq	archidim	V;PFV;FH;SG;1
+archimoq	archir edik	V;COND;PL;1;PRS
+archimoq	archiyapti	V;PROG;IND;SG;3;PRS
+archimoq	archir edingiz	V;FRML;COND;SG;2;PRS

@@ -1,0 +1,833 @@
+kado	magakado pa	V;PRF+PROG;FUT
+kado	nagkado pa	V;PRF+PROG;PST
+kado	nagkado	V;PST
+kado	nagakado	V;PROG;PRS
+kado	magakado	V;FUT
+kado	nagkado	V;PROG;PST
+kado	nagakado	V;PRS
+kado	kado	V;NFIN
+kado	nagkado na	V;PRF;PST
+kado	magakado na	V;PRF;FUT
+kado	nagakado na	V;PRF;PRS
+kado	magakado	V;PROG;FUT
+kado	nagakado pa	V;PRF+PROG;PRS
+uyat/uyatan	ginauyatan	V;PRS
+uyat/uyatan	gin-uyatan pa	V;PRF+PROG;PST
+uyat/uyatan	magauyat pa	V;PRF+PROG;FUT
+uyat/uyatan	ginauyatan pa	V;PRF+PROG;PRS
+uyat/uyatan	magauyat na	V;PRF;FUT
+uyat/uyatan	gin-uyatan	V;PROG;PST
+uyat/uyatan	magauyat	V;FUT
+uyat/uyatan	uyat	V;NFIN
+uyat/uyatan	ginauyatan na	V;PRF;PRS
+uyat/uyatan	gin-uyatan na	V;PRF;PST
+uyat/uyatan	ginauyatan	V;PROG;PRS
+uyat/uyatan	gin-uyatan	V;PST
+uyat/uyatan	magauyat	V;PROG;FUT
+paathag	paathag	V;NFIN
+paathag	nagapaathag	V;PRS
+paathag	nagpaathag na	V;PRF;PST
+paathag	magapaathag	V;PROG;FUT
+paathag	nagapaathag pa	V;PRF+PROG;PRS
+paathag	magapaathag pa	V;PRF+PROG;FUT
+paathag	nagpaathag	V;PST
+paathag	magapaathag na	V;PRF;FUT
+paathag	nagapaathag na	V;PRF;PRS
+paathag	nagapaathag	V;PROG;PRS
+paathag	nagpaathag pa	V;PRF+PROG;PST
+paathag	magapaathag	V;FUT
+paathag	nagpaathag	V;PROG;PST
+pungko	nagapungko pa	V;PRF+PROG;PRS
+pungko	magapungko	V;PROG;FUT
+pungko	nagapungko	V;PRS
+pungko	pungko	V;NFIN
+pungko	nagpungko	V;PST
+pungko	nagpungko na	V;PRF;PST
+pungko	magapungko	V;FUT
+pungko	nagapungko na	V;PRF;PRS
+pungko	nagpungko	V;PROG;PST
+pungko	magapungko pa	V;PRF+PROG;FUT
+pungko	nagapungko	V;PROG;PRS
+pungko	nagpungko pa	V;PRF+PROG;PST
+pungko	magapungko na	V;PRF;FUT
+tapos	ginatapos pa	V;PRF+PROG;PRS
+tapos	ginatapos na	V;PRF;PRS
+tapos	gintapos	V;PST
+tapos	gintapos	V;PROG;PST
+tapos	gintapos pa	V;PRF+PROG;PST
+tapos	ginatapos	V;PRS
+tapos	tapos	V;NFIN
+tapos	magataps na	V;PRF;FUT
+tapos	magataps	V;PROG;FUT
+tapos	magataps pa	V;PRF+PROG;FUT
+tapos	magataps	V;FUT
+tapos	gintapos na	V;PRF;PST
+tapos	ginatapos	V;PROG;PRS
+ginhawa	nagginhawa na	V;PRF;PST
+ginhawa	ginhawa	V;NFIN
+ginhawa	nagaginhawa	V;PROG;PRS
+ginhawa	nagaginhawa	V;PRS
+ginhawa	nagaginhawa na	V;PRF;PRS
+ginhawa	magaginhawa	V;PROG;FUT
+ginhawa	magaginhawa	V;FUT
+ginhawa	nagaginhawa pa	V;PRF+PROG;PRS
+ginhawa	magaginhawa na	V;PRF;FUT
+ginhawa	nagginhawa	V;PST
+ginhawa	magaginhawa pa	V;PRF+PROG;FUT
+ginhawa	nagginhawa pa	V;PRF+PROG;PST
+ginhawa	nagginhawa	V;PROG;PST
+pili	nagpili pa	V;PRF+PROG;PST
+pili	nagapili	V;PROG;PRS
+pili	nagpili	V;PST
+pili	nagapili	V;PRS
+pili	nagapili pa	V;PRF+PROG;PRS
+pili	nagpili	V;PROG;PST
+pili	pili	V;NFIN
+pili	nagpili na	V;PRF;PST
+pili	magapili na	V;PRF;FUT
+pili	magapili	V;PROG;FUT
+pili	magapili pa	V;PRF+PROG;FUT
+pili	magapili	V;FUT
+pili	nagapili na	V;PRF;PRS
+agda	ginaagda na	V;PRF;PRS
+agda	magaagda	V;PROG;FUT
+agda	gin-agda	V;PST
+agda	ginaagda pa	V;PRF+PROG;PRS
+agda	agda	V;NFIN
+agda	gin-agda na	V;PRF;PST
+agda	gin-agda	V;PROG;PST
+agda	gin-agda pa	V;PRF+PROG;PST
+agda	magaagda na	V;PRF;FUT
+agda	ginaagda	V;PRS
+agda	ginaagda	V;PROG;PRS
+agda	magaagda	V;FUT
+agda	magaagda pa	V;PRF+PROG;FUT
+nagon	nagnagon pa	V;PRF+PROG;PST
+nagon	nagon	V;NFIN
+nagon	nagnagon	V;PST
+nagon	nagnagon	V;PROG;PST
+nagon	naganagon na	V;PRF;PRS
+nagon	maganagon	V;FUT
+nagon	maganagon na	V;PRF;FUT
+nagon	maganagon	V;PROG;FUT
+nagon	maganagon pa	V;PRF+PROG;FUT
+nagon	nagnagon na	V;PRF;PST
+nagon	naganagon pa	V;PRF+PROG;PRS
+nagon	naganagon	V;PRS
+nagon	naganagon	V;PROG;PRS
+pakilala	nagapakilala na	V;PRF;PRS
+pakilala	magapakilala pa	V;PRF+PROG;FUT
+pakilala	nagpakilala	V;PST
+pakilala	nagapakilala pa	V;PRF+PROG;PRS
+pakilala	nagapakilala	V;PROG;PRS
+pakilala	pakilala	V;NFIN
+pakilala	magapakilala na	V;PRF;FUT
+pakilala	magapakilala	V;FUT
+pakilala	magapakilala	V;PROG;FUT
+pakilala	nagapakilala	V;PRS
+pakilala	nagpakilala	V;PROG;PST
+pakilala	nagpakilala pa	V;PRF+PROG;PST
+pakilala	nagpakilala na	V;PRF;PST
+butang	magabutang	V;FUT
+butang	nagabutang pa	V;PRF+PROG;PRS
+butang	magabutang na	V;PRF;FUT
+butang	nagbutang	V;PST
+butang	nagabutang na	V;PRF;PRS
+butang	nagabutang	V;PROG;PRS
+butang	nagbutang pa	V;PRF+PROG;PST
+butang	nagbutang na	V;PRF;PST
+butang	nagbutang	V;PROG;PST
+butang	magabutang	V;PROG;FUT
+butang	magabutang pa	V;PRF+PROG;FUT
+butang	nagabutang	V;PRS
+butang	butang	V;NFIN
+dugang	magadugang pa	V;PRF+PROG;FUT
+dugang	magadugang na	V;PRF;FUT
+dugang	nagdugang	V;PROG;PST
+dugang	nagadugang	V;PRS
+dugang	nagadugang	V;PROG;PRS
+dugang	nagdugang	V;PST
+dugang	nagadugang na	V;PRF;PRS
+dugang	dugang	V;NFIN
+dugang	nagadugang pa	V;PRF+PROG;PRS
+dugang	nagdugang na	V;PRF;PST
+dugang	magadugang	V;PROG;FUT
+dugang	nagdugang pa	V;PRF+PROG;PST
+dugang	magadugang	V;FUT
+sarang	nakasarang	V;PST
+sarang	sarang	V;NFIN
+sarang	makasarang	V;PRS
+sugata	nagasugata	V;PROG;PRS
+sugata	magasugata na	V;PRF;FUT
+sugata	magasugata	V;PROG;FUT
+sugata	magasugata	V;FUT
+sugata	nagsugata na	V;PRF;PST
+sugata	nagsugata pa	V;PRF+PROG;PST
+sugata	nagasugata pa	V;PRF+PROG;PRS
+sugata	nagsugata	V;PROG;PST
+sugata	nagsugata	V;PST
+sugata	nagasugata na	V;PRF;PRS
+sugata	nagasugata	V;PRS
+sugata	sugata	V;NFIN
+sugata	magasugata pa	V;PRF+PROG;FUT
+kanta	kanta	V;NFIN
+kanta	nagakanta	V;PRS
+kanta	nagakanta pa	V;PRF+PROG;PRS
+kanta	nagkanta	V;PROG;PST
+kanta	magakanta na	V;PRF;FUT
+kanta	nagkanta pa	V;PRF+PROG;PST
+kanta	nagkanta na	V;PRF;PST
+kanta	nagakanta	V;PROG;PRS
+kanta	magakanta	V;PROG;FUT
+kanta	nagkanta	V;PST
+kanta	nagakanta na	V;PRF;PRS
+kanta	magakanta pa	V;PRF+PROG;FUT
+kanta	magakanta	V;FUT
+sulit	ginasulit	V;PROG;PRS
+sulit	ginsulit pa	V;PRF+PROG;PST
+sulit	ginasulit na	V;PRF;PRS
+sulit	magasulit pa	V;PRF+PROG;FUT
+sulit	ginsulit na	V;PRF;PST
+sulit	ginasulit pa	V;PRF+PROG;PRS
+sulit	ginasulit	V;PRS
+sulit	magasulit	V;FUT
+sulit	magasulit na	V;PRF;FUT
+sulit	magasulit	V;PROG;FUT
+sulit	ginsulit	V;PROG;PST
+sulit	ginsulit	V;PST
+sulit	sulit	V;NFIN
+hangop/hangpan	mahangpan pa	V;PRF+PROG;FUT
+hangop/hangpan	nahangpan na	V;PRF;PST
+hangop/hangpan	nahangpan	V;PRS
+hangop/hangpan	ginahangop	V;PROG;PRS
+hangop/hangpan	mahangpan	V;FUT
+hangop/hangpan	mahangpan na	V;PRF;FUT
+hangop/hangpan	ginhangop	V;PROG;PST
+hangop/hangpan	mahangpan	V;PROG;FUT
+hangop/hangpan	nahangpan	V;PST
+hangop/hangpan	ginhangpan pa	V;PRF+PROG;PST
+hangop/hangpan	hangop	V;NFIN
+hangop/hangpan	nahangpan na	V;PRF;PRS
+hangop/hangpan	ginahangop pa	V;PRF+PROG;PRS
+patay/tagumatayon	napatay	V;PST
+patay/tagumatayon	napatay na	V;PRF;PRS
+patay/tagumatayon	mapatay pa	V;PRF+PROG;FUT
+patay/tagumatayon	patay	V;NFIN
+patay/tagumatayon	nagatagumatayon	V;PROG;PRS
+patay/tagumatayon	naptay na	V;PRF;PST
+patay/tagumatayon	mapatay na	V;PRF;FUT
+patay/tagumatayon	nagatagumatayon pa	V;PRF+PROG;PRS
+patay/tagumatayon	napatay	V;PRS
+patay/tagumatayon	nagtagumatayon pa	V;PRF+PROG;PST
+patay/tagumatayon	mapatay	V;PROG;FUT
+patay/tagumatayon	mapatay	V;FUT
+patay/tagumatayon	napatay	V;PROG;PST
+lupad	naglupad	V;PROG;PST
+lupad	magalupad na	V;PRF;FUT
+lupad	naglupad pa	V;PRF+PROG;PST
+lupad	naglupad	V;PST
+lupad	nagalupad na	V;PRF;PRS
+lupad	nagalupad	V;PROG;PRS
+lupad	nagalupad pa	V;PRF+PROG;PRS
+lupad	nagalupad	V;PRS
+lupad	naglupad na	V;PRF;PST
+lupad	magalupad	V;PROG;FUT
+lupad	magalupad pa	V;PRF+PROG;FUT
+lupad	magalupad	V;FUT
+lupad	lupad	V;NFIN
+na/naga	na	V;NFIN
+na/naga	na	V;PST
+na/naga	naga	V;PRS
+gustuhan	nagustuhan	V;PRS
+gustuhan	magustuhan	V;FUT
+gustuhan	magustuhan na	V;PRF;FUT
+gustuhan	magustuhan	V;PROG;FUT
+gustuhan	nagustuhan	V;PST
+gustuhan	nagustuhan	V;PROG;PST
+gustuhan	nagustuhan	V;PROG;PRS
+gustuhan	gustuhan	V;NFIN
+gustuhan	nagustuhan pa	V;PRF+PROG;PRS
+gustuhan	magustuhan pa	V;PRF+PROG;FUT
+gustuhan	nagustuhan na	V;PRF;PST
+gustuhan	nagustuhan pa	V;PRF+PROG;PST
+gustuhan	nagustuhan na	V;PRF;PRS
+higda	naghigda na	V;PRF;PST
+higda	magahigda na	V;PRF;FUT
+higda	naghigda	V;PST
+higda	higda	V;NFIN
+higda	magahigda	V;FUT
+higda	magahigda pa	V;PRF+PROG;FUT
+higda	nagahigda	V;PROG;PRS
+higda	nagahigda na	V;PRF;PRS
+higda	naghigda	V;PROG;PST
+higda	nagahigda pa	V;PRF+PROG;PRS
+higda	nagahigda	V;PRS
+higda	naghigda pa	V;PRF+PROG;PST
+higda	magahigda	V;PROG;FUT
+batyag	nagbatyag na	V;PRF;PST
+batyag	batyag	V;NFIN
+batyag	nagabatyag	V;PRS
+batyag	nagabatyag na	V;PRF;PRS
+batyag	nagbatyag	V;PST
+batyag	magabatyag	V;PROG;FUT
+batyag	magabatyag pa	V;PRF+PROG;FUT
+batyag	nagabatyag pa	V;PRF+PROG;PRS
+batyag	magabatyag	V;FUT
+batyag	magabatyag na	V;PRF;FUT
+batyag	nagabatyag	V;PROG;PRS
+batyag	nagbatyag pa	V;PRF+PROG;PST
+batyag	nagbatyag	V;PROG;PST
+daog	nag-daog na	V;PRF;PST
+daog	nagadaog	V;PRS
+daog	nag-daog	V;PST
+daog	nag-daog pa	V;PRF+PROG;PST
+daog	nagadaog pa	V;PRF+PROG;PRS
+daog	magadaog	V;FUT
+daog	magadaog na	V;PRF;FUT
+daog	nagadaog na	V;PRF;PRS
+daog	magadaog	V;PROG;FUT
+daog	nagadaog	V;PROG;PRS
+daog	magadaog pa	V;PRF+PROG;FUT
+daog	nag-daog	V;PROG;PST
+daog	daog	V;NFIN
+buksan	pagabuksan na	V;PRF;FUT
+buksan	ginbuksan na	V;PRF;PST
+buksan	ginabuksan	V;PROG;PRS
+buksan	ginbuksan pa	V;PRF+PROG;PST
+buksan	pagabuksan	V;PROG;FUT
+buksan	ginabuksan	V;PRS
+buksan	ginabuksan na	V;PRF;PRS
+buksan	pagabuksan pa	V;PRF+PROG;FUT
+buksan	ginbuksan	V;PROG;PST
+buksan	ginabuksan pa	V;PRF+PROG;PRS
+buksan	pagabuksan	V;FUT
+buksan	buksan	V;NFIN
+buksan	ginbuksan	V;PST
+bakal	nagbakal	V;PST
+bakal	magabakal	V;FUT
+bakal	magabakal pa	V;PRF+PROG;FUT
+bakal	nagabakal na	V;PRF;PRS
+bakal	nagbakal na	V;PRF;PST
+bakal	bakal	V;NFIN
+bakal	nagbakal	V;PROG;PST
+bakal	nagbakal pa	V;PRF+PROG;PST
+bakal	nagabakal	V;PRS
+bakal	nagabakal pa	V;PRF+PROG;PRS
+bakal	magabakal	V;PROG;FUT
+bakal	nagabakal	V;PROG;PRS
+bakal	magabakal na	V;PRF;FUT
+sabat	ginsabat na	V;PRF;PST
+sabat	magasabat na	V;PRF;FUT
+sabat	sabat	V;NFIN
+sabat	ginasabat na	V;PRF;PRS
+sabat	ginasabat	V;PROG;PRS
+sabat	ginsabat	V;PST
+sabat	magasabat	V;PROG;FUT
+sabat	ginsabat	V;PROG;PST
+sabat	magasabat pa	V;PRF+PROG;FUT
+sabat	ginasabat pa	V;PRF+PROG;PRS
+sabat	ginasabat	V;PRS
+sabat	magasabat	V;FUT
+sabat	ginsabat pa	V;PRF+PROG;PST
+hulog/kahulog	mahulog pa	V;PRF+PROG;FUT
+hulog/kahulog	mahulog	V;PROG;FUT
+hulog/kahulog	nahulog	V;PST
+hulog/kahulog	nagakahulog	V;PROG;PRS
+hulog/kahulog	nagakahulog pa	V;PRF+PROG;PRS
+hulog/kahulog	nagakahulog	V;PROG;PST
+hulog/kahulog	nakagahulog pa	V;PRF+PROG;PST
+hulog/kahulog	hulog	V;NFIN
+hulog/kahulog	nagakahulog	V;PRS
+hulog/kahulog	mahulog na	V;PRF;FUT
+hulog/kahulog	nagakahulog na	V;PRF;PRS
+hulog/kahulog	mahulog	V;FUT
+hulog/kahulog	nahulog na	V;PRF;PST
+gua	naggua pa	V;PRF+PROG;PST
+gua	nagagua pa	V;PRF+PROG;PRS
+gua	naggua	V;PST
+gua	gua	V;NFIN
+gua	naggua	V;PROG;PST
+gua	magagua na	V;PRF;FUT
+gua	nagagua na	V;PRF;PRS
+gua	nagagua	V;PROG;PRS
+gua	naggua na	V;PRF;PST
+gua	magagua pa	V;PRF+PROG;FUT
+gua	magagua	V;PROG;FUT
+gua	magagua	V;FUT
+gua	nagagua	V;PRS
+saot	nagsaot	V;PST
+saot	magasaot pa	V;PRF+PROG;FUT
+saot	magasaot	V;PROG;FUT
+saot	magasaot	V;FUT
+saot	saot	V;NFIN
+saot	nagsaot pa	V;PRF+PROG;PST
+saot	nagasaot na	V;PRF;PRS
+saot	nagasaot	V;PRS
+saot	nagasaot pa	V;PRF+PROG;PRS
+saot	magasaot na	V;PRF;FUT
+saot	nagasaot	V;PROG;PRS
+saot	nagsaot	V;PROG;PST
+saot	nagsaot na	V;PRF;PST
+buka	ginbuka na	V;PRF;PST
+buka	ginabuka	V;PROG;PRS
+buka	ginabuka	V;PRS
+buka	buka	V;NFIN
+buka	pagabuka	V;PROG;FUT
+buka	pagabuka na	V;PRF;FUT
+buka	pagabuka	V;FUT
+buka	ginbuka	V;PST
+buka	ginabuka na	V;PRF;PRS
+buka	pagabuka pa	V;PRF+PROG;FUT
+buka	ginabuka pa	V;PRF+PROG;PRS
+buka	ginbuka pa	V;PRF+PROG;PST
+buka	ginbuka	V;PROG;PST
+tawag	nagatawag	V;PROG;PRS
+tawag	tawag	V;NFIN
+tawag	nagtawag pa	V;PRF+PROG;PST
+tawag	nagatawag na	V;PRF;PRS
+tawag	nagatawag pa	V;PRF+PROG;PRS
+tawag	magatawag na	V;PRF;FUT
+tawag	magatawag	V;FUT
+tawag	nagatawag	V;PRS
+tawag	nagtawag na	V;PRF;PST
+tawag	magatawag	V;PROG;FUT
+tawag	nagtawag	V;PST
+tawag	magatawag pa	V;PRF+PROG;FUT
+tawag	nagtawag	V;PROG;PST
+dula	gindula	V;PROG;PST
+dula	nadula	V;PRS
+dula	nadula na	V;PRF;PST
+dula	madula pa	V;PRF+PROG;FUT
+dula	madula na	V;PRF;FUT
+dula	gindula pa	V;PRF+PROG;PST
+dula	madula	V;PROG;FUT
+dula	madula	V;FUT
+dula	ginadula pa	V;PRF+PROG;PRS
+dula	ginadula	V;PROG;PRS
+dula	nadula	V;PST
+dula	nadula na	V;PRF;PRS
+dula	dula	V;NFIN
+tandog	nagtandog	V;PROG;PST
+tandog	tandog	V;NFIN
+tandog	nagtandog na	V;PRF;PST
+tandog	nagtandog	V;PST
+tandog	magatandog	V;FUT
+tandog	nagtandog pa	V;PRF+PROG;PST
+tandog	nagatandog na	V;PRF;PRS
+tandog	magatandog	V;PROG;FUT
+tandog	magatandog pa	V;PRF+PROG;FUT
+tandog	nagatandog pa	V;PRF+PROG;PRS
+tandog	nagatandog	V;PRS
+tandog	nagatandog	V;PROG;PRS
+tandog	magatandog na	V;PRF;FUT
+mangin/nangin	nangin	V;PRF+PROG;PST
+mangin/nangin	mangin	V;PRF;FUT
+mangin/nangin	mangin	V;FUT
+mangin/nangin	mangin	V;PRS
+mangin/nangin	mangin	V;PRF+PROG;FUT
+mangin/nangin	mangin	V;PROG;PRS
+mangin/nangin	nangin	V;PRF;PST
+mangin/nangin	nangin	V;PROG;PST
+mangin/nangin	nangin	V;PRF;PRS
+mangin/nangin	mangin	V;NFIN
+mangin/nangin	nangin	V;PST
+mangin/nangin	nangin	V;PRF+PROG;PRS
+mangin/nangin	mangin	V;PROG;FUT
+gamit	magagamit na	V;PRF;FUT
+gamit	naggamit pa	V;PRF+PROG;PST
+gamit	gamit	V;NFIN
+gamit	nagagamit na	V;PRF;PRS
+gamit	naggamit	V;PROG;PST
+gamit	magagamit pa	V;PRF+PROG;FUT
+gamit	naggamit na	V;PRF;PST
+gamit	naggamit	V;PST
+gamit	magagamit	V;FUT
+gamit	nagagamit pa	V;PRF+PROG;PRS
+gamit	magagamit	V;PROG;FUT
+gamit	nagagamit	V;PROG;PRS
+gamit	nagagamit	V;PRS
+sulod	magasulod	V;FUT
+sulod	nagasulod	V;PRS
+sulod	nagasulod	V;PROG;PRS
+sulod	nagsulod	V;PST
+sulod	magasulod	V;PROG;FUT
+sulod	nagsulod na	V;PRF;PST
+sulod	nagasulod na	V;PRF;PRS
+sulod	magasulod pa	V;PRF+PROG;FUT
+sulod	nagasulod pa	V;PRF+PROG;PRS
+sulod	magasulod na	V;PRF;FUT
+sulod	nagsulod	V;PROG;PST
+sulod	sulod	V;NFIN
+sulod	nagsulod pa	V;PRF+PROG;PST
+kallimtan	ginakallimtan	V;PROG;PRS
+kallimtan	ginkallimtan pa	V;PRF+PROG;PST
+kallimtan	ginkallimtan	V;PROG;PST
+kallimtan	ginakallimtan na	V;PRF;PRS
+kallimtan	kallimtan	V;NFIN
+kallimtan	ginakallimtan pa	V;PRF+PROG;PRS
+kallimtan	pagakallimtan	V;PROG;FUT
+kallimtan	pagakallimtan pa	V;PRF+PROG;FUT
+kallimtan	pagakallimtan na	V;PRF;FUT
+kallimtan	ginkallimtan na	V;PRF;PST
+kallimtan	ginakallimtan	V;PRS
+kallimtan	ginkallimtan	V;PST
+kallimtan	pagakallimtan	V;FUT
+abot	magaabot na	V;PRF;FUT
+abot	magaabot	V;FUT
+abot	nagaabot	V;PROG;PRS
+abot	abot	V;NFIN
+abot	nagaabot na	V;PRF;PRS
+abot	nag-abot	V;PST
+abot	nagaabot	V;PRS
+abot	magaabot	V;PROG;FUT
+abot	nag-abot pa	V;PRF+PROG;PST
+abot	nag-abot	V;PROG;PST
+abot	nag-abot na	V;PRF;PST
+abot	nagaabot pa	V;PRF+PROG;PRS
+abot	magaabot pa	V;PRF+PROG;FUT
+maka/naka	maka	V;PROG;FUT
+maka/naka	naka	V;PROG;PST
+maka/naka	maka	V;NFIN
+away	nag-away na	V;PRF;PST
+away	magaaway	V;FUT
+away	nag-away	V;PST
+away	nagaaway pa	V;PRF+PROG;PRS
+away	nagaaway	V;PROG;PRS
+away	magaaway pa	V;PRF+PROG;FUT
+away	nagaaway	V;PRS
+away	magaaway	V;PROG;FUT
+away	magaaway na	V;PRF;FUT
+away	away	V;NFIN
+away	nag-away pa	V;PRF+PROG;PST
+away	nag-away	V;PROG;PST
+away	nagaaway na	V;PRF;PRS
+tuon	magatuon	V;PROG;FUT
+tuon	magatuon	V;FUT
+tuon	nagatuon	V;PROG;PRS
+tuon	magatuon na	V;PRF;FUT
+tuon	nagatuon na	V;PRF;PRS
+tuon	nagtuon pa	V;PRF+PROG;PST
+tuon	nagatuon	V;PRS
+tuon	tuon	V;NFIN
+tuon	magatuon pa	V;PRF+PROG;FUT
+tuon	nagtuon	V;PST
+tuon	nagtuon	V;PROG;PST
+tuon	nagtuon na	V;PRF;PST
+tuon	nagatuon pa	V;PRF+PROG;PRS
+bulig/buligan	ginabuligan pa	V;PRF+PROG;PRS
+bulig/buligan	ginabuligan	V;PROG;PRS
+bulig/buligan	magabulig	V;PROG;FUT
+bulig/buligan	magabulig na	V;PRF;FUT
+bulig/buligan	ginabuligan	V;PRS
+bulig/buligan	ginbuligan	V;PROG;PST
+bulig/buligan	ginbuligan	V;PST
+bulig/buligan	magabulig pa	V;PRF+PROG;FUT
+bulig/buligan	bulig	V;NFIN
+bulig/buligan	ginbuligan na	V;PRF;PST
+bulig/buligan	ginbuligan pa	V;PRF+PROG;PST
+bulig/buligan	magabulig	V;FUT
+bulig/buligan	ginabuligan na	V;PRF;PRS
+hibi	nagahibi	V;PRS
+hibi	magahibi pa	V;PRF+PROG;FUT
+hibi	magahibi	V;FUT
+hibi	magahibi na	V;PRF;FUT
+hibi	nagahibi	V;PROG;PRS
+hibi	naghibi	V;PROG;PST
+hibi	nagahibi pa	V;PRF+PROG;PRS
+hibi	nagahibi na	V;PRF;PRS
+hibi	naghibi pa	V;PRF+PROG;PST
+hibi	magahibi	V;PROG;FUT
+hibi	naghibi	V;PST
+hibi	naghibi na	V;PRF;PST
+hibi	hibi	V;NFIN
+yuhom	nagayuhom	V;PROG;PRS
+yuhom	nagyuhom pa	V;PRF+PROG;PST
+yuhom	magayuhom pa	V;PRF+PROG;FUT
+yuhom	nagayuhom	V;PRS
+yuhom	nagyuhom	V;PST
+yuhom	magayuhom	V;FUT
+yuhom	nagyuhom	V;PROG;PST
+yuhom	nagyuhom na	V;PRF;PST
+yuhom	yuhom	V;NFIN
+yuhom	nagayuhom na	V;PRF;PRS
+yuhom	magayuhom	V;PROG;FUT
+yuhom	nagayuhom pa	V;PRF+PROG;PRS
+yuhom	magayuhom na	V;PRF;FUT
+baligya	nagbaligya	V;PROG;PST
+baligya	magabaligya	V;PROG;FUT
+baligya	baligya	V;NFIN
+baligya	nagabaligya	V;PRS
+baligya	nagbaligya pa	V;PRF+PROG;PST
+baligya	magabaligya	V;FUT
+baligya	nagabaligya	V;PROG;PRS
+baligya	nagabaligya na	V;PRF;PRS
+baligya	magabaligya pa	V;PRF+PROG;FUT
+baligya	nagbaligya na	V;PRF;PST
+baligya	nagbaligya	V;PST
+baligya	nagabaligya pa	V;PRF+PROG;PRS
+baligya	magabaligya na	V;PRF;FUT
+inom	magainom	V;PROG;FUT
+inom	magainom na	V;PRF;FUT
+inom	nag-inom pa	V;PRF+PROG;PST
+inom	nag-inom	V;PST
+inom	nag-inom	V;PROG;PST
+inom	nagainom na	V;PRF;PRS
+inom	nagainom	V;PROG;PRS
+inom	inom	V;NFIN
+inom	magainom	V;FUT
+inom	nag-inom na	V;PRF;PST
+inom	magainom pa	V;PRF+PROG;FUT
+inom	nagainom pa	V;PRF+PROG;PRS
+inom	nagainom	V;PRS
+aku	nag-aku	V;PROG;PST
+aku	ginaaku na	V;PRF;PRS
+aku	magaaku	V;PROG;FUT
+aku	ginaaku pa	V;PRF+PROG;PRS
+aku	nagaaku	V;PROG;PRS
+aku	nag-aku	V;PST
+aku	gin-aku na	V;PRF;PST
+aku	magaaku	V;FUT
+aku	gin-aku pa	V;PRF+PROG;PST
+aku	magaaku na	V;PRF;FUT
+aku	magaaku pa	V;PRF+PROG;FUT
+aku	nagaaku	V;PRS
+aku	aku	V;NFIN
+buhin	nagabuhin na	V;PRF;PRS
+buhin	nagabuhin	V;PRS
+buhin	nagabuhin pa	V;PRF+PROG;PRS
+buhin	nagbuhin	V;PROG;PST
+buhin	nagbuhin pa	V;PRF+PROG;PST
+buhin	magabuhin	V;PROG;FUT
+buhin	nagbuhin	V;PST
+buhin	nagabuhin	V;PROG;PRS
+buhin	magabuhin pa	V;PRF+PROG;FUT
+buhin	buhin	V;NFIN
+buhin	nagbuhin na	V;PRF;PST
+buhin	magabuhin	V;FUT
+buhin	magabuhin na	V;PRF;FUT
+pamati	nagpamati	V;PROG;PST
+pamati	nagapamati	V;PROG;PRS
+pamati	magapamati na	V;PRF;FUT
+pamati	nagapamati pa	V;PRF+PROG;PRS
+pamati	nagpamati pa	V;PRF+PROG;PST
+pamati	pamati	V;NFIN
+pamati	nagpamati	V;PST
+pamati	nagapamati na	V;PRF;PRS
+pamati	nagpamati na	V;PRF;PST
+pamati	magapamati	V;PROG;FUT
+pamati	magapamati	V;FUT
+pamati	magapamati pa	V;PRF+PROG;FUT
+pamati	nagapamati	V;PRS
+hambal	magahambal pa	V;PRF+PROG;FUT
+hambal	naghambal	V;PST
+hambal	magahambal	V;PROG;FUT
+hambal	nagahambal pa	V;PRF+PROG;PRS
+hambal	nagahambal	V;PROG;PRS
+hambal	magahambal	V;FUT
+hambal	naghambal	V;PROG;PST
+hambal	nagahambal na	V;PRF;PRS
+hambal	naghambal na	V;PRF;PST
+hambal	nagahambal	V;PRS
+hambal	hambal	V;NFIN
+hambal	naghambal pa	V;PRF+PROG;PST
+hambal	magahambal na	V;PRF;FUT
+sulat	nagsulat pa	V;PRF+PROG;PST
+sulat	nagsulat na	V;PRF;PST
+sulat	nagasulat	V;PRS
+sulat	nagasulat pa	V;PRF+PROG;PRS
+sulat	nagasulat	V;PROG;PRS
+sulat	magasulat na	V;PRF;FUT
+sulat	nagsulat	V;PST
+sulat	nagsulat	V;PROG;PST
+sulat	nagasulat na	V;PRF;PRS
+sulat	magasulat	V;FUT
+sulat	sulat	V;NFIN
+sulat	magasulat pa	V;PRF+PROG;FUT
+sulat	magasulat	V;PROG;FUT
+hatag	magahatag	V;FUT
+hatag	magahatag na	V;PRF;FUT
+hatag	nagahatag na	V;PRF;PRS
+hatag	naghatag na	V;PRF;PST
+hatag	hatag	V;NFIN
+hatag	nagahatag	V;PROG;PRS
+hatag	magahatag	V;PROG;FUT
+hatag	nagahatag pa	V;PRF+PROG;PRS
+hatag	naghatag	V;PROG;PST
+hatag	naghatag pa	V;PRF+PROG;PST
+hatag	naghatag	V;PST
+hatag	magahatag pa	V;PRF+PROG;FUT
+hatag	nagahatag	V;PRS
+dumdom	gindumdom	V;PST
+dumdom	gindumdom	V;PROG;PST
+dumdom	ginadumdom pa	V;PRF+PROG;PRS
+dumdom	ginadumdom	V;PRS
+dumdom	magadumdom	V;PROG;FUT
+dumdom	gindumdom pa	V;PRF+PROG;PST
+dumdom	ginadumdom na	V;PRF;PRS
+dumdom	magadumdom	V;FUT
+dumdom	magadumdom pa	V;PRF+PROG;FUT
+dumdom	gindumdom na	V;PRF;PST
+dumdom	dumdom	V;NFIN
+dumdom	ginadumdom	V;PROG;PRS
+dumdom	magadumdom na	V;PRF;FUT
+kuha	nagakuha pa	V;PRF+PROG;PRS
+kuha	magakuha	V;PROG;FUT
+kuha	kuha	V;NFIN
+kuha	nagakuha	V;PROG;PRS
+kuha	nagkuha pa	V;PRF+PROG;PST
+kuha	nagkuha	V;PROG;PST
+kuha	magakuha	V;FUT
+kuha	nagakuha na	V;PRF;PRS
+kuha	nagakuha	V;PRS
+kuha	nagkuha na	V;PRF;PST
+kuha	magakuha na	V;PRF;FUT
+kuha	magakuha pa	V;PRF+PROG;FUT
+kuha	nagkuha	V;PST
+tulog	nagtulog	V;PROG;PST
+tulog	nagtulog pa	V;PRF+PROG;PST
+tulog	magatulog	V;FUT
+tulog	nagatulog	V;PROG;PRS
+tulog	nagatulog na	V;PRF;PRS
+tulog	nagtulog	V;PST
+tulog	magatulog pa	V;PRF+PROG;FUT
+tulog	nagatulog	V;PRS
+tulog	nagtulog na	V;PRF;PST
+tulog	tulog	V;NFIN
+tulog	magatulog na	V;PRF;FUT
+tulog	magatulog	V;PROG;FUT
+tulog	nagatulog pa	V;PRF+PROG;PRS
+daw	daw	V;NFIN
+daw	daw	V;PRF;PST
+daw	daw	V;PST
+daw	daw	V;PRS
+daw	daw	V;PRF;PRS
+byahe	magabyahe	V;FUT
+byahe	magabyahe pa	V;PRF+PROG;FUT
+byahe	nagabyahe na	V;PRF;PRS
+byahe	nagbyahe	V;PST
+byahe	byahe	V;NFIN
+byahe	nagbyahe na	V;PRF;PST
+byahe	magabyahe na	V;PRF;FUT
+byahe	magabyahe	V;PROG;FUT
+byahe	nagbyahe	V;PROG;PST
+byahe	nagabyahe pa	V;PRF+PROG;PRS
+byahe	nagbyahe pa	V;PRF+PROG;PST
+byahe	nagabyahe	V;PRS
+byahe	nagabyahe	V;PROG;PRS
+hibalo/hibaluan	ginhibalo pa	V;PRF+PROG;PST
+hibalo/hibaluan	nahibaluan	V;PST
+hibalo/hibaluan	mahibaluan	V;FUT
+hibalo/hibaluan	nakahibalo	V;PRS
+hibalo/hibaluan	mahibaluan pa	V;PRF+PROG;FUT
+hibalo/hibaluan	hibalo	V;NFIN
+hibalo/hibaluan	mahibaluan	V;PROG;FUT
+hibalo/hibaluan	ginahibalo	V;PROG;PRS
+hibalo/hibaluan	nahibaluan na	V;PRF;PST
+hibalo/hibaluan	ginhibalo	V;PROG;PST
+hibalo/hibaluan	nahibaluan na	V;PRF;PRS
+hibalo/hibaluan	ginahibalo pa	V;PRF+PROG;PRS
+hibalo/hibaluan	magahibalo na	V;PRF;FUT
+istorya	magaistorya	V;FUT
+istorya	magaistorya na	V;PRF;FUT
+istorya	nagaistorya	V;PROG;PRS
+istorya	nagaistorya na	V;PRF;PRS
+istorya	magaistorya	V;PROG;FUT
+istorya	nag-istorya	V;PROG;PST
+istorya	magaistorya pa	V;PRF+PROG;FUT
+istorya	nag-istorya	V;PST
+istorya	nagaistorya	V;PRS
+istorya	nagaistorya pa	V;PRF+PROG;PRS
+istorya	nag-istorya pa	V;PRF+PROG;PST
+istorya	istorya	V;NFIN
+istorya	nag-istorya na	V;PRF;PST
+luto	magaluto pa	V;PRF+PROG;FUT
+luto	magaluto	V;PROG;FUT
+luto	nagluto	V;PST
+luto	nagluto pa	V;PRF+PROG;PST
+luto	magaluto na	V;PRF;FUT
+luto	nagaluto pa	V;PRF+PROG;PRS
+luto	nagluto	V;PROG;PST
+luto	nagaluto na	V;PRF;PRS
+luto	luto	V;NFIN
+luto	nagaluto	V;PROG;PRS
+luto	nagaluto	V;PRS
+luto	magaluto	V;FUT
+luto	nagluto na	V;PRF;PST
+kinahanglan	nagkinahanglan na	V;PRF;PST
+kinahanglan	magakinahanglan na	V;PRF;FUT
+kinahanglan	kinahanglan	V;NFIN
+kinahanglan	nagakinahanglan	V;PRS
+kinahanglan	nagakinahanglan	V;PROG;PRS
+kinahanglan	nagakinahanglan na	V;PRF;PRS
+kinahanglan	nagkinahanglan	V;PST
+kinahanglan	nagakinahanglan pa	V;PRF+PROG;PRS
+kinahanglan	magakinahanglan	V;PROG;FUT
+kinahanglan	magakinahanglan pa	V;PRF+PROG;FUT
+kinahanglan	nagkinahanglan	V;PROG;PST
+kinahanglan	magakinahanglan	V;FUT
+kinahanglan	nagkinahanglan pa	V;PRF+PROG;PST
+kaon	kaon	V;NFIN
+kaon	magakaon pa	V;PRF+PROG;FUT
+kaon	nagkaon	V;PROG;PST
+kaon	nagakaon pa	V;PRF+PROG;PRS
+kaon	nagakaon na	V;PRF;PRS
+kaon	magakaon	V;PROG;FUT
+kaon	nagkaon pa	V;PRF+PROG;PST
+kaon	nagkaon na	V;PRF;PST
+kaon	nagakaon	V;PRS
+kaon	magakaon na	V;PRF;FUT
+kaon	nagakaon	V;PROG;PRS
+kaon	nagkaon	V;PST
+kaon	magakaon	V;FUT
+talupangdan/talupangod/talupangdon	natalupangdan na	V;PRF;PRS
+talupangdan/talupangod/talupangdon	matalupangdon	V;FUT
+talupangdan/talupangod/talupangdon	gintalupangod pa	V;PRF+PROG;PST
+talupangdan/talupangod/talupangdon	natalupangdan na	V;PRF;PST
+talupangdan/talupangod/talupangdon	natalupangdan	V;PRS
+talupangdan/talupangod/talupangdon	ginatalupangod	V;PROG;PRS
+talupangdan/talupangod/talupangdon	matalupangdan na	V;PRF;FUT
+talupangdan/talupangod/talupangdon	natalupangdan	V;PST
+talupangdan/talupangod/talupangdon	talupangdan	V;NFIN
+talupangdan/talupangod/talupangdon	pagatalupangdon	V;PROG;FUT
+talupangdan/talupangod/talupangdon	gintalupangod	V;PROG;PST
+talupangdan/talupangod/talupangdon	pagatalupangdon pa	V;PRF+PROG;FUT
+talupangdan/talupangod/talupangdon	ginatalupangod pa	V;PRF+PROG;PRS
+tan-aw	magatan-aw	V;FUT
+tan-aw	nagatan-aw pa	V;PRF+PROG;PRS
+tan-aw	nagatan-aw na	V;PRF;PRS
+tan-aw	nagtan-aw na	V;PRF;PST
+tan-aw	magatan-aw pa	V;PRF+PROG;FUT
+tan-aw	magatan-aw	V;PROG;FUT
+tan-aw	nagatan-aw	V;PRS
+tan-aw	nagtan-aw	V;PST
+tan-aw	nagtan-aw pa	V;PRF+PROG;PST
+tan-aw	nagtan-aw	V;PROG;PST
+tan-aw	tan-aw	V;NFIN
+tan-aw	magatan-aw na	V;PRF;FUT
+tan-aw	nagatan-aw	V;PROG;PRS
+padala	nagpadala	V;PST
+padala	nagapadala	V;PROG;PRS
+padala	nagpadala pa	V;PRF+PROG;PST
+padala	nagapadala	V;PRS
+padala	nagpadala	V;PROG;PST
+padala	magapadala na	V;PRF;FUT
+padala	nagpadala na	V;PRF;PST
+padala	magapadala pa	V;PRF+PROG;FUT
+padala	nagapadala na	V;PRF;PRS
+padala	magapadala	V;FUT
+padala	padala	V;NFIN
+padala	magapadala	V;PROG;FUT
+padala	nagapadala pa	V;PRF+PROG;PRS
+maneho	maneho	V;NFIN
+maneho	magamaneho	V;FUT
+maneho	nagamaneho na	V;PRF;PRS
+maneho	nagamaneho	V;PROG;PRS
+maneho	nagmaneho	V;PST
+maneho	nagmaneho	V;PROG;PST
+maneho	magamaneho pa	V;PRF+PROG;FUT
+maneho	nagmaneho pa	V;PRF+PROG;PST
+maneho	magamaneho na	V;PRF;FUT
+maneho	nagmaneho na	V;PRF;PST
+maneho	nagamaneho	V;PRS
+maneho	magamaneho	V;PROG;FUT
+maneho	nagamaneho pa	V;PRF+PROG;PRS
