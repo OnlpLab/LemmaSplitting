@@ -1,6 +1,6 @@
 # The code is partially inspired by https://github.com/aladdinpersson/Machine-Learning-Collection/tree/master/ML/Pytorch/more_advanced/Seq2Seq_attention
 from copy import deepcopy
-from os import listdir, scandir
+from os import listdir
 from os.path import basename, isfile, join, split, splitext
 
 import matplotlib.ticker as ticker
@@ -21,6 +21,7 @@ device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 def print_and_log(log_file, string):
     print(string)
     open(log_file, 'a+', encoding='utf8').write(string + '\n')
+
 
 def translate_sentence(model, sentence, german, english, device, max_length=50, return_attn=False):
     assert type(sentence) == list
@@ -45,9 +46,11 @@ def translate_sentence(model, sentence, german, english, device, max_length=50, 
     for i in range(max_length):
         previous_word = torch.LongTensor([outputs[-1]]).to(device)
         with torch.no_grad():
-            output, hiddens, cells, attn = model.decoder(previous_word, outputs_encoder, hiddens, cells, return_attn=return_attn)
+            output, hiddens, cells, attn = model.decoder(previous_word, outputs_encoder, hiddens, cells,
+                                                         return_attn=return_attn)
             best_guess = output.argmax(1).item()
-            if return_attn: attention_matrix[i] = torch.cat((attn.squeeze(), torch.zeros(max_length - attn.shape[0]).to(device)), dim=0)
+            if return_attn: attention_matrix[i] = torch.cat(
+                (attn.squeeze(), torch.zeros(max_length - attn.shape[0]).to(device)), dim=0)
 
         outputs.append(best_guess)
 
@@ -112,6 +115,7 @@ def reinflection2sample(line, mode=REINFLECTION_STR):
         trg = ','.join(form)
     return src, trg
 
+
 def convert_file_to_tsv(file_name, new_file_name, mode):
     data = open(file_name, encoding='utf8').read().split('\n')
     data = [line.split('\t') for line in data]
@@ -158,39 +162,26 @@ def get_languages_and_paths(data_dir=''):
     :param data_dir:
     :return:
     """
-    train_dirs = ['DEVELOPMENT-LANGUAGES', 'SURPRISE-LANGUAGES']
-    test_dir = 'GOLD-TEST'
-    train_dirs, test_dir = [join(data_dir, d) for d in train_dirs], join(data_dir, test_dir)
-    print(f"Requirements: this script must have the same path as the folders of SIGMORPHON"
-          f" (SURPRISE-LANG., GOLD-TEST, etc.). The data folder's name should be {data_dir}.\n")
+    develop_paths, surprise_paths, test_paths = {}, {}, {}
+    lang2family = {}  # a dictionary that indicates the family of every language
 
-    test_paths = listdir(test_dir)
-    langs = [splitext(p)[0] for p in test_paths]
-    test_paths = {l: p for l, p in zip(langs, [join(test_dir, s) for s in test_paths])}
-
-    dev_families = [f.path for f in scandir(train_dirs[0]) if f.is_dir()]
-    surprise_families = [f.path for f in scandir(train_dirs[1]) if f.is_dir()]
-
-    dev_families.sort()
-    surprise_families.sort()
-
-    develop_paths, surprise_paths, test_no_gold_paths = {}, {}, {}
-    language2family = {}
-    for family in dev_families + surprise_families:
-        for file in listdir(family):
-            language, ext = splitext(file)
-            file = join(family, file)
+    for family in listdir(data_dir):
+        family_folder_path = join(data_dir, family)
+        for file_name in listdir(family_folder_path):
+            lang, ext = splitext(file_name)
+            file_name = join(family_folder_path, file_name)
             if ext == '.trn':
-                develop_paths[language] = file
+                develop_paths[lang] = file_name
             elif ext == '.dev':
-                surprise_paths[language] = file
+                surprise_paths[lang] = file_name
             elif ext == '.tst':
-                test_no_gold_paths[language] = file
+                test_paths[lang] = file_name
             family_name = split(family)[1]
-            if language not in language2family: language2family[language] = family_name
+            if lang not in lang2family: lang2family[lang] = family_name
 
+    langs = lang2family.keys()
     files_paths = {k: (develop_paths[k], surprise_paths[k], test_paths[k]) for k in langs}
-    return langs, files_paths, language2family
+    return langs, files_paths, lang2family
 
 
 def showAttention(input_sentence, output_words, attentions, fig_name="Attention Weights.png"):
@@ -209,6 +200,7 @@ def showAttention(input_sentence, output_words, attentions, fig_name="Attention 
     ax.yaxis.set_major_locator(ticker.MultipleLocator(1))
     # plt.show()
     plt.savefig(fig_name)
+
 
 def save_run_results_figure(file_path, edit_distances, accuracies):
     plt.figure()

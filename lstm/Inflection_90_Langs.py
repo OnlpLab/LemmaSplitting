@@ -5,7 +5,7 @@ import numpy as np
 import torch
 import torch.nn as nn
 import torch.optim as optim
-from os import mkdir
+from os import mkdir, makedirs
 from os.path import join, exists
 import pandas as pd
 
@@ -36,7 +36,7 @@ for j, language in enumerate(languages):
                             f" from Family={language2family[language]}, at {str(datetime.now())}\n")
 
     outputs_dir = join('SIG20', training_mode, language)
-    if not exists(join('SIG20', training_mode)): mkdir(join('SIG20', training_mode))
+    if not exists(join('SIG20', training_mode)): makedirs(join('SIG20', training_mode))
     # Add here the datasets creation, using TabularIterator (add custom functions for that)
     train_file, test_file = reinflection2TSV(files_paths[language], dir_name=tsv_dir, mode=INFLECTION_STR)
     train_data, test_data = TabularDataset.splits(path="", train=train_file, test=test_file,
