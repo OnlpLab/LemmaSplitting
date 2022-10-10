@@ -1,8 +1,8 @@
 import codecs
 import random
 from collections import defaultdict
-from os import listdir, scandir, mkdir
-from os.path import join, splitext, split, isdir
+from os import listdir, mkdir, scandir
+from os.path import isdir, join, split, splitext
 
 import numpy as np
 
@@ -96,7 +96,8 @@ def write_dataset(p, dataset):
 
 
 if __name__ == '__main__':
-    form_split_data_folder, lemma_split_folder = join('DataExperiments', 'FormSplit'), join('DataExperiments', 'GeneratedLemmaSplits')
+    form_split_data_folder = join('DataExperiments', 'FormSplit')
+    lemma_split_folder = join('DataExperiments', 'GeneratedLemmaSplits')
     train_dirs, test_dir = ['DEVELOPMENT-LANGUAGES', 'SURPRISE-LANGUAGES'], 'GOLD-TEST'
     train_dirs, test_dir = [join(form_split_data_folder, p) for p in train_dirs], join(form_split_data_folder, test_dir)
 
@@ -124,7 +125,8 @@ if __name__ == '__main__':
 
     print("Intersections between train, dev & test sets for each of the 90 languages:")
     for i, lang in enumerate(langs):
-        result = check_lemma_split(train_paths_map[lang], dev_paths_map[lang], test_paths_map[lang])  # returns a triplet
+        result = check_lemma_split(train_paths_map[lang], dev_paths_map[lang],
+                                   test_paths_map[lang])  # returns a triplet
         inter1, inter2, inter3 = ["Non-Empty" if e else "Empty" for e in result]
         print(f"{i + 1}. {lang} => {(inter1, inter2, inter3)}")
 
